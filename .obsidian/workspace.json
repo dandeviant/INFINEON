@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cisco/some basic Cisco stuffs to learn.md",
+                "file": "Cisco/hello.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cisco/some basic Cisco stuffs to learn.md",
+                "file": "Cisco/hello.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cisco/some basic Cisco stuffs to learn.md",
+                "file": "Cisco/hello.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cisco/some basic Cisco stuffs to learn.md"
+                "file": "Cisco/hello.md"
               }
             }
           },
@@ -156,13 +156,14 @@
   },
   "active": "12cf276997f9ba21",
   "lastOpenFiles": [
+    "Cisco/some basic Cisco stuffs to learn.md",
+    "Cisco/hello.md",
+    "センチメートル - 7!!.md",
     "README.md",
     "Untitled.canvas",
-    "センチメートル - 7!!.md",
     "Linuxing time/basic protocols.md",
     "Linuxing time/Bash Redirection - The Basics.md",
     "Linuxing time/Mr Robot stuffs.md",
-    "Cisco/some basic Cisco stuffs to learn.md",
     "Linuxing time/how to linux.md",
     "Linuxing time/Security and shit.md",
     "Protocols and shit/SSL - Secure Socket Layer.md",
