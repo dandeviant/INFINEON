@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "センチメートル - 7!!.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -154,11 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "833477912c45244c",
+  "active": "12cf276997f9ba21",
   "lastOpenFiles": [
-    "README.md",
-    "センチメートル - 7!!.md",
     "Cisco/hello.md",
+    "センチメートル - 7!!.md",
+    "README.md",
     "Cisco/some basic Cisco stuffs to learn.md",
     "Untitled.canvas",
     "Linuxing time/basic protocols.md",
