@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "8c4bef5f11c7be35",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a62022e68c60372",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "833477912c45244c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cisco/some basic Cisco stuffs to learn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02cc8a9076a069f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "866708fc304c43cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c3e306f7d54c63f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2da2acb05e84c71a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e166d3bad36c2be3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ae7d11b7469d2cbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec31a477f6721fe6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f8601153a1d9178",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cisco/some basic Cisco stuffs to learn.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "edad79afced3f848",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cisco/some basic Cisco stuffs to learn.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "44102ca55d3ffd18",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "82c99fed826ad9f3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cisco/some basic Cisco stuffs to learn.md"
+              }
+            }
+          },
+          {
+            "id": "12cf276997f9ba21",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "833477912c45244c",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "センチメートル - 7!!.md",
+    "Linuxing time/basic protocols.md",
+    "Linuxing time/Bash Redirection - The Basics.md",
+    "Linuxing time/Mr Robot stuffs.md",
+    "Cisco/some basic Cisco stuffs to learn.md",
+    "Linuxing time/how to linux.md",
+    "Linuxing time/Security and shit.md",
+    "Protocols and shit/SSL - Secure Socket Layer.md",
+    "Protocols and shit",
+    "Basic Python.md",
+    "Pasted image 20231030143551.png",
+    "Cisco",
+    "Linuxing time",
+    "hello, friend.....md"
+  ]
+}
