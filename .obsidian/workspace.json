@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "センチメートル - 7!!.md",
-                "mode": "preview",
+                "file": "Cisco/some basic Cisco stuffs to learn.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "センチメートル - 7!!.md",
+                "file": "Cisco/some basic Cisco stuffs to learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "センチメートル - 7!!.md",
+                "file": "Cisco/some basic Cisco stuffs to learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "センチメートル - 7!!.md"
+                "file": "Cisco/some basic Cisco stuffs to learn.md"
               }
             }
           },
@@ -154,21 +154,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12cf276997f9ba21",
+  "active": "833477912c45244c",
   "lastOpenFiles": [
-    "Cisco/hello.md",
-    "センチメートル - 7!!.md",
-    "README.md",
-    "Cisco/some basic Cisco stuffs to learn.md",
-    "Untitled.canvas",
+    "Linuxing time/how to linux.md",
+    "Linuxing time/Mr Robot stuffs.md",
     "Linuxing time/basic protocols.md",
     "Linuxing time/Bash Redirection - The Basics.md",
-    "Linuxing time/Mr Robot stuffs.md",
-    "Linuxing time/how to linux.md",
     "Linuxing time/Security and shit.md",
+    "README.md",
+    "Basic Python.md",
+    "Cisco/some basic Cisco stuffs to learn.md",
+    "センチメートル - 7!!.md",
+    "Cisco/hello.md",
+    "Untitled.canvas",
     "Protocols and shit/SSL - Secure Socket Layer.md",
     "Protocols and shit",
-    "Basic Python.md",
     "Pasted image 20231030143551.png",
     "Cisco",
     "Linuxing time",
