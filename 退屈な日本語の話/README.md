@@ -4,6 +4,6 @@
 
 ---
 
-Just some notes I made while fuckin around and read/learn new Japanese stuffs
+Just some notes I made while fuckin around and read/learn new Japanese stuffs \
 Ignore this if you're not Daniel
 
