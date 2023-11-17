@@ -2,7 +2,7 @@
 
 > p.s.
 > 
-> not including those network theoretical things like OSPF and shit. This is not university, alright? Just the important things you in your daily operation.
+> not including those network theoretical things like OSPF and shit. This is not university, alright? Just the important things you use in your daily operation.
 > 
 ---
 

@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語を分からないよ.md",
-                "mode": "source",
+                "file": "Cisco/some basic Cisco stuffs to learn.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語を分からないよ.md",
+                "file": "Cisco/some basic Cisco stuffs to learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語を分からないよ.md",
+                "file": "Cisco/some basic Cisco stuffs to learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本語を分からないよ.md"
+                "file": "Cisco/some basic Cisco stuffs to learn.md"
               }
             }
           },
@@ -169,8 +169,8 @@
   },
   "active": "1cda985dd2bf6916",
   "lastOpenFiles": [
-    "README.md",
     "日本語を分からないよ.md",
+    "README.md",
     "Linuxing time/Linux Security and shit.md",
     "Linuxing time/how to linux.md",
     "Linuxing time/basic protocols.md",
