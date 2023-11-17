@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cisco/some basic Cisco stuffs to learn.md",
+                "file": "Linuxing time/Linux Security and shit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1cda985dd2bf6916",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日本語を分からないよ.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cisco/some basic Cisco stuffs to learn.md",
+                "file": "日本語を分からないよ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cisco/some basic Cisco stuffs to learn.md",
+                "file": "日本語を分からないよ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cisco/some basic Cisco stuffs to learn.md"
+                "file": "日本語を分からないよ.md"
               }
             }
           },
@@ -154,16 +167,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "833477912c45244c",
+  "active": "1cda985dd2bf6916",
   "lastOpenFiles": [
+    "README.md",
+    "日本語を分からないよ.md",
+    "Linuxing time/Linux Security and shit.md",
     "Linuxing time/how to linux.md",
-    "Linuxing time/Mr Robot stuffs.md",
     "Linuxing time/basic protocols.md",
     "Linuxing time/Bash Redirection - The Basics.md",
-    "Linuxing time/Security and shit.md",
-    "README.md",
-    "Basic Python.md",
+    "Linuxing time/Mr Robot stuffs.md",
     "Cisco/some basic Cisco stuffs to learn.md",
+    "Basic Python.md",
     "センチメートル - 7!!.md",
     "Cisco/hello.md",
     "Untitled.canvas",
