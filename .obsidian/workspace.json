@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "退屈な日本語の話/今日は何日か？.md",
+                "file": "Cisco/some basic Cisco stuffs to learn.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "退屈な日本語の話/今日は何日か？.md",
+                "file": "Cisco/some basic Cisco stuffs to learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "退屈な日本語の話/今日は何日か？.md",
+                "file": "Cisco/some basic Cisco stuffs to learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "退屈な日本語の話/今日は何日か？.md"
+                "file": "Cisco/some basic Cisco stuffs to learn.md"
               }
             }
           },
@@ -162,30 +162,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "833477912c45244c",
+  "active": "0c3e306f7d54c63f",
   "lastOpenFiles": [
-    "Pasted image 20231121132922.png",
-    "Pasted image 20231121132910.png",
-    "Linuxing time/File and Directory Management.md",
-    "Linuxing time/Bash Redirection - The Basics.md",
-    "退屈な日本語の話/今日は何日か？.md",
-    "Linuxing time/Linux Security and shit.md",
-    "退屈な日本語の話/センチメートル - 7!!.md",
-    "退屈な日本語の話/README.md",
-    "README.md",
-    "退屈な日本語の話",
-    "Cisco/some basic Cisco stuffs to learn.md",
-    "Linuxing time/how to linux.md",
-    "Linuxing time/basic protocols.md",
-    "Linuxing time/Mr Robot stuffs.md",
-    "Basic Python.md",
-    "Cisco/hello.md",
-    "Untitled.canvas",
-    "Protocols and shit/SSL - Secure Socket Layer.md",
-    "Protocols and shit",
-    "Pasted image 20231030143551.png",
-    "Cisco",
-    "Linuxing time",
-    "hello, friend.....md"
+    "Older Notes/how to hack the FBI/1. Others/Kali Linux/Configuring Linux/Change Username.md",
+    "Older Notes/how to hack the FBI/1. Others/Kali Linux/Configuring Linux/Change Hostname.md",
+    "Older Notes/Programming 101/It's Programming Time/Rust/Rust's Hello World.md",
+    "Older Notes/Programming 101/It's Programming Time/Python/If ... else Conditions.md",
+    "Older Notes/how to hack the FBI/1. Others/Remote Connection/Secure Shell (SSH).md",
+    "Older Notes/All About Linux/Linux Containers and Docker/Guide on Docker - C Side/C Server MySQL.md",
+    "Older Notes/Programming 101/It's Programming Time/Python/1. Make python executable.md",
+    "Older Notes/Programming 101/It's Programming Time/Bash Scripting/2. Bash If...Else Statements.md",
+    "Older Notes/Programming 101/It's Programming Time/Bash Scripting/1. Bash Print, Input and Variables.md",
+    "Older Notes/how to hack the FBI/Web Applications Hacking/Burp Suite CE (try not to use it)/3. Burp Proxy.md",
+    "Older Notes/how to hack the FBI/Web Applications Hacking/Burp Suite CE (try not to use it)/2. Burp suite Interfaces.md",
+    "Older Notes/how to hack the FBI/Web Applications Hacking/Burp Suite CE (try not to use it)/1. Burp Suite 101.md",
+    "Older Notes/how to hack the FBI/Vuln. Exploitation/Metasploit/3. msf modules.md",
+    "Older Notes/how to hack the FBI/Vuln. Exploitation/Metasploit/1. Metasploit command syntax.md",
+    "Older Notes/how to hack the FBI/Vuln. Exploitation/Metasploit/2. msf database.md",
+    "Older Notes/how to hack the FBI/Images and Media Attachments/searchsploit/searchsploit list.png",
+    "Older Notes/how to hack the FBI/Images and Media Attachments/searchsploit/searchsploit info.png",
+    "Older Notes/how to hack the FBI/Images and Media Attachments/msf images/msf vulns.png",
+    "Older Notes/how to hack the FBI/Images and Media Attachments/msf images/msf services.png",
+    "Older Notes/how to hack the FBI/Images and Media Attachments/msf images/msf select.png",
+    "Older Notes/how to hack the FBI/Images and Media Attachments/msf images/msf hosts.png",
+    "Older Notes/how to hack the FBI/Images and Media Attachments/burp suite/trust proxy.png",
+    "Older Notes/how to hack the FBI/Images and Media Attachments/burp suite/foxyproxy.png",
+    "Older Notes/how to hack the FBI/Images and Media Attachments/burp suite/certs proxy.png",
+    "Older Notes/how to hack the FBI/1. Others/Remote Connection/Secure Shell (SSH) Pubic Key Authentication.md",
+    "Older Notes/All About Linux/Linux Containers and Docker/Guide on Docker - C Side/Installing Ubuntu container for C.md",
+    "Older Notes/how to hack the FBI/1. Others/Kali Linux/Oh My ZSH - Custom terminal theme.md",
+    "Older Notes/how to hack the FBI/1. Others/Kali Linux/Save Output of a Command to a Text File.md",
+    "Older Notes/how to hack the FBI/1. Others/Kali Linux/Fresh Installing Kali Linux.md",
+    "Older Notes/how to hack the FBI/1. Others/Kali Linux/Configuring Linux",
+    "Older Notes/how to hack the FBI/1. Others/Extra Stuffs/Searchsploit.md",
+    "Older Notes/how to hack the FBI/1. Others/Cheat Sheets/SQL Injection Authen. for Burp.md",
+    "Older Notes/how to hack the FBI/1. Others/Extra Stuffs/robots.txt beep boop.md",
+    "Older Notes/how to hack the FBI/1. Others/2. CTF and THM writeups/TryHackMe Reverse Engineering.md",
+    "Older Notes/how to hack the FBI/1. Others/2. CTF and THM writeups/TryHackMe Red Team Recon - recon-ng.md",
+    "Older Notes/how to hack the FBI/1. Others/2. CTF and THM writeups/TryHackMe Encryption.md",
+    "Older Notes/Programming 101/It's Programming Time/Rust",
+    "Older Notes/Programming 101/It's Programming Time/Python",
+    "Older Notes/Programming 101/It's Programming Time/Bash Scripting",
+    "Older Notes/how to hack the FBI/Web Applications Hacking/Burp Suite CE (try not to use it)",
+    "Older Notes/how to hack the FBI/Vuln. Exploitation/Metasploit",
+    "Older Notes/how to hack the FBI/Images and Media Attachments/searchsploit",
+    "Older Notes/how to hack the FBI/Images and Media Attachments/robots.png",
+    "Older Notes/how to hack the FBI/Images and Media Attachments/msf images",
+    "Older Notes/how to hack the FBI/Images and Media Attachments/burp suite",
+    "Older Notes/how to hack the FBI/1. Others/Remote Connection",
+    "Untitled.canvas"
   ]
 }

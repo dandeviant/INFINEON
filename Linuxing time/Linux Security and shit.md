@@ -1,7 +1,7 @@
 
 ---
 
-#### 1. File Security and all that CIA stuffs
+### 1. File Security
 
 #### 1.1 Hashing stuffs
 
