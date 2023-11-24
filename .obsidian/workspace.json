@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cisco/some basic Cisco stuffs to learn.md",
-                "mode": "source",
+                "file": "退屈な日本語の話/今日は何日か？.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cisco/some basic Cisco stuffs to learn.md",
+                "file": "退屈な日本語の話/今日は何日か？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cisco/some basic Cisco stuffs to learn.md",
+                "file": "退屈な日本語の話/今日は何日か？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cisco/some basic Cisco stuffs to learn.md"
+                "file": "退屈な日本語の話/今日は何日か？.md"
               }
             }
           },
@@ -164,21 +164,34 @@
   },
   "active": "0c3e306f7d54c63f",
   "lastOpenFiles": [
+    "Protocols and shit/SSL - Secure Socket Layer.md",
+    "退屈な日本語の話/今日は何日か？.md",
+    "Cisco/Cisco CCNA R&S/Terminal Cheat Sheet.md",
+    "Cisco/Cisco CCNA R&S/CCNA Terminology.md",
+    "Cisco/Cisco CCNA R&S/6. EtherChannel/2. Configure EtherChannel.md",
+    "Cisco/Cisco CCNA R&S/6. EtherChannel/1. EtherChannel Operation.md",
+    "Cisco/Cisco CCNA R&S/1. Basic Switch Configuration/1.3 Secure Remote Access.md",
+    "Cisco/Cisco CCNA R&S/1. Basic Switch Configuration/1.2 Configure switch ports.md",
+    "Cisco/Cisco CCNA R&S/3. VLANs/3.3. VLAN Configuration.md",
+    "Cisco/Cisco CCNA R&S/3. VLANs/3.4 VLAN Trunk Configuration.md",
+    "Cisco/Cisco CCNA R&S/1. Basic Switch Configuration/1.4 Basic Router Configuration.md",
+    "Cisco/Cisco CCNA R&S/1. Basic Switch Configuration/1.1 Cisco IOS modes.md",
+    "Older Notes/Programming 101/It's Programming Time/Bash Scripting/2. Bash If...Else Statements.md",
+    "Older Notes/Programming 101/It's Programming Time/Bash Scripting/1. Bash Print, Input and Variables.md",
+    "Older Notes/README.md",
+    "Older Notes/Programming 101/Git Gud/Git CLI using Shell.md",
+    "Basic Python.md",
+    "Pasted image 20231121132910.png",
+    "Pasted image 20231121132922.png",
+    "Cisco/some basic Cisco stuffs to learn.md",
     "Older Notes/how to hack the FBI/1. Others/Kali Linux/Configuring Linux/Change Username.md",
     "Older Notes/how to hack the FBI/1. Others/Kali Linux/Configuring Linux/Change Hostname.md",
     "Older Notes/Programming 101/It's Programming Time/Rust/Rust's Hello World.md",
     "Older Notes/Programming 101/It's Programming Time/Python/If ... else Conditions.md",
     "Older Notes/how to hack the FBI/1. Others/Remote Connection/Secure Shell (SSH).md",
-    "Older Notes/All About Linux/Linux Containers and Docker/Guide on Docker - C Side/C Server MySQL.md",
+    "Linuxing time/All About Linux/Linux Containers and Docker/Guide on Docker - C Side/C Server MySQL.md",
     "Older Notes/Programming 101/It's Programming Time/Python/1. Make python executable.md",
-    "Older Notes/Programming 101/It's Programming Time/Bash Scripting/2. Bash If...Else Statements.md",
-    "Older Notes/Programming 101/It's Programming Time/Bash Scripting/1. Bash Print, Input and Variables.md",
     "Older Notes/how to hack the FBI/Web Applications Hacking/Burp Suite CE (try not to use it)/3. Burp Proxy.md",
-    "Older Notes/how to hack the FBI/Web Applications Hacking/Burp Suite CE (try not to use it)/2. Burp suite Interfaces.md",
-    "Older Notes/how to hack the FBI/Web Applications Hacking/Burp Suite CE (try not to use it)/1. Burp Suite 101.md",
-    "Older Notes/how to hack the FBI/Vuln. Exploitation/Metasploit/3. msf modules.md",
-    "Older Notes/how to hack the FBI/Vuln. Exploitation/Metasploit/1. Metasploit command syntax.md",
-    "Older Notes/how to hack the FBI/Vuln. Exploitation/Metasploit/2. msf database.md",
     "Older Notes/how to hack the FBI/Images and Media Attachments/searchsploit/searchsploit list.png",
     "Older Notes/how to hack the FBI/Images and Media Attachments/searchsploit/searchsploit info.png",
     "Older Notes/how to hack the FBI/Images and Media Attachments/msf images/msf vulns.png",
@@ -187,26 +200,13 @@
     "Older Notes/how to hack the FBI/Images and Media Attachments/msf images/msf hosts.png",
     "Older Notes/how to hack the FBI/Images and Media Attachments/burp suite/trust proxy.png",
     "Older Notes/how to hack the FBI/Images and Media Attachments/burp suite/foxyproxy.png",
-    "Older Notes/how to hack the FBI/Images and Media Attachments/burp suite/certs proxy.png",
-    "Older Notes/how to hack the FBI/1. Others/Remote Connection/Secure Shell (SSH) Pubic Key Authentication.md",
-    "Older Notes/All About Linux/Linux Containers and Docker/Guide on Docker - C Side/Installing Ubuntu container for C.md",
-    "Older Notes/how to hack the FBI/1. Others/Kali Linux/Oh My ZSH - Custom terminal theme.md",
-    "Older Notes/how to hack the FBI/1. Others/Kali Linux/Save Output of a Command to a Text File.md",
-    "Older Notes/how to hack the FBI/1. Others/Kali Linux/Fresh Installing Kali Linux.md",
     "Older Notes/how to hack the FBI/1. Others/Kali Linux/Configuring Linux",
-    "Older Notes/how to hack the FBI/1. Others/Extra Stuffs/Searchsploit.md",
-    "Older Notes/how to hack the FBI/1. Others/Cheat Sheets/SQL Injection Authen. for Burp.md",
-    "Older Notes/how to hack the FBI/1. Others/Extra Stuffs/robots.txt beep boop.md",
-    "Older Notes/how to hack the FBI/1. Others/2. CTF and THM writeups/TryHackMe Reverse Engineering.md",
-    "Older Notes/how to hack the FBI/1. Others/2. CTF and THM writeups/TryHackMe Red Team Recon - recon-ng.md",
-    "Older Notes/how to hack the FBI/1. Others/2. CTF and THM writeups/TryHackMe Encryption.md",
     "Older Notes/Programming 101/It's Programming Time/Rust",
     "Older Notes/Programming 101/It's Programming Time/Python",
     "Older Notes/Programming 101/It's Programming Time/Bash Scripting",
     "Older Notes/how to hack the FBI/Web Applications Hacking/Burp Suite CE (try not to use it)",
     "Older Notes/how to hack the FBI/Vuln. Exploitation/Metasploit",
     "Older Notes/how to hack the FBI/Images and Media Attachments/searchsploit",
-    "Older Notes/how to hack the FBI/Images and Media Attachments/robots.png",
     "Older Notes/how to hack the FBI/Images and Media Attachments/msf images",
     "Older Notes/how to hack the FBI/Images and Media Attachments/burp suite",
     "Older Notes/how to hack the FBI/1. Others/Remote Connection",
