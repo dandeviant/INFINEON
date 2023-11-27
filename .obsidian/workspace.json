@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "退屈な日本語の話/Daily Sentences/お仕事タイム！.md",
-                "mode": "preview",
+                "file": "退屈な日本語の話/Vocab and new words for u to learn/春夏秋冬 - Weather, seasons and nature.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "退屈な日本語の話/Daily Sentences/お仕事タイム！.md",
+                "file": "退屈な日本語の話/Vocab and new words for u to learn/春夏秋冬 - Weather, seasons and nature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "退屈な日本語の話/Daily Sentences/お仕事タイム！.md",
+                "file": "退屈な日本語の話/Vocab and new words for u to learn/春夏秋冬 - Weather, seasons and nature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "退屈な日本語の話/Daily Sentences/お仕事タイム！.md"
+                "file": "退屈な日本語の話/Vocab and new words for u to learn/春夏秋冬 - Weather, seasons and nature.md"
               }
             }
           },
@@ -164,8 +164,9 @@
   },
   "active": "833477912c45244c",
   "lastOpenFiles": [
+    "退屈な日本語の話/Daily Sentences/お仕事アワー！.md",
+    "退屈な日本語の話/Vocab and new words for u to learn/春夏秋冬 - Weather, seasons and nature.md",
     "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Dates and Days.md",
-    "退屈な日本語の話/Daily Sentences/お仕事タイム！.md",
     "退屈な日本語の話/Daily Sentences",
     "退屈な日本語の話/Vocab and new words for u to learn",
     "退屈な日本語の話/Grammar",
@@ -194,7 +195,6 @@
     "Older Notes/Programming 101/It's Programming Time/Rust/Rust's Hello World.md",
     "Older Notes/Programming 101/It's Programming Time/Python/If ... else Conditions.md",
     "Older Notes/how to hack the FBI/1. Others/Remote Connection/Secure Shell (SSH).md",
-    "Linuxing time/All About Linux/Linux Containers and Docker/Guide on Docker - C Side/C Server MySQL.md",
     "Older Notes/how to hack the FBI/Images and Media Attachments/searchsploit/searchsploit list.png",
     "Older Notes/how to hack the FBI/Images and Media Attachments/searchsploit/searchsploit info.png",
     "Older Notes/how to hack the FBI/Images and Media Attachments/msf images/msf vulns.png",
