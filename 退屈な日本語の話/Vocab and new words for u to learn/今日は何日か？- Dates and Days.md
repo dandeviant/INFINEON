@@ -68,7 +68,18 @@
 
 | 漢字 | ひらがな | English |
 | --- | --- | --- |
-|今日	|きょう 		|today	
+| 朝 | あさ | Morning | 
+| 午後 | ごご | Afternoon |
+| 夜 | よる | Night | 
+|今朝 | けさ | this morning | 
+|今夜 | こんや | tonight, this evening | 
+
+---
+
+| 漢字 | ひらがな | English |
+| --- | --- | --- |
+| 今回 | こんかい | Now, this time
+|今日	|きょう 		|today	|
 |昨日 	|きのう		|yesterday
 |一昨日 	|おととい		|the day before yesterday
 |明日 	|あした		|tomorrow

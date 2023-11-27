@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "退屈な日本語の話/Vocab and new words for u to learn/春夏秋冬 - Weather, seasons and nature.md",
-                "mode": "source",
+                "file": "Cisco/Cisco CCNA R&S/6. EtherChannel/1. EtherChannel Operation.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "退屈な日本語の話/Vocab and new words for u to learn/春夏秋冬 - Weather, seasons and nature.md",
+                "file": "Cisco/Cisco CCNA R&S/6. EtherChannel/1. EtherChannel Operation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "退屈な日本語の話/Vocab and new words for u to learn/春夏秋冬 - Weather, seasons and nature.md",
+                "file": "Cisco/Cisco CCNA R&S/6. EtherChannel/1. EtherChannel Operation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "退屈な日本語の話/Vocab and new words for u to learn/春夏秋冬 - Weather, seasons and nature.md"
+                "file": "Cisco/Cisco CCNA R&S/6. EtherChannel/1. EtherChannel Operation.md"
               }
             }
           },
@@ -164,13 +164,14 @@
   },
   "active": "833477912c45244c",
   "lastOpenFiles": [
-    "退屈な日本語の話/Daily Sentences/お仕事アワー！.md",
-    "退屈な日本語の話/Vocab and new words for u to learn/春夏秋冬 - Weather, seasons and nature.md",
     "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Dates and Days.md",
+    "退屈な日本語の話/Vocab and new words for u to learn/恵義と反対語 - Adjectives and Antonym.md",
+    "退屈な日本語の話/Vocab and new words for u to learn/春夏秋冬 - Weather, seasons and nature.md",
+    "退屈な日本語の話/センチメートル - 7!!.md",
+    "退屈な日本語の話/Daily Sentences/お仕事アワー！.md",
     "退屈な日本語の話/Daily Sentences",
     "退屈な日本語の話/Vocab and new words for u to learn",
     "退屈な日本語の話/Grammar",
-    "退屈な日本語の話/センチメートル - 7!!.md",
     "Protocols and shit/SSL - Secure Socket Layer.md",
     "Cisco/Cisco CCNA R&S/Terminal Cheat Sheet.md",
     "Cisco/Cisco CCNA R&S/CCNA Terminology.md",
@@ -194,7 +195,6 @@
     "Older Notes/how to hack the FBI/1. Others/Kali Linux/Configuring Linux/Change Hostname.md",
     "Older Notes/Programming 101/It's Programming Time/Rust/Rust's Hello World.md",
     "Older Notes/Programming 101/It's Programming Time/Python/If ... else Conditions.md",
-    "Older Notes/how to hack the FBI/1. Others/Remote Connection/Secure Shell (SSH).md",
     "Older Notes/how to hack the FBI/Images and Media Attachments/searchsploit/searchsploit list.png",
     "Older Notes/how to hack the FBI/Images and Media Attachments/searchsploit/searchsploit info.png",
     "Older Notes/how to hack the FBI/Images and Media Attachments/msf images/msf vulns.png",
