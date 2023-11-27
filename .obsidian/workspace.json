@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "退屈な日本語の話/今日は何日か？.md",
+                "file": "退屈な日本語の話/Daily Sentences/お仕事タイム！.md",
                 "mode": "preview",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "退屈な日本語の話/今日は何日か？.md",
+                "file": "退屈な日本語の話/Daily Sentences/お仕事タイム！.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "退屈な日本語の話/今日は何日か？.md",
+                "file": "退屈な日本語の話/Daily Sentences/お仕事タイム！.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "退屈な日本語の話/今日は何日か？.md"
+                "file": "退屈な日本語の話/Daily Sentences/お仕事タイム！.md"
               }
             }
           },
@@ -162,10 +162,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c3e306f7d54c63f",
+  "active": "833477912c45244c",
   "lastOpenFiles": [
+    "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Dates and Days.md",
+    "退屈な日本語の話/Daily Sentences/お仕事タイム！.md",
+    "退屈な日本語の話/Daily Sentences",
+    "退屈な日本語の話/Vocab and new words for u to learn",
+    "退屈な日本語の話/Grammar",
+    "退屈な日本語の話/センチメートル - 7!!.md",
     "Protocols and shit/SSL - Secure Socket Layer.md",
-    "退屈な日本語の話/今日は何日か？.md",
     "Cisco/Cisco CCNA R&S/Terminal Cheat Sheet.md",
     "Cisco/Cisco CCNA R&S/CCNA Terminology.md",
     "Cisco/Cisco CCNA R&S/6. EtherChannel/2. Configure EtherChannel.md",
@@ -190,8 +195,6 @@
     "Older Notes/Programming 101/It's Programming Time/Python/If ... else Conditions.md",
     "Older Notes/how to hack the FBI/1. Others/Remote Connection/Secure Shell (SSH).md",
     "Linuxing time/All About Linux/Linux Containers and Docker/Guide on Docker - C Side/C Server MySQL.md",
-    "Older Notes/Programming 101/It's Programming Time/Python/1. Make python executable.md",
-    "Older Notes/how to hack the FBI/Web Applications Hacking/Burp Suite CE (try not to use it)/3. Burp Proxy.md",
     "Older Notes/how to hack the FBI/Images and Media Attachments/searchsploit/searchsploit list.png",
     "Older Notes/how to hack the FBI/Images and Media Attachments/searchsploit/searchsploit info.png",
     "Older Notes/how to hack the FBI/Images and Media Attachments/msf images/msf vulns.png",
@@ -207,9 +210,6 @@
     "Older Notes/how to hack the FBI/Web Applications Hacking/Burp Suite CE (try not to use it)",
     "Older Notes/how to hack the FBI/Vuln. Exploitation/Metasploit",
     "Older Notes/how to hack the FBI/Images and Media Attachments/searchsploit",
-    "Older Notes/how to hack the FBI/Images and Media Attachments/msf images",
-    "Older Notes/how to hack the FBI/Images and Media Attachments/burp suite",
-    "Older Notes/how to hack the FBI/1. Others/Remote Connection",
     "Untitled.canvas"
   ]
 }
