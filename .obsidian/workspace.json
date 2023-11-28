@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cisco/Cisco CCNA R&S/6. EtherChannel/1. EtherChannel Operation.md",
-                "mode": "preview",
+                "file": "退屈な日本語の話/Vocab and new words for u to learn/一二三四 GO! - Numbers.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cisco/Cisco CCNA R&S/6. EtherChannel/1. EtherChannel Operation.md",
+                "file": "退屈な日本語の話/Vocab and new words for u to learn/一二三四 GO! - Numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cisco/Cisco CCNA R&S/6. EtherChannel/1. EtherChannel Operation.md",
+                "file": "退屈な日本語の話/Vocab and new words for u to learn/一二三四 GO! - Numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cisco/Cisco CCNA R&S/6. EtherChannel/1. EtherChannel Operation.md"
+                "file": "退屈な日本語の話/Vocab and new words for u to learn/一二三四 GO! - Numbers.md"
               }
             }
           },
@@ -165,10 +165,13 @@
   "active": "833477912c45244c",
   "lastOpenFiles": [
     "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Dates and Days.md",
+    "退屈な日本語の話/Vocab and new words for u to learn/一二三四 GO! - Numbers.md",
     "退屈な日本語の話/Vocab and new words for u to learn/恵義と反対語 - Adjectives and Antonym.md",
+    "退屈な日本語の話/Daily Sentences/お仕事アワー！.md",
+    "Cisco/some basic Cisco stuffs to remember.md",
+    "Cisco/Cisco CCNA R&S/6. EtherChannel/1. EtherChannel Operation.md",
     "退屈な日本語の話/Vocab and new words for u to learn/春夏秋冬 - Weather, seasons and nature.md",
     "退屈な日本語の話/センチメートル - 7!!.md",
-    "退屈な日本語の話/Daily Sentences/お仕事アワー！.md",
     "退屈な日本語の話/Daily Sentences",
     "退屈な日本語の話/Vocab and new words for u to learn",
     "退屈な日本語の話/Grammar",
@@ -176,7 +179,6 @@
     "Cisco/Cisco CCNA R&S/Terminal Cheat Sheet.md",
     "Cisco/Cisco CCNA R&S/CCNA Terminology.md",
     "Cisco/Cisco CCNA R&S/6. EtherChannel/2. Configure EtherChannel.md",
-    "Cisco/Cisco CCNA R&S/6. EtherChannel/1. EtherChannel Operation.md",
     "Cisco/Cisco CCNA R&S/1. Basic Switch Configuration/1.3 Secure Remote Access.md",
     "Cisco/Cisco CCNA R&S/1. Basic Switch Configuration/1.2 Configure switch ports.md",
     "Cisco/Cisco CCNA R&S/3. VLANs/3.3. VLAN Configuration.md",
@@ -190,11 +192,9 @@
     "Basic Python.md",
     "Pasted image 20231121132910.png",
     "Pasted image 20231121132922.png",
-    "Cisco/some basic Cisco stuffs to learn.md",
     "Older Notes/how to hack the FBI/1. Others/Kali Linux/Configuring Linux/Change Username.md",
     "Older Notes/how to hack the FBI/1. Others/Kali Linux/Configuring Linux/Change Hostname.md",
     "Older Notes/Programming 101/It's Programming Time/Rust/Rust's Hello World.md",
-    "Older Notes/Programming 101/It's Programming Time/Python/If ... else Conditions.md",
     "Older Notes/how to hack the FBI/Images and Media Attachments/searchsploit/searchsploit list.png",
     "Older Notes/how to hack the FBI/Images and Media Attachments/searchsploit/searchsploit info.png",
     "Older Notes/how to hack the FBI/Images and Media Attachments/msf images/msf vulns.png",

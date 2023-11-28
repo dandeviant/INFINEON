@@ -42,7 +42,7 @@
 > - For example:
 > 	- `Switch(config-if)# no shutdown` - Start disabled ports
 > 	- `Switch(config)# no vlan 99`  - Remove vlan 99, whatever the fuck that is
-> 		- Small reminder; VLAN 1, a default VLAN is unremovable.
+> 		- Small reminder; certain VLANs like VLAN 1, a default VLAN is unremovable.
 > 		- Proof:
 > 			```
 > 			Switch(config)# no vlan 1
@@ -50,13 +50,13 @@
 > 			```
 
 
-| Commands | what for? |
+| Commands | ##### |
 | --- | --- |
 | `conf t` | Move to configuration mode |
-| **In Configuration mode** | ##### |
+| **In Configuration mode** | **#####** |
 | `interface [interface name]` | Move to stated interface for config |
 | `vlan [vlan number]` | Create VLAN if not in list yet, and move to it for config |
-| **Standard port config mode** | ##### | 
+| **Standard port config mode** | **#####** | 
 | `ip address [IPv4] [mask value]` | Set IPv4 on physical ports. NOT APPLICABLE ON ACCESS LAYER SWITCH PORTS |
 | `shutdown` | Shutdown and disable ports |
 | `switchport access vlan [VLAN number]` | list the VLAN allowed to pass through the port. WILL REMOVE THE PREVIOUSLY ALLOWED LIST | 
