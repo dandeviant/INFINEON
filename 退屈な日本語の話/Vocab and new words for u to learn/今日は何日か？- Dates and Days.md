@@ -83,7 +83,7 @@
 |昨日 	|きのう		|yesterday
 |一昨日 	|おととい		|the day before yesterday
 |明日 	| あす / あした		|tomorrow
-|明後日 / 	|あさって / みょうごにち		|the day after tomorrow
+|明後日 	|あさって / みょうごにち		|the day after tomorrow
 |一日 	|いちにち		|all day long
 |週 	|しゅう		|week
 |今週 	|こんしゅう		|this week
