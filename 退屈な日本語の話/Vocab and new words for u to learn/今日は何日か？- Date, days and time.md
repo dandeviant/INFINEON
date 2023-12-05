@@ -78,7 +78,7 @@
 
 | 漢字 | ひらがな | English |
 | --- | --- | --- |
-| 今回 | こんかい | Now, this time
+| 今回   | こんかい | Now, this time
 |今日	|きょう 		|today	|
 |昨日 	|きのう		|yesterday
 |一昨日 	|おととい		|the day before yesterday
@@ -90,14 +90,15 @@
 |先週 	|せんしゅう		|last week
 |来週 	|らいしゅう		|next week
 | 再来週 | さらいしゅう | Week after next week | 
-| 毎週 | まいしゅう | Every week | 
-|月 	|げつ		| month
-|今月 	|こんげつ		|this month
-|先月 	|せんげつ		|last month
-|来月	|らいげつ		|next month
+| 毎週   | まいしゅう | Every week | 
+| 月 	| げつ		| Month
+| 月間  | げっかん | Monthly |
+|今月 	|こんげつ		| This month
+|先月 	|せんげつ		| Last month
+|来月	|らいげつ		| Next month
 | 再来月 | さらいげつ | The month after next month
-| 毎月 | まいつき | Every month | 
-|年	|ねん		|year
+| 毎月   | まいつき | Every month | 
+|年	     | ねん		|year
 |今年	|ことし		|this year
 |去年	|きょねん		|last year
 |来年	|らいねん		|next year

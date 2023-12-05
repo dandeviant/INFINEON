@@ -7,3 +7,5 @@
 Just some notes I made while fuckin around and read/learn new Japanese stuffs \
 Ignore this if you're not Daniel
 
+![[Pasted image 20231204113403.png]]
+
