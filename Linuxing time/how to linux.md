@@ -47,7 +47,7 @@ Basic Linux/UNIX commands, mostly on files and directory navigation.
 
 | Path | What the hell is it? | |
 | --- | --- | --- |
-| `/` | root path, containing `\home, \bin, \var` and all the crucial folders |
+| `/` | root path, containing `/home, /bin, /var` and all the crucial folders |
 | `/root` | path only accessible by root user, a.k.a root home folder |
 | `/home` | parent folder containing main folders of all users: `/home/[username]` |
 | `/dev/null` | literally a black hole, sucks any useless output and discard it, never to be found again | `ping 1.1.1.1 >> /dev/null` : Throw `ping` output into `/dev/null`|

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Dates and Days.md",
+                "file": "退屈な日本語の話/Vocab and new words for u to learn/オンラインチェット.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,11 +23,16 @@
             "id": "a5a984d22e39807a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "退屈な日本語の話/Grammar/何言ってんの？- Questions.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Dates and Days.md",
+                "file": "退屈な日本語の話/Grammar/何言ってんの？- Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Dates and Days.md",
+                "file": "退屈な日本語の話/Grammar/何言ってんの？- Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Dates and Days.md"
+                "file": "退屈な日本語の話/Grammar/何言ってんの？- Questions.md"
               }
             }
           },
@@ -162,15 +167,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "833477912c45244c",
+  "active": "a5a984d22e39807a",
   "lastOpenFiles": [
-    "退屈な日本語の話/Daily Sentences/お仕事アワー！.md",
+    "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md",
+    "退屈な日本語の話/Grammar/何言ってんの？- Questions.md",
+    "退屈な日本語の話/Grammar/Untitled",
     "退屈な日本語の話/Vocab and new words for u to learn/オンラインチェット.md",
+    "Pasted image 20231205144756.png",
+    "Pasted image 20231205141515.png",
+    "退屈な日本語の話/Vocab and new words for u to learn/一二三 GO! - Numbers.md",
+    "Pasted image 20231205100512.png",
+    "Linuxing time/how to linux.md",
+    "Linuxing time/basic protocols.md",
+    "Linuxing time/File and Directory Management.md",
+    "Linuxing time/Linux Security and shit.md",
+    "Linuxing time/Bash Redirection - The Basics.md",
+    "退屈な日本語の話/Daily Sentences/お仕事アワー！.md",
     "退屈な日本語の話/README.md",
     "Pasted image 20231204113403.png",
-    "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Dates and Days.md",
     "退屈な日本語の話/Vocab and new words for u to learn/春夏秋冬 - Weather, seasons and nature.md",
-    "退屈な日本語の話/Vocab and new words for u to learn/一二三 GO! - Numbers.md",
     "退屈な日本語の話/Vocab and new words for u to learn/恵義と反対語 - Adjectives and Antonym.md",
     "Cisco/some basic Cisco stuffs to remember.md",
     "Cisco/Cisco CCNA R&S/6. EtherChannel/1. EtherChannel Operation.md",
@@ -188,28 +203,18 @@
     "Cisco/Cisco CCNA R&S/3. VLANs/3.4 VLAN Trunk Configuration.md",
     "Cisco/Cisco CCNA R&S/1. Basic Switch Configuration/1.4 Basic Router Configuration.md",
     "Cisco/Cisco CCNA R&S/1. Basic Switch Configuration/1.1 Cisco IOS modes.md",
-    "Older Notes/Programming 101/It's Programming Time/Bash Scripting/2. Bash If...Else Statements.md",
-    "Older Notes/Programming 101/It's Programming Time/Bash Scripting/1. Bash Print, Input and Variables.md",
-    "Older Notes/README.md",
-    "Older Notes/Programming 101/Git Gud/Git CLI using Shell.md",
-    "Basic Python.md",
     "Pasted image 20231121132910.png",
     "Pasted image 20231121132922.png",
-    "Older Notes/how to hack the FBI/1. Others/Kali Linux/Configuring Linux/Change Username.md",
     "Older Notes/how to hack the FBI/Images and Media Attachments/searchsploit/searchsploit list.png",
     "Older Notes/how to hack the FBI/Images and Media Attachments/searchsploit/searchsploit info.png",
     "Older Notes/how to hack the FBI/Images and Media Attachments/msf images/msf vulns.png",
     "Older Notes/how to hack the FBI/Images and Media Attachments/msf images/msf services.png",
-    "Older Notes/how to hack the FBI/Images and Media Attachments/msf images/msf select.png",
-    "Older Notes/how to hack the FBI/Images and Media Attachments/msf images/msf hosts.png",
-    "Older Notes/how to hack the FBI/Images and Media Attachments/burp suite/trust proxy.png",
     "Older Notes/how to hack the FBI/1. Others/Kali Linux/Configuring Linux",
     "Older Notes/Programming 101/It's Programming Time/Rust",
     "Older Notes/Programming 101/It's Programming Time/Python",
     "Older Notes/Programming 101/It's Programming Time/Bash Scripting",
     "Older Notes/how to hack the FBI/Web Applications Hacking/Burp Suite CE (try not to use it)",
     "Older Notes/how to hack the FBI/Vuln. Exploitation/Metasploit",
-    "Older Notes/how to hack the FBI/Images and Media Attachments/searchsploit",
     "Untitled.canvas"
   ]
 }

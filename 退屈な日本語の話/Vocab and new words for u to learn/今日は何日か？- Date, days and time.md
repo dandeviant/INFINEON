@@ -1,15 +1,15 @@
 
 
 
-| Days | ひらがな | 
-| --- | --- |
-| Mon | げつようび
-| Tue | かようび
-| Wed | すいようび
-| Thu | もくようび
-| Fri | きんようび
-| Sat | どようび
-| Sun | にちようび
+| 漢字 | かな | Days |
+| --- | --- | --- |
+| 月曜日 | げつようび | Mon |
+| 火曜日 | かようび   | Tue |
+| 水曜日 | すいようび | Wed |
+| 木曜日 | もくようび | Thu |
+| 金曜日 | きんようび | Fri |
+| 土曜日 | どようび   | Sat |
+| 日曜日 | にちようび | Sun |
 
 ---
 
@@ -78,8 +78,10 @@
 
 | 漢字 | ひらがな | English |
 | --- | --- | --- |
-| 今回   | こんかい | Now, this time
+| 今回   | こんかい | Now, this time | 
+| たった今 | たったいま | Just now | 
 |今日	|きょう 		|today	|
+|本日 (rarely used)  |ほんじつ　　|today 
 |昨日 	|きのう		|yesterday
 |一昨日 	|おととい		|the day before yesterday
 |明日 	| あす / あした		|tomorrow
