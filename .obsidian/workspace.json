@@ -23,11 +23,10 @@
             "id": "a5a984d22e39807a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Cisco/some basic Cisco stuffs to remember.md",
-                "mode": "source",
-                "source": false
+                "file": "退屈な日本語の話/Daily Sentences/お仕事アワー！.md",
+                "staged": false
               }
             }
           }
@@ -98,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cisco/some basic Cisco stuffs to remember.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cisco/some basic Cisco stuffs to remember.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cisco/some basic Cisco stuffs to remember.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,11 +164,11 @@
   },
   "active": "a5a984d22e39807a",
   "lastOpenFiles": [
-    "README.md",
-    "Cisco/some basic Cisco stuffs to remember.md",
-    "退屈な日本語の話/Vocab and new words for u to learn/オンラインチェット.md",
-    "conflict-files-obsidian-git.md",
     "退屈な日本語の話/Daily Sentences/お仕事アワー！.md",
+    "退屈な日本語の話/Vocab and new words for u to learn/オンラインチェット.md",
+    "Cisco/some basic Cisco stuffs to remember.md",
+    "README.md",
+    "conflict-files-obsidian-git.md",
     "退屈な日本語の話/センチメートル - 7!!.md",
     "退屈な日本語の話/Grammar/何言ってんの？- Questions.md",
     "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md",
