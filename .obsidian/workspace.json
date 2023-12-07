@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Cisco/some basic Cisco stuffs to remember.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Cisco/some basic Cisco stuffs to remember.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Cisco/some basic Cisco stuffs to remember.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Cisco/some basic Cisco stuffs to remember.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   },
   "active": "a5a984d22e39807a",
   "lastOpenFiles": [
+    "README.md",
     "Cisco/some basic Cisco stuffs to remember.md",
     "退屈な日本語の話/Vocab and new words for u to learn/オンラインチェット.md",
     "conflict-files-obsidian-git.md",
@@ -202,7 +203,6 @@
     "Cisco/Cisco CCNA R&S/1. Basic Switch Configuration/1.2 Configure switch ports.md",
     "Cisco/Cisco CCNA R&S/3. VLANs/3.3. VLAN Configuration.md",
     "Cisco/Cisco CCNA R&S/3. VLANs/3.4 VLAN Trunk Configuration.md",
-    "Cisco/Cisco CCNA R&S/1. Basic Switch Configuration/1.4 Basic Router Configuration.md",
     "Pasted image 20231121132910.png",
     "Pasted image 20231121132922.png",
     "Older Notes/how to hack the FBI/Images and Media Attachments/searchsploit/searchsploit list.png",

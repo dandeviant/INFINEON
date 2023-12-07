@@ -7,7 +7,7 @@
 ---
 
 #### IOS management
-> [! ]- Pro tip
+> [! ]- Pro tip \
 > Managing Cisco IOS is like managing Linux, since Cisco IOS itself is built on Linux kernel, mainly Cisco IOS XE.\
 > Learning Linux while you're at it will be a game changer in your IT life. Trust me...
 
