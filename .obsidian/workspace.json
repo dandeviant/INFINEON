@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9a62022e68c60372",
+        "id": "8ed9b52e8aecf4d7",
         "type": "tabs",
         "children": [
           {
-            "id": "833477912c45244c",
+            "id": "22ed0cbd411cc10f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "退屈な日本語の話/Vocab and new words for u to learn/一二三 GO! - Numbers.md",
+                "file": "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "退屈な日本語の話/Vocab and new words for u to learn/一二三 GO! - Numbers.md",
+                "file": "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "退屈な日本語の話/Vocab and new words for u to learn/一二三 GO! - Numbers.md",
+                "file": "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "退屈な日本語の話/Vocab and new words for u to learn/一二三 GO! - Numbers.md"
+                "file": "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md"
               }
             }
           },
@@ -154,14 +154,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "833477912c45244c",
+  "active": "22ed0cbd411cc10f",
   "lastOpenFiles": [
+    "Linuxing time/All About Linux/Remote Connection/Secure Copy Protocol.md",
+    "退屈な日本語の話/Vocab and new words for u to learn/一二三 GO! - Numbers.md",
+    "退屈な日本語の話/Vocab and new words for u to learn/春夏秋冬 - Weather, seasons and nature.md",
     "退屈な日本語の話/Vocab and new words for u to learn/オンラインチェット.md",
     "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md",
     "Linuxing time/All About Linux/Remote Connection/Secure Shell (SSH) Pubic Key Authentication.md",
     "Linuxing time/All About Linux/Remote Connection/Secure Shell (SSH).md",
-    "Linuxing time/All About Linux/Remote Connection/Secure Copy Protocol.md",
-    "退屈な日本語の話/Vocab and new words for u to learn/一二三 GO! - Numbers.md",
     "退屈な日本語の話/Daily Sentences/お仕事アワー！.md",
     "Cisco/some basic Cisco stuffs to remember.md",
     "README.md",
@@ -179,7 +180,6 @@
     "Linuxing time/Bash Redirection - The Basics.md",
     "退屈な日本語の話/README.md",
     "Pasted image 20231204113403.png",
-    "退屈な日本語の話/Vocab and new words for u to learn/春夏秋冬 - Weather, seasons and nature.md",
     "退屈な日本語の話/Vocab and new words for u to learn/恵義と反対語 - Adjectives and Antonym.md",
     "Cisco/Cisco CCNA R&S/6. EtherChannel/1. EtherChannel Operation.md",
     "退屈な日本語の話/Daily Sentences",
