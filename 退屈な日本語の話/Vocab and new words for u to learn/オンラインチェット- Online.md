@@ -22,6 +22,8 @@
 
 件（けん）= counter for (received) messages, email, texts, etc. 
 
+ついに : finally
+
 
 ![[Pasted image 20231208091902.png]]
 

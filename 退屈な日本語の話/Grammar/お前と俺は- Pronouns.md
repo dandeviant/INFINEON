@@ -167,16 +167,20 @@ The very concept of omitting words may be foreign to you, depending on what the 
 
 | | | |
 | --- | --- | --- |
-| Myself | | |
+| **Myself** | | |
 | 私 | わたし / あたし | |
 | 僕 | ぼく | | 
 | 俺 | おれ |
 | 私たち, 僕たち | +たち | We, Us |
-| You / yourself | | |
+| **You / yourself** | | |
 | 貴方 | あなた | |
 | 君 | きみ ||
 | お前 | おまえ ||
 | 貴方たち, 君たち | +たち | all of you |
-| Others |||
-| 彼氏 | かれし | He, him |
+| **Others** |||
+| 彼 | かれ | He, him |
+| 彼たち | かれたち | They (male) | 
 | 彼女 | かのじょ | She, her | 
+| 彼女たち | かのじょたち | They (female)
+| あの人 | あのひと | That person |
+| あいつ || That person |
