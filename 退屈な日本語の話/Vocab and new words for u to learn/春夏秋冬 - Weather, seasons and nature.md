@@ -14,8 +14,10 @@
 | 空 | そら | Sky | 
 | 雨 | あめ | Rain | 
 | 雨上がり | あめあがり | After the rain | 
+| 朝日 | あさひ | morning sun | 
 
-
+越えて
+朝日
 
 **Adjectives**
 
