@@ -1,7 +1,8 @@
+なにいってんの？: What are you saying?
 
 ---
 
-| dsd | dss | ds d |
+| | かな | 英語 |
 | --- | --- | --- |
 | 何 | なに | What
 | 何で | なんで | Why
