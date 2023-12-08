@@ -10,7 +10,8 @@
 | 口 | くち | Mouth
 | 手 | て | Hand | 
 
-| adsd as | asd a | dasd  |
+
+| | |   |
 | --- | --- | --- |
 | 知る | しる | Know | 
 | 思え | るおもえる | Think |
