@@ -161,3 +161,22 @@ Here are some sample sentences for each situation listed above. The omitted word
     _San nen buri ni shinyuu to atta. Kanojo wa amari kawatteinai. Mada egao wa Kirakira shitari, Italia e ryoukou shitai hito desu._
 
 The very concept of omitting words may be foreign to you, depending on what the rules of your native language are. Still, word omission is a skill that will start to come naturally to you the more you study Japanese.
+
+### To sum it up...
+
+
+| | | |
+| --- | --- | --- |
+| Myself | | |
+| 私 | わたし / あたし | |
+| 僕 | ぼく | | 
+| 俺 | おれ |
+| 私たち, 僕たち | +たち | We, Us |
+| You / yourself | | |
+| 貴方 | あなた | |
+| 君 | きみ ||
+| お前 | おまえ ||
+| 貴方たち, 君たち | +たち | all of you |
+| Others |||
+| 彼氏 | かれし | He, him |
+| 彼女 | かのじょ | She, her | 
