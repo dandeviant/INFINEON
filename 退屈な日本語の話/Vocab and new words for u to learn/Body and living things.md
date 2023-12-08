@@ -7,6 +7,7 @@
 | 髪 | かみ | Hair | 
 | 頭 | あたま | Head |
 | 目 | め | Eyes | 
+| 口 | くち | Mouth
 | 手 | て | Hand | 
 
 

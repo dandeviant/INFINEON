@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "退屈な日本語の話/Vocab and new words for u to learn/オンラインチェット.md",
+                "file": "退屈な日本語の話/Vocab and new words for u to learn/Body and living things.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "退屈な日本語の話/Vocab and new words for u to learn/オンラインチェット.md",
+                "file": "退屈な日本語の話/Vocab and new words for u to learn/Body and living things.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "退屈な日本語の話/Vocab and new words for u to learn/オンラインチェット.md",
+                "file": "退屈な日本語の話/Vocab and new words for u to learn/Body and living things.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "退屈な日本語の話/Vocab and new words for u to learn/オンラインチェット.md"
+                "file": "退屈な日本語の話/Vocab and new words for u to learn/Body and living things.md"
               }
             }
           },
@@ -154,18 +154,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22ed0cbd411cc10f",
+  "active": "0c3e306f7d54c63f",
   "lastOpenFiles": [
+    "退屈な日本語の話/Vocab and new words for u to learn/オンラインチェット.md",
+    "Pasted image 20231208091902.png",
+    "Cisco/some basic Cisco stuffs to remember.md",
     "退屈な日本語の話/Vocab and new words for u to learn/Body and living things.md",
     "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md",
     "Linuxing time/All About Linux/Remote Connection/Secure Copy Protocol.md",
     "退屈な日本語の話/Vocab and new words for u to learn/一二三 GO! - Numbers.md",
     "退屈な日本語の話/Vocab and new words for u to learn/春夏秋冬 - Weather, seasons and nature.md",
-    "退屈な日本語の話/Vocab and new words for u to learn/オンラインチェット.md",
     "Linuxing time/All About Linux/Remote Connection/Secure Shell (SSH) Pubic Key Authentication.md",
     "Linuxing time/All About Linux/Remote Connection/Secure Shell (SSH).md",
     "退屈な日本語の話/Daily Sentences/お仕事アワー！.md",
-    "Cisco/some basic Cisco stuffs to remember.md",
     "README.md",
     "conflict-files-obsidian-git.md",
     "退屈な日本語の話/センチメートル - 7!!.md",
@@ -189,13 +190,11 @@
     "Protocols and shit/SSL - Secure Socket Layer.md",
     "Cisco/Cisco CCNA R&S/Terminal Cheat Sheet.md",
     "Cisco/Cisco CCNA R&S/CCNA Terminology.md",
-    "Cisco/Cisco CCNA R&S/6. EtherChannel/2. Configure EtherChannel.md",
     "Pasted image 20231121132910.png",
     "Pasted image 20231121132922.png",
     "Older Notes/how to hack the FBI/Images and Media Attachments/searchsploit/searchsploit list.png",
     "Older Notes/how to hack the FBI/Images and Media Attachments/searchsploit/searchsploit info.png",
     "Older Notes/how to hack the FBI/Images and Media Attachments/msf images/msf vulns.png",
-    "Older Notes/how to hack the FBI/Images and Media Attachments/msf images/msf services.png",
     "Older Notes/how to hack the FBI/1. Others/Kali Linux/Configuring Linux",
     "Older Notes/Programming 101/It's Programming Time/Rust",
     "Older Notes/Programming 101/It's Programming Time/Python",
