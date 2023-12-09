@@ -39,6 +39,12 @@
 | 百万|百万 | 1 million |
 | 千万|せんまん | 10 milion | 
 
+> [! ]- Examples
+> 365日 /  365 days : 
+> 
+> さんびゃくななじゅごにち
+
+
 
 The Japanese use a special suffix after the number to count people, animals, objects or to express a duration, an age, or a frequency. This counting system, also used in China and Korea, may seem confusing. In this case, learning is the golden rule!   
  
