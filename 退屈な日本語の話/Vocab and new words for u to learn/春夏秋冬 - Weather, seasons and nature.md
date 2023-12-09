@@ -16,6 +16,8 @@
 | 雨上がり | あめあがり | After the rain | 
 | 朝日 | あさひ | morning sun | 
 
+吹く blow (wind)
+
 越えて
 朝日
 
