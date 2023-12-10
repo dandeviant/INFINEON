@@ -31,6 +31,19 @@
 | --- | --- | --- |
 | 閉じて | とじて | Close (eyes, books, etc.)
 
+### 感情 (かんじょう)
+
+| | | |
+| --- | --- | --- |
+| 寂し | さびし | Feeling lonely |
+| 悲し | かなし | Sad |
+| 嬉し | うれし | Relieved | 
+| 楽し | たのし | Excited, feeling happy |
+| 幸せ | しあわせ | Happy (deeper context) | 
+
+
+
+
 .
 
 | | | |
@@ -46,4 +59,6 @@
 | 思え | るおもえる | Think |
 | 覚え | るおぼえる | Remember / memorize | 
 | 痛み | いたみ | Pain, ache | 
+
+
 

@@ -107,6 +107,20 @@
 |再来年　| さらいねん　| The year after next year | 
 | 毎年　| まいとし　| Every year |
 
+.
+
+| | | |
+| --- | --- | --- | 
+| 休みの日 | やすみのひ | Rest day, off day | 
+| 休み | やすみ | Rest, vacation, holiday | 
+
+
+
 ![[Pasted image 20231121132910.png]]
+
+
+
+
+
 
 ![[Pasted image 20231121132922.png]]

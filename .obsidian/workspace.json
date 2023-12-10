@@ -11,9 +11,11 @@
             "id": "22ed0cbd411cc10f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Basic Chords.png"
+                "file": "退屈な日本語の話/Vocab and new words for u to learn/お隣の天使様 - Positions.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic Chords.png",
+                "file": "退屈な日本語の話/Vocab and new words for u to learn/お隣の天使様 - Positions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic Chords.png",
+                "file": "退屈な日本語の話/Vocab and new words for u to learn/お隣の天使様 - Positions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic Chords.png"
+                "file": "退屈な日本語の話/Vocab and new words for u to learn/お隣の天使様 - Positions.md"
               }
             }
           },
@@ -152,10 +154,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c3e306f7d54c63f",
+  "active": "22ed0cbd411cc10f",
   "lastOpenFiles": [
-    "Basic Python.md",
+    "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md",
+    "退屈な日本語の話/Vocab and new words for u to learn/オンラインチェット- Online.md",
+    "退屈な日本語の話/Vocab and new words for u to learn/人間と感情 - Body and emotions.md",
     "Basic Chords.png",
+    "Basic Python.md",
     "Pasted image 20231208091902.png",
     "Pasted image 20231205144756.png",
     "Pasted image 20231205141515.png",
@@ -165,11 +170,9 @@
     "Pasted image 20231121132910.png",
     "退屈な日本語の話/Vocab and new words for u to learn/お隣の天使様 - Positions.md",
     "Linuxing time/bash-commands.md",
-    "退屈な日本語の話/Vocab and new words for u to learn/オンラインチェット- Online.md",
     "README.md",
     "Vim Cheat sheet.pdf",
     "退屈な日本語の話/センチメートル - 7!!.md",
-    "退屈な日本語の話/Vocab and new words for u to learn/人間と感情 - Body and emotions.md",
     "退屈な日本語の話/Grammar/お前と俺は- Pronouns.md",
     "退屈な日本語の話/Grammar/何言ってんの？- Questions.md",
     "退屈な日本語の話/Grammar/Particles.md",
@@ -178,7 +181,6 @@
     "退屈な日本語の話/Vocab and new words for u to learn/Body and living things.md",
     "退屈な日本語の話/Vocab and new words for u to learn/オンラインチェット.md",
     "Cisco/some basic Cisco stuffs to remember.md",
-    "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md",
     "Linuxing time/All About Linux/Remote Connection/Secure Copy Protocol.md",
     "退屈な日本語の話/Vocab and new words for u to learn/一二三 GO! - Numbers.md",
     "Linuxing time/All About Linux/Remote Connection/Secure Shell (SSH) Pubic Key Authentication.md",
@@ -189,7 +191,6 @@
     "Linuxing time/basic protocols.md",
     "Linuxing time/File and Directory Management.md",
     "Linuxing time/Linux Security and shit.md",
-    "Linuxing time/Bash Redirection - The Basics.md",
     "退屈な日本語の話/Daily Sentences",
     "退屈な日本語の話/Vocab and new words for u to learn",
     "退屈な日本語の話/Grammar",

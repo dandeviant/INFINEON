@@ -17,9 +17,16 @@
 | 情報	| じょうほう	| information
 | 検索	| けんさく | search / look up
 | 保存	| ほぞん	 | Save / Keep
-| 保存しない	| ほぞんしない | Do not save
+| 保存しない	| ほぞんしない | Do not save |
+| 既読 | きどく | Read messages |
 | 転送されたメッセジ	| てんそうされためっせじ	| Forwarded message |　
 | 未読メッセージ４件 | みどくメッセージ４けん 　| 4 unread messages
+| 画像 | がぞう | Picture |
+| 動画 | どうが | Videos, clips |
+
+
+
+
 
 件（けん）= counter for (received) messages, email, texts, etc. 
 
