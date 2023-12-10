@@ -11,9 +11,9 @@
             "id": "22ed0cbd411cc10f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "image",
               "state": {
-                "file": "Vim Cheat sheet.pdf"
+                "file": "Basic Chords.png"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vim Cheat sheet.pdf",
+                "file": "Basic Chords.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vim Cheat sheet.pdf",
+                "file": "Basic Chords.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vim Cheat sheet.pdf"
+                "file": "Basic Chords.png"
               }
             }
           },
@@ -154,8 +154,21 @@
   },
   "active": "0c3e306f7d54c63f",
   "lastOpenFiles": [
-    "退屈な日本語の話/センチメートル - 7!!.md",
+    "Basic Python.md",
+    "Basic Chords.png",
+    "Pasted image 20231208091902.png",
+    "Pasted image 20231205144756.png",
+    "Pasted image 20231205141515.png",
+    "Pasted image 20231205100512.png",
+    "Pasted image 20231204113403.png",
+    "Pasted image 20231121132922.png",
+    "Pasted image 20231121132910.png",
+    "退屈な日本語の話/Vocab and new words for u to learn/お隣の天使様 - Positions.md",
+    "Linuxing time/bash-commands.md",
+    "退屈な日本語の話/Vocab and new words for u to learn/オンラインチェット- Online.md",
+    "README.md",
     "Vim Cheat sheet.pdf",
+    "退屈な日本語の話/センチメートル - 7!!.md",
     "退屈な日本語の話/Vocab and new words for u to learn/人間と感情 - Body and emotions.md",
     "退屈な日本語の話/Grammar/お前と俺は- Pronouns.md",
     "退屈な日本語の話/Grammar/何言ってんの？- Questions.md",
@@ -164,36 +177,24 @@
     "退屈な日本語の話/Vocab and new words for u to learn/春夏秋冬 - Weather, seasons and nature.md",
     "退屈な日本語の話/Vocab and new words for u to learn/Body and living things.md",
     "退屈な日本語の話/Vocab and new words for u to learn/オンラインチェット.md",
-    "Pasted image 20231208091902.png",
     "Cisco/some basic Cisco stuffs to remember.md",
     "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md",
     "Linuxing time/All About Linux/Remote Connection/Secure Copy Protocol.md",
     "退屈な日本語の話/Vocab and new words for u to learn/一二三 GO! - Numbers.md",
     "Linuxing time/All About Linux/Remote Connection/Secure Shell (SSH) Pubic Key Authentication.md",
     "Linuxing time/All About Linux/Remote Connection/Secure Shell (SSH).md",
-    "README.md",
     "conflict-files-obsidian-git.md",
     "退屈な日本語の話/Grammar/Untitled",
-    "Pasted image 20231205144756.png",
-    "Pasted image 20231205141515.png",
-    "Pasted image 20231205100512.png",
     "Linuxing time/how to linux.md",
     "Linuxing time/basic protocols.md",
     "Linuxing time/File and Directory Management.md",
     "Linuxing time/Linux Security and shit.md",
     "Linuxing time/Bash Redirection - The Basics.md",
-    "退屈な日本語の話/README.md",
-    "Pasted image 20231204113403.png",
-    "退屈な日本語の話/Vocab and new words for u to learn/恵義と反対語 - Adjectives and Antonym.md",
-    "Cisco/Cisco CCNA R&S/6. EtherChannel/1. EtherChannel Operation.md",
     "退屈な日本語の話/Daily Sentences",
     "退屈な日本語の話/Vocab and new words for u to learn",
     "退屈な日本語の話/Grammar",
-    "Pasted image 20231121132910.png",
-    "Pasted image 20231121132922.png",
     "Older Notes/how to hack the FBI/Images and Media Attachments/searchsploit/searchsploit list.png",
     "Older Notes/how to hack the FBI/Images and Media Attachments/searchsploit/searchsploit info.png",
-    "Older Notes/how to hack the FBI/Images and Media Attachments/msf images/msf vulns.png",
     "Older Notes/how to hack the FBI/1. Others/Kali Linux/Configuring Linux",
     "Older Notes/Programming 101/It's Programming Time/Rust",
     "Older Notes/Programming 101/It's Programming Time/Python",
