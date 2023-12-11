@@ -60,9 +60,9 @@
 |  ７月 | しち がつ  | July|
 |  ８月 | はち がつ  | August|
 |  ９月 | きゅう がつ  | September|
-|１０月 | いち れい がつ  | October|
-|１１月 | いち いち がつ  | November|
-|１２月 | いち に がつ | December|
+|１０月 | じゅう　がつ  | October|
+|１１月 | じゅう いち がつ  | November|
+|１２月 | じゅうに がつ | December|
 
 ---
 
