@@ -24,6 +24,8 @@
 | 未読メッセージ４件 | みどくメッセージ４けん 　| 4 unread messages
 | 画像 | がぞう | Picture |
 | 動画 | どうが | Videos, clips |
+| 入手 | にゅうしゅ | Install, download |
+
 
 
 
