@@ -49,6 +49,11 @@
 
 ---
 
+月 
+つき = Moon
+Kun = つき
+On = がつ // げつ
+
 | 漢字 | ひらがな | Months |
 | --- | --- | --- |
 |  １月 | いち がつ  | January |
@@ -84,7 +89,7 @@
 |本日 (rarely used)  |ほんじつ　　|today 
 |昨日 	|きのう		|yesterday
 |一昨日 	|おととい		|the day before yesterday
-|明日 	| あす / あした		|tomorrow
+|明日 	| みょうにち / あす / あした (formality in order) | tomorrow
 |明後日 	|あさって / みょうごにち		|the day after tomorrow
 |一日 	|いちにち		|all day long
 |週 	|しゅう		|week
