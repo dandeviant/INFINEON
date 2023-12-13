@@ -177,7 +177,7 @@ The very concept of omitting words may be foreign to you, depending on what the 
 | 貴方 | あなた | |
 | 君 | きみ ||
 | お前 | おまえ ||
-| お前ら | おまえら | all of you
+| お前ら | おまえら | all of you |
 | 貴方たち, 君たち | +たち | all of you |
 | **Others** |||
 | 彼 | かれ | He, him |

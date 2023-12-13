@@ -11,10 +11,11 @@
             "id": "22ed0cbd411cc10f",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "退屈な日本語の話/Vocab and new words for u to learn/恵義と反対語 - Adjectives and Antonym.md",
-                "staged": false
+                "file": "Linuxing time/how to linux.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linuxing time/how to linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Linuxing time/how to linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Linuxing time/how to linux.md"
+              }
             }
           },
           {
@@ -151,7 +156,14 @@
   },
   "active": "22ed0cbd411cc10f",
   "lastOpenFiles": [
+    "Cisco/some basic Cisco stuffs to remember.md",
+    "Linuxing time/how to linux.md",
+    "Cisco/Cisco CCNA R&S/3. VLANs/3.3. VLAN Configuration.md",
     "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md",
+    "退屈な日本語の話/Vocab and new words for u to learn/Untitled.md",
+    "木漏れ日 - セブンウップ (seven oops).pdf",
+    "退屈な日本語の話/Grammar/何言ってんの？- Questions.md",
+    "退屈な日本語の話/Grammar/お前と俺は- Pronouns.md",
     "退屈な日本語の話/Vocab and new words for u to learn/一二三 GO! - Numbers.md",
     "退屈な日本語の話/Vocab and new words for u to learn/春夏秋冬 - Weather, seasons and nature.md",
     "退屈な日本語の話/Vocab and new words for u to learn/恵義と反対語 - Adjectives and Antonym.md",
@@ -162,16 +174,12 @@
     "退屈な日本語の話/Vocab and new words for u to learn/人間と感情 - Body and emotions.md",
     "退屈な日本語の話/カラオケタイム (曲の歌詞)/センチメートル - セブンウップ (seven oops).md",
     "退屈な日本語の話/カラオケタイム (曲の歌詞)/木漏れ日 - セブンウップ (seven oops).md",
-    "Cisco/some basic Cisco stuffs to remember.md",
     "Linuxing time/Linux Security and shit.md",
     "Cisco/Untitled/Untitled.md",
     "Cisco/Untitled",
-    "退屈な日本語の話/Grammar/何言ってんの？- Questions.md",
     "退屈な日本語の話/Grammar/Particles.md",
-    "退屈な日本語の話/Grammar/お前と俺は- Pronouns.md",
     "退屈な日本語の話/カラオケタイム (曲の歌詞)",
     "退屈な日本語の話/Vocab and new words for u to learn/お隣の天使様 - Positions.md",
-    "木漏れ日 - セブンウップ (seven oops).pdf",
     "Vim Cheat sheet.pdf",
     "Linuxing time/bash-commands.md",
     "Basic Chords.png",
@@ -180,9 +188,6 @@
     "Pasted image 20231208091902.png",
     "Linuxing time/All About Linux/Remote Connection/Secure Copy Protocol.md",
     "Linuxing time/All About Linux/Remote Connection/Secure Shell (SSH) Pubic Key Authentication.md",
-    "Linuxing time/All About Linux/Remote Connection/Secure Shell (SSH).md",
-    "退屈な日本語の話/Daily Sentences/お仕事アワー！.md",
-    "README.md",
     "退屈な日本語の話/Grammar/Untitled",
     "Pasted image 20231205144756.png",
     "Pasted image 20231205141515.png",

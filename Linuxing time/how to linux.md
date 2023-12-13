@@ -53,7 +53,7 @@ Basic Linux/UNIX commands, mostly on files and directory navigation.
 | `/dev/null` | literally a black hole, sucks any useless output and discard it, never to be found again | `ping 1.1.1.1 >> /dev/null` : Throw `ping` output into `/dev/null`|
 | `~` | a classy way to describe current user's folder, contains `~/Documents`, `~/Desktop` and all that |
 
-#### while you're already learning about `/dev/null`, here's a thing about FILE DESCRIPTOR
+#### while you're already learning about `/dev/null`, here's a thing or two about FILE DESCRIPTOR
 
 | Descriptor number |  |
 | --- | --- |
