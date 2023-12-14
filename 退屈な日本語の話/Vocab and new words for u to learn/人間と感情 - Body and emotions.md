@@ -40,6 +40,8 @@
 | 嬉し | うれし | Relieved | 
 | 楽し | たのし | Excited, feeling happy |
 | 幸せ | しあわせ | Happy (deeper context) | 
+| 痛み | いたみ | Pain |
+
 
 
 
