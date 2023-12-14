@@ -9,7 +9,7 @@
 | 冷たい | つめたい | Cold | 
 | 寒い | さむい | Cold (weather) | 熱い | あつい | Hot |
 | 新し | あたらし | new | | | |
-
+| 広い | ひろい | Wide, Spacious | | | |
 .
 
 |   |   |
