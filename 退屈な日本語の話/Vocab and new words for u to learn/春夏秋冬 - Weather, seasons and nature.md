@@ -15,7 +15,8 @@
 | 空 | そら | Sky | 
 | 雨 | あめ | Rain | 
 | 雨上がり | あめあがり | After the rain | 
-| 朝日 | あさひ | morning sun | 
+| 朝日 | あさひ | Morning sun | 
+| 世界 | せかい | World |
 
 吹く blow (wind)
 
