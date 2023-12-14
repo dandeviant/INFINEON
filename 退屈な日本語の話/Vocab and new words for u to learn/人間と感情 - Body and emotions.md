@@ -54,6 +54,8 @@
 
 | | |   |
 | --- | --- | --- |
+| 聞く | きく | Listen |
+| 見る | みる | See, watch, read |
 | 知る | しる | Know | 
 | 思え | るおもえる | Think |
 | 覚え | るおぼえる | Remember / memorize | 
