@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "退屈な日本語の話/Vocab and new words for u to learn/ランドム.md",
+                "file": "Cisco/some basic Cisco stuffs to remember.md",
                 "mode": "preview",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "退屈な日本語の話/Vocab and new words for u to learn/ランドム.md",
+                "file": "Cisco/some basic Cisco stuffs to remember.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "退屈な日本語の話/Vocab and new words for u to learn/ランドム.md",
+                "file": "Cisco/some basic Cisco stuffs to remember.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "退屈な日本語の話/Vocab and new words for u to learn/ランドム.md"
+                "file": "Cisco/some basic Cisco stuffs to remember.md"
               }
             }
           },
@@ -168,6 +168,17 @@
   },
   "active": "22ed0cbd411cc10f",
   "lastOpenFiles": [
+    "Pasted image 20231204113403.png",
+    "Pasted image 20231121132922.png",
+    "Pasted image 20231121132910.png",
+    "README.md",
+    "Pasted image 20231213163945.png",
+    "ランドム.md",
+    "Untitled.md",
+    "Vim Cheat sheet.pdf",
+    "木漏れ日 - セブンウップ (seven oops).pdf",
+    "退屈な日本語の話/Daily Sentences/お仕事アワー！.md",
+    "退屈な日本語の話/Vocab and new words for u to learn/ランドム.md",
     "Linuxing time/basic protocols.md",
     "Linuxing time/Bash Redirection - The Basics.md",
     "退屈な日本語の話/Vocab and new words for u to learn/人間と感情 - Body and emotions.md",
@@ -177,11 +188,9 @@
     "退屈な日本語の話/Vocab and new words for u to learn/春夏秋冬 - Weather, seasons and nature.md",
     "退屈な日本語の話/Vocab and new words for u to learn/恵義と反対語 - Adjectives and Antonym.md",
     "退屈な日本語の話/Vocab and new words for u to learn/お隣の天使様 - Positions.md",
-    "退屈な日本語の話/Vocab and new words for u to learn/ランドム.md",
     "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md",
     "退屈な日本語の話/カラオケタイム (曲の歌詞)/木漏れ日 - セブンウップス (seven oops).md",
     "退屈な日本語の話/Vocab and new words for u to learn/一二三 GO! - Numbers.md",
-    "退屈な日本語の話/Daily Sentences/お仕事アワー！.md",
     "退屈な日本語の話/Daily Sentences/タイトルなし.md",
     "退屈な日本語の話/カラオケタイム (曲の歌詞)/恋 - バックナンバナンバー (back number).md",
     "退屈な日本語の話/カラオケタイム (曲の歌詞)/センチメートル - セブンウップ (seven oops).md",
@@ -192,27 +201,17 @@
     "Cisco/Cisco CCNA R&S/3. VLANs/3.3. VLAN Configuration.md",
     "Cisco/Cisco CCNA R&S/1. Basic Switch Configuration/1.4 Basic Router Configuration.md",
     "Cisco/Cisco CCNA R&S/1. Basic Switch Configuration/1.3 Secure Remote Access.md",
-    "Cisco/Cisco CCNA R&S/1. Basic Switch Configuration/1.2 Configure switch ports.md",
-    "Cisco/Cisco CCNA R&S/1. Basic Switch Configuration/1.1 Cisco IOS modes.md",
-    "Older Notes/README.md",
-    "Linuxing time/Linux Security and shit.md",
-    "Pasted image 20231213163945.png",
-    "木漏れ日 - セブンウップ (seven oops).pdf",
     "Cisco/Untitled",
     "退屈な日本語の話/カラオケタイム (曲の歌詞)",
-    "Vim Cheat sheet.pdf",
     "Basic Chords.png",
     "Pasted image 20231208091902.png",
     "退屈な日本語の話/Grammar/Untitled",
     "Pasted image 20231205144756.png",
     "Pasted image 20231205141515.png",
     "Pasted image 20231205100512.png",
-    "Pasted image 20231204113403.png",
     "退屈な日本語の話/Daily Sentences",
     "退屈な日本語の話/Vocab and new words for u to learn",
     "退屈な日本語の話/Grammar",
-    "Pasted image 20231121132910.png",
-    "Pasted image 20231121132922.png",
     "Older Notes/how to hack the FBI/Images and Media Attachments/searchsploit/searchsploit list.png",
     "Untitled.canvas"
   ]

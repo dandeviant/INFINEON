@@ -41,6 +41,7 @@
 > - Reversing config commands is pretty simple. Just add `no` to the commands to remove it
 > - For example:
 > 	- `Switch(config-if)# no shutdown` - Start disabled ports
+> 	- `Switch(config-if)# no ip addr x.x.x.x y.y.y.y` - Remove IPv4 config on port
 > 	- `Switch(config)# no vlan 99`  - Remove vlan 99, whatever the fuck that is
 > 		- Small reminder; certain VLANs like VLAN 1, a default VLAN is unremovable.
 > 		- Proof:
