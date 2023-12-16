@@ -1,5 +1,6 @@
 {
   "accentColor": "",
   "baseFontSize": 18,
-  "textFontFamily": "Arial"
+  "textFontFamily": "Calibri",
+  "interfaceFontFamily": "Calibri"
 }
