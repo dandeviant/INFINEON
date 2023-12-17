@@ -39,16 +39,12 @@
 
 ![[Pasted image 20231208091902.png]]
 
-こんにちは \
-おはようう \
-何ですか？
-
+申し訳ありません
+>もうしわけありませんあ\
+> Apologies, I'm sorry
 
 
 ![[Pasted image 20231205141515.png]]
 ![[Pasted image 20231205144756.png]]
 
 ![[Pasted image 20231213163945.png]]
-申し訳ありません
-	もうしわけありませんあ
-	Apologies, I'm sorry
