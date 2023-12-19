@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "退屈な日本語の話/カラオケタイム (曲の歌詞)/黄色 - バックナンバー (back number).md",
+                "file": "Linuxing time/Bash Redirection - The Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "退屈な日本語の話/カラオケタイム (曲の歌詞)/黄色 - バックナンバー (back number).md",
+                "file": "Linuxing time/Bash Redirection - The Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "退屈な日本語の話/カラオケタイム (曲の歌詞)/黄色 - バックナンバー (back number).md"
+                "file": "Linuxing time/Bash Redirection - The Basics.md"
               }
             }
           },
@@ -166,10 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22ed0cbd411cc10f",
+  "active": "e095c261146b47b2",
   "lastOpenFiles": [
-    "退屈な日本語の話/カラオケタイム (曲の歌詞)/水平線 - バックナンバー (back number).md",
     "退屈な日本語の話/カラオケタイム (曲の歌詞)/黄色 - バックナンバー (back number).md",
+    "退屈な日本語の話/カラオケタイム (曲の歌詞)/水平線 - バックナンバー (back number).md",
     "退屈な日本語の話/Vocab and new words for u to learn/空は青いねぇ - Colours.md",
     "Cisco/some basic Cisco stuffs to remember.md",
     "退屈な日本語の話/カラオケタイム (曲の歌詞)/恋 - バックナンバー (back number).md",
