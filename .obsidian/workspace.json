@@ -23,11 +23,10 @@
             "id": "e095c261146b47b2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Linuxing time/Bash Redirection - The Basics.md",
-                "mode": "source",
-                "source": false
+                "file": "checksum-gibraltar-16.12.5b.txt",
+                "staged": false
               }
             }
           }
@@ -98,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linuxing time/Bash Redirection - The Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linuxing time/Bash Redirection - The Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linuxing time/Bash Redirection - The Basics.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,8 +164,10 @@
   },
   "active": "e095c261146b47b2",
   "lastOpenFiles": [
-    "退屈な日本語の話/カラオケタイム (曲の歌詞)/黄色 - バックナンバー (back number).md",
     "退屈な日本語の話/カラオケタイム (曲の歌詞)/水平線 - バックナンバー (back number).md",
+    "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md",
+    "退屈な日本語の話/カラオケタイム (曲の歌詞)/黄色 - バックナンバー (back number).md",
+    "checksum-gibraltar-16.12.5b.txt",
     "退屈な日本語の話/Vocab and new words for u to learn/空は青いねぇ - Colours.md",
     "Cisco/some basic Cisco stuffs to remember.md",
     "退屈な日本語の話/カラオケタイム (曲の歌詞)/恋 - バックナンバー (back number).md",
@@ -203,7 +200,6 @@
     "ランドム.txt",
     "退屈な日本語の話/Vocab and new words for u to learn/春夏秋冬 - Weather, seasons and nature.md",
     "退屈な日本語の話/Vocab and new words for u to learn/恵義と反対語 - Adjectives and Antonym.md",
-    "退屈な日本語の話/Vocab and new words for u to learn/お隣の天使様 - Positions.md",
     "Cisco/Untitled",
     "退屈な日本語の話/カラオケタイム (曲の歌詞)",
     "Pasted image 20231208091902.png",
@@ -213,7 +209,6 @@
     "Pasted image 20231205100512.png",
     "退屈な日本語の話/Daily Sentences",
     "退屈な日本語の話/Vocab and new words for u to learn",
-    "退屈な日本語の話/Grammar",
     "Older Notes/how to hack the FBI/Images and Media Attachments/searchsploit/searchsploit list.png",
     "Untitled.canvas"
   ]
