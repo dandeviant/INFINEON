@@ -1,4 +1,4 @@
-きいろ - yellow
+きいろyellow
 
 ---
 
