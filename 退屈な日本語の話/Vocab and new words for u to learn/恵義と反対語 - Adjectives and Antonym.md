@@ -10,6 +10,9 @@
 | 寒い | さむい | Cold (weather) | 熱い | あつい | Hot |
 | 新し | あたらし | new | | | |
 | 広い | ひろい | Wide, Spacious | | | |
+| 多く | おおく | Many, plenty | | | |
+| 大きい | おおき | Big | 小さい | ちいさい | Small  |
+| | でかい | Big | | |   |
 .
 
 |   |   |
