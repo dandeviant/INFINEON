@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a430d35126cd2e1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "退屈な日本語の話/Vocab and new words for u to learn/オンラインチェット- tech-cy words.md",
+                "file": "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "退屈な日本語の話/Vocab and new words for u to learn/オンラインチェット- tech-cy words.md",
+                "file": "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "退屈な日本語の話/Vocab and new words for u to learn/オンラインチェット- tech-cy words.md"
+                "file": "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md"
               }
             }
           },
@@ -154,8 +167,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22ed0cbd411cc10f",
+  "active": "a430d35126cd2e1a",
   "lastOpenFiles": [
+    "退屈な日本語の話/ひらがなとカタカナ.md",
     "退屈な日本語の話/Vocab and new words for u to learn/People.md",
     "退屈な日本語の話/Vocab and new words for u to learn/オンラインチェット- tech-cy words.md",
     "Basic Chords.png",
@@ -182,7 +196,6 @@
     "README.md",
     "退屈な日本語の話/Daily Sentences/タイトルなし.md",
     "退屈な日本語の話/Daily Sentences/お仕事アワー！.md",
-    "退屈な日本語の話/ひらがなとカタカナ.md",
     "退屈な日本語の話/カラオケタイム (曲の歌詞)/センチメートル - セブンウップ (seven oops).md",
     "退屈な日本語の話/Vocab and new words for u to learn/一二三 GO! - Numbers.md",
     "退屈な日本語の話/README.md",
