@@ -49,9 +49,9 @@
 
 ---
 
-月 
-つき = Moon
-Kun = つき
+月 \
+つき = Moon\
+Kun = つき\
 On = がつ // げつ
 
 | 漢字 | ひらがな | Months |
@@ -86,12 +86,19 @@ On = がつ // げつ
 | 今回   | こんかい | Now, this time | 
 | たった今 | たったいま | Just now | 
 |今日	|きょう 		|today	|
-|本日 (rarely used)  |ほんじつ　　|today 
+|本日 (rarely used)  |ほんじつ　　|today |
+| ... | ... | ... |
+|夕べ | ゆうべ | last night, last evening|
+|昨夜 | さくや | |
 |昨日 	|きのう		|yesterday
 |一昨日 	|おととい		|the day before yesterday
-|明日 	| みょうにち / あす / あした (formality in order) | tomorrow
-|明後日 	|あさって / みょうごにち		|the day after tomorrow
-|一日 	|いちにち		|all day long
+|明日 	| みょうにち (formality in order) | tomorrow
+| | あす | |
+| | あした | |
+|明後日 	|あさって	|the day after tomorrow |
+| | みょうごにち	| |
+|一日 	|いちにち		|all day long | 
+| ... | ... | ... |
 |週 	|しゅう		|week
 |今週 	|こんしゅう		|this week
 |先週 	|せんしゅう		|last week
@@ -114,7 +121,7 @@ On = がつ // げつ
 
 .
 
-| | | |
+|... |... |... |
 | --- | --- | --- | 
 | 休みの日 | やすみのひ | Rest day, off day | 
 | 休み | やすみ | Rest, vacation, holiday | 
