@@ -11,10 +11,11 @@
             "id": "22ed0cbd411cc10f",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "ランドム-二.md",
-                "staged": false
+                "file": "退屈な日本語の話/Vocab and new words for u to learn/People.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "退屈な日本語の話/Vocab and new words for u to learn/People.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "退屈な日本語の話/Vocab and new words for u to learn/People.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "退屈な日本語の話/Vocab and new words for u to learn/People.md"
+              }
             }
           },
           {
@@ -152,12 +157,20 @@
   "active": "22ed0cbd411cc10f",
   "lastOpenFiles": [
     "退屈な日本語の話/Vocab and new words for u to learn/オンラインチェット- Online.md",
+    "退屈な日本語の話/Vocab and new words for u to learn/People.md",
+    "Basic Chords.png",
+    "ランドム.md",
+    "Basic Python.md",
+    "Attachments/Pasted image 20231205100512.png",
+    "Attachments",
+    "Attachments/Pasted image 20231204113403.png",
+    "Attachments/Pasted image 20231121132922.png",
+    "Attachments/Pasted image 20231121132910.png",
     "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md",
     "退屈な日本語の話/Vocab and new words for u to learn/恵義と反対語 - Adjectives and Antonym.md",
     "ランドム-二.md",
     "退屈な日本語の話/カラオケタイム (曲の歌詞)/恋 - バックナンバー (back number).md",
     "退屈な日本語の話/カラオケタイム (曲の歌詞)/黄色 - バックナンバー (back number).md",
-    "ランドム.md",
     "退屈な日本語の話/カラオケタイム (曲の歌詞)/水平線 - バックナンバー (back number).md",
     "退屈な日本語の話/Vocab and new words for u to learn/人間と感情 - Body and emotions.md",
     "退屈な日本語の話/カラオケタイム (曲の歌詞)/木漏れ日 - セブンウップス (seven oops).md",
@@ -175,27 +188,18 @@
     "退屈な日本語の話/README.md",
     "Linuxing time/Bash Redirection - The Basics.md",
     "退屈な日本語の話/Grammar/お前と俺は- Pronouns.md",
-    "Basic Python.md",
-    "Basic Chords.png",
-    "Pasted image 20231204113403.png",
-    "Pasted image 20231121132922.png",
-    "Pasted image 20231121132910.png",
-    "Pasted image 20231213163945.png",
-    "Untitled.md",
+    "Attachments/Pasted image 20231213163945.png",
     "Vim Cheat sheet.pdf",
     "木漏れ日 - セブンウップ (seven oops).pdf",
-    "退屈な日本語の話/Vocab and new words for u to learn/ランドム.md",
     "退屈な日本語の話/ランドム.txt",
     "ランドム.txt",
     "Cisco/Untitled",
     "退屈な日本語の話/カラオケタイム (曲の歌詞)",
-    "Pasted image 20231208091902.png",
+    "Attachments/Pasted image 20231208091902.png",
     "退屈な日本語の話/Grammar/Untitled",
-    "Pasted image 20231205144756.png",
-    "Pasted image 20231205141515.png",
-    "Pasted image 20231205100512.png",
+    "Attachments/Pasted image 20231205144756.png",
+    "Attachments/Pasted image 20231205141515.png",
     "退屈な日本語の話/Daily Sentences",
-    "退屈な日本語の話/Vocab and new words for u to learn",
     "Older Notes/how to hack the FBI/Images and Media Attachments/searchsploit/searchsploit list.png",
     "Untitled.canvas"
   ]
