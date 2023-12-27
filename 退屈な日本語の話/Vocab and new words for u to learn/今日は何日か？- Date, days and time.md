@@ -4,6 +4,7 @@
 | 秒 | びょう | Second |
 | 分 | ぷん | Minute |
 | 時 | とき | Hour |
+| 時間 | じかん | Time |
 
 
 | 漢字 | かな | Days |
