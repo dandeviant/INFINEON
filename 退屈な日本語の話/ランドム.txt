@@ -1,32 +1,24 @@
-叶わる　		かなわる
-今夜　		こにゃ
-上げる　		あげる
-大人　		おとな
-胸		むね
-触れる		ふれる
-多く		おおく
-求めた		もとめた
-息		いき
-口		くち
-程		ほど
-涙		なみだ
-楽		らく、
-楽し		たのし
-吹かれる		ふかれる - 		blow (wind, breath)
+叶う 		かなう			to come true
+上げる		あげる			to raise/elevate
+大人		おとな			adult
+触れる		ふれる			touch/feel
+求める		もとめる			to wish/want
+息		いき			breath
+程		ほど			limit / extent
+楽		らく			comfort / ease
+吹かれる		ふかれる			blow (wind, breath)
 立ち上がる 	たちあがる			stand up / get up
 梅雨明けの空	つゆあけのそら		end of rainy season
 切れる		きれる			to break / cut
 眺める		ながめる			to see/gaze
-
-
+来る		こる			to come/arrive/approach
+ついに					finally
 越える		こえる			to cross over, pass through
 朝日		あさひ			morning sun
-
-
 保存		ほぞん			Save / Keep
 保存しない	ほぞんしない		Do not save
 名前を付けて保存	なまえをつけてほぞん		Rename and save (kinda like that...)
-入力		にゅうりょく			Input / Enter something (data)
+入力		にゅうりょく			Input / Enter something (data)|
 入力中		にゅうりょくちゅう		is typing (or some shit like that...)
 歌詞		かし			lyrics
 情報		じょうほう			information
@@ -34,19 +26,51 @@
 再生中		さいせいちゅう		now playing
 順		じゅん			Order / arrangements
 人気の曲		にんきのきょく		Popular songs
-
-
 幼		おさな			Young kid
 たった今		たったいま			Just now
 この広い空の下で	このひろいそらのしたで	
 転送されたメッセジ	てんそうされたメッセジ		Forwarded message
 信用		しんよう			Confidence
+時間		じかん			time
+時		じ	 		hour (tell time)	
+一時		いちじ 			1 hour
+??? 		???			1.5 hour 
+二時|		にじ 			2 hour	
+分		ぷん/ふん			minutes
+秒		びょう 			seconds 
+閉める	 	しめる			to close/shut
+終了		しゅうりょう			close / terminate / end
+記憶		きおく			memory
+		カケラ			fragments
+考え		かんがえ			opinion, thoughts, view
+昨夜		さくや			last night, last evening
+		ゆうべ
+目指す		めざす			to aim / goal / achieve
+開く		ひらく			to open / unseal 
+		あく			to open (doors)
+聞く		きく			to hear / listen
+閉じる		とじる			to close / shut
+閉める		しめる	
+無理		むり			cannot / not possible
+絶対		ぜったい			definitely, absolutely 
+見付ける		みつける			to find / discover
+見付かる		みつかる			to be found
+育る		そだてる			to bring up / raise
+育って		そだって			to be raised (e.g child)
+当日		とうじつ			day of ... (event)
+		ライブ当日			LIVE day
+道		みち			road, path
+更新		こうしん			update
 
 
 
-時間		じかん		time
-時		じ		hour (tell time)	1 hour 		一時	いちじ
-							1.5 hour	
-							2 hour		二時	にじ
-分		ぷん/ふん		minutes
-秒		びょう 		seconds
+
+申し訳ありません  	もうしわけありません  	Apologies, I'm sorry 
+五(5)枚  	ごまい  			5 pieces (of)
+
+
+
+このあと２人でみちゃくちゃ謝った		このあとのふたりでみちゃくちゃあやまった　　	after that, both of them apologise profusely
+話題に困った古見さん　　　　　　	わだいにこまったこみさん　		Komi-san had trouble coming up with a topic
+練習一緒に行くよ			れんしゅういっしょにいくよ		let's go to practice
+いちからろっけんをひょうじ　		ぜん ろっけんちゅう			Showing 1–6 of (a total of) 6 items

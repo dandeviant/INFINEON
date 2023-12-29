@@ -2,5 +2,8 @@
   "accentColor": "",
   "baseFontSize": 21,
   "textFontFamily": "Calibri",
-  "interfaceFontFamily": "Calibri"
+  "interfaceFontFamily": "Calibri",
+  "enabledCssSnippets": [
+    "dashboard"
+  ]
 }
