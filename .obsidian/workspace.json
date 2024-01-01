@@ -15,13 +15,50 @@
               "type": "markdown",
               "state": {
                 "file": "Dashboard4日本語.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
             }
+          },
+          {
+            "id": "35c395d5372b578c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "退屈な日本語の話/カラオケタイム (曲の歌詞)/恋 - バックナンバー (back number).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42474b89784e797f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "退屈な日本語の話/Vocab and new words for u to learn/一二三 GO! - Numbers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eee2dbbc168adb84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "退屈な日本語の話/カラオケタイム (曲の歌詞)/恋 - バックナンバー (back number).md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -87,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard4日本語.md",
+                "file": "退屈な日本語の話/カラオケタイム (曲の歌詞)/恋 - バックナンバー (back number).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard4日本語.md",
+                "file": "退屈な日本語の話/カラオケタイム (曲の歌詞)/恋 - バックナンバー (back number).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard4日本語.md"
+                "file": "退屈な日本語の話/カラオケタイム (曲の歌詞)/恋 - バックナンバー (back number).md"
               }
             }
           },
@@ -156,13 +193,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a430d35126cd2e1a",
+  "active": "eee2dbbc168adb84",
   "lastOpenFiles": [
+    "Dashboard4日本語.md",
+    "退屈な日本語の話/カラオケタイム (曲の歌詞)/恋 - バックナンバー (back number).md",
+    "退屈な日本語の話/Vocab and new words for u to learn/一二三 GO! - Numbers.md",
     "Cisco/Cisco CCNA R&S/1. Basic Switch Configuration/1.2 Configure switch ports.md",
     "Dashboard4IT.md",
     "Cisco/Cisco CCNA R&S/1. Basic Switch Configuration/1.1 Cisco IOS modes.md",
-    "Dashboard4日本語.md",
-    "退屈な日本語の話/Vocab and new words for u to learn/一二三 GO! - Numbers.md",
     "Untitled.md",
     "退屈な日本語の話/ランドム-二.md",
     "退屈な日本語の話/カラオケタイム (曲の歌詞)/黄色 - バックナンバー (back number).md",
@@ -185,7 +223,6 @@
     "Attachments/Pasted image 20231121132922.png",
     "Attachments/Pasted image 20231121132910.png",
     "退屈な日本語の話/Vocab and new words for u to learn/恵義と反対語 - Adjectives and Antonym.md",
-    "退屈な日本語の話/カラオケタイム (曲の歌詞)/恋 - バックナンバー (back number).md",
     "退屈な日本語の話/カラオケタイム (曲の歌詞)/水平線 - バックナンバー (back number).md",
     "退屈な日本語の話/Vocab and new words for u to learn/人間と感情 - Body and emotions.md",
     "退屈な日本語の話/カラオケタイム (曲の歌詞)/木漏れ日 - セブンウップス (seven oops).md",
