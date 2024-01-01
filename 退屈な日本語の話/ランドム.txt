@@ -61,14 +61,14 @@
 		ライブ当日			LIVE day
 道		みち			road, path
 更新		こうしん			update
-
+発生		はっせい			found / encountered
 
 
 
 申し訳ありません  	もうしわけありません  	Apologies, I'm sorry 
 五(5)枚  	ごまい  			5 pieces (of)
 
-
+	
 
 このあと２人でみちゃくちゃ謝った		このあとのふたりでみちゃくちゃあやまった　　	after that, both of them apologise profusely
 話題に困った古見さん　　　　　　	わだいにこまったこみさん　		Komi-san had trouble coming up with a topic

@@ -3,7 +3,6 @@ cssclasses:
   - dashboard
 tags: []
 ---
-#  退屈な日本語の話
 - Grammar
 	- [[Particles]]
 	- [[お前と俺は- Pronouns]]
