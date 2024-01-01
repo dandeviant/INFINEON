@@ -22,43 +22,19 @@
             }
           },
           {
-            "id": "35c395d5372b578c",
+            "id": "b90b6ebb2d68bfb8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "退屈な日本語の話/カラオケタイム (曲の歌詞)/恋 - バックナンバー (back number).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42474b89784e797f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "退屈な日本語の話/Vocab and new words for u to learn/一二三 GO! - Numbers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eee2dbbc168adb84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "退屈な日本語の話/カラオケタイム (曲の歌詞)/恋 - バックナンバー (back number).md",
+                "file": "退屈な日本語の話/カラオケタイム (曲の歌詞)/黄色 - バックナンバー (back number).md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "退屈な日本語の話/カラオケタイム (曲の歌詞)/恋 - バックナンバー (back number).md",
+                "file": "退屈な日本語の話/カラオケタイム (曲の歌詞)/黄色 - バックナンバー (back number).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "退屈な日本語の話/カラオケタイム (曲の歌詞)/恋 - バックナンバー (back number).md",
+                "file": "退屈な日本語の話/カラオケタイム (曲の歌詞)/黄色 - バックナンバー (back number).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "退屈な日本語の話/カラオケタイム (曲の歌詞)/恋 - バックナンバー (back number).md"
+                "file": "退屈な日本語の話/カラオケタイム (曲の歌詞)/黄色 - バックナンバー (back number).md"
               }
             }
           },
@@ -193,15 +169,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eee2dbbc168adb84",
+  "active": "b90b6ebb2d68bfb8",
   "lastOpenFiles": [
     "Dashboard4日本語.md",
     "退屈な日本語の話/カラオケタイム (曲の歌詞)/恋 - バックナンバー (back number).md",
     "退屈な日本語の話/Vocab and new words for u to learn/一二三 GO! - Numbers.md",
+    "README.md",
+    "Untitled.md",
     "Cisco/Cisco CCNA R&S/1. Basic Switch Configuration/1.2 Configure switch ports.md",
     "Dashboard4IT.md",
     "Cisco/Cisco CCNA R&S/1. Basic Switch Configuration/1.1 Cisco IOS modes.md",
-    "Untitled.md",
     "退屈な日本語の話/ランドム-二.md",
     "退屈な日本語の話/カラオケタイム (曲の歌詞)/黄色 - バックナンバー (back number).md",
     "ランドム.md",
@@ -212,7 +189,6 @@
     "退屈な日本語の話/README.md",
     "Attachments/Basic Chords.png",
     "退屈な日本語の話/Grammar/Particles.md",
-    "README.md",
     "2023-12-28.md",
     "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md",
     "退屈な日本語の話/Vocab and new words for u to learn/People.md",
