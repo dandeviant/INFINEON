@@ -88,42 +88,43 @@ On = がつ // げつ
 ---
 
 | 漢字 | ひらがな | English |
-| --- | --- | --- |
-| 今回   | こんかい | Now, this time | 
-| たった今 | たったいま | Just now | 
-|今日	|きょう 		|today	|
-|本日 (rarely used)  |ほんじつ　　|today |
+| ---- | ---- | ---- |
+| 今回 | こんかい | Now, this time |
+| たった今 | たったいま | Just now |
+| 今日 | きょう | today |
+| 本日 (rarely used) | ほんじつ | today |
 | ... | ... | ... |
-|夕べ | ゆうべ | last night, last evening|
-|昨夜 | さくや | |
-|昨日 	|きのう		|yesterday
-|一昨日 	|おととい		|the day before yesterday
-|明日 	| みょうにち (formality in order) | tomorrow
-| | あす | |
-| | あした | |
-|明後日 	|あさって	|the day after tomorrow |
-| | みょうごにち	| |
-|一日 	|いちにち		|all day long | 
+| 夕べ | ゆうべ | last night, last evening |
+| 昨夜 | さくや |  |
+| 昨日 | きのう | yesterday |
+| 一昨日 | おととい | the day before yesterday |
+| 明日 | みょうにち (formality in order) | tomorrow |
+|  | あす |  |
+|  | あした |  |
+| 翌日     | よくじつ | the next day |
+| 明後日 | あさって | the day after tomorrow |
+|  | みょうごにち |  |
+| 一日 | いちにち | all day long |
 | ... | ... | ... |
-|週 	|しゅう		|week
-|今週 	|こんしゅう		|this week
-|先週 	|せんしゅう		|last week
-|来週 	|らいしゅう		|next week
-| 再来週 | さらいしゅう | Week after next week | 
-| 毎週   | まいしゅう | Every week | 
-| 月 	| げつ		| Month
-| 月間  | げっかん | Monthly |
-|今月 	|こんげつ		| This month
-|先月 	|せんげつ		| Last month
-|来月	|らいげつ		| Next month
-| 再来月 | さらいげつ | The month after next month
-| 毎月   | まいつき | Every month | 
-|年	     | ねん		|year
-|今年	|ことし		|this year
-|去年	|きょねん		|last year
-|来年	|らいねん		|next year
-|再来年　| さらいねん　| The year after next year | 
-| 毎年　| まいとし　| Every year |
+| 週 | しゅう | week |
+| 今週 | こんしゅう | this week |
+| 先週 | せんしゅう | last week |
+| 来週 | らいしゅう | next week |
+| 再来週 | さらいしゅう | Week after next week |
+| 毎週 | まいしゅう | Every week |
+| 月 | げつ | Month |
+| 月間 | げっかん | Monthly |
+| 今月 | こんげつ | This month |
+| 先月 | せんげつ | Last month |
+| 来月 | らいげつ | Next month |
+| 再来月 | さらいげつ | The month after next month |
+| 毎月 | まいつき | Every month |
+| 年 | ねん | year |
+| 今年 | ことし | this year |
+| 去年 | きょねん | last year |
+| 来年 | らいねん | next year |
+| 再来年 | さらいねん | The year after next year |
+| 毎年 | まいとし | Every year |
 
 .
 
