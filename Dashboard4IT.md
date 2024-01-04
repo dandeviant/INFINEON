@@ -6,7 +6,7 @@ cssclasses:
 ---
 
 - #### Basics
-	- Commands
+	- Terminal Commands
 - #### Advanced
 	- Wireshark
 
