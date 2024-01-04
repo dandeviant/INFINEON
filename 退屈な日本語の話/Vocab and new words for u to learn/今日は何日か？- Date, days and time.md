@@ -62,15 +62,15 @@ On = がつ // げつ
 
 | 漢字 | ひらがな | Months |
 | --- | --- | --- |
-|  １月 | いち がつ  | January |
+|      １月 | いち がつ  | January |
 |  ２月 | に がつ  | February |
 |  ３月 | さん がつ  | March|
 |  ４月 | し がつ   | April|
 |  ５月 | ご がつ  | May|
 |  ６月 | ろく がつ  | June|
-|  ７月 | しち がつ  | July|
+|      ７月 | しち がつ  | July|
 |  ８月 | はち がつ  | August|
-|  ９月 | きゅう がつ  | September|
+|       ９月 | きゅう がつ  | September|
 |１０月 | じゅう　がつ  | October|
 |１１月 | じゅう いち がつ  | November|
 |１２月 | じゅうに がつ | December|
@@ -89,10 +89,13 @@ On = がつ // げつ
 
 | 漢字 | ひらがな | English |
 | ---- | ---- | ---- |
-| 今回 | こんかい | Now, this time |
+| 今日 | きょう | Today |
+| 本日 (rarely used) | ほんじつ |  |
+| 今月 | こんげつ | This month |
+| 今年 | ことし | This year |
 | たった今 | たったいま | Just now |
-| 今日 | きょう | today |
-| 本日 (rarely used) | ほんじつ | today |
+| 今回 | こんかい | Now, this time |
+| 日々 | ひび | daily |
 | ... | ... | ... |
 | 夕べ | ゆうべ | last night, last evening |
 | 昨夜 | さくや |  |
@@ -101,7 +104,7 @@ On = がつ // げつ
 | 明日 | みょうにち (formality in order) | tomorrow |
 |  | あす |  |
 |  | あした |  |
-| 翌日     | よくじつ | the next day |
+| 翌日 | よくじつ | the next day |
 | 明後日 | あさって | the day after tomorrow |
 |  | みょうごにち |  |
 | 一日 | いちにち | all day long |
@@ -114,13 +117,11 @@ On = がつ // げつ
 | 毎週 | まいしゅう | Every week |
 | 月 | げつ | Month |
 | 月間 | げっかん | Monthly |
-| 今月 | こんげつ | This month |
 | 先月 | せんげつ | Last month |
 | 来月 | らいげつ | Next month |
 | 再来月 | さらいげつ | The month after next month |
 | 毎月 | まいつき | Every month |
 | 年 | ねん | year |
-| 今年 | ことし | this year |
 | 去年 | きょねん | last year |
 | 来年 | らいねん | next year |
 | 再来年 | さらいねん | The year after next year |
