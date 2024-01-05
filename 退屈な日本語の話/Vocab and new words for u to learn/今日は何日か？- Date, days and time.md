@@ -3,9 +3,20 @@
 | ---- | ---- | ---- |
 | 秒 | びょう | Second |
 | 分 | ぷん | Minute |
-| 時 | とき | Hour |
+| 時 | とき | Time |
+|  | じ | Hour (e.g What time in hour) |
 | 時間 | じかん | Time |
+|  | じかん | Hours (e.g how many hours) |
 
+Example:
+
+| 日本語 | かな | 英語 |
+| ---- | ---- | ---- |
+| 6時 | ろくじ | 6 o'clock |
+| 12時 | じゅうにじ | 12 o'clock |
+| 6時間 | ろくじかん | 6 hours |
+
+---
 
 | 漢字 | かな | Days |
 | ---- | ---- | ---- |
@@ -89,11 +100,11 @@ On = がつ // げつ
 
 | 漢字 | ひらがな | English |
 | ---- | ---- | ---- |
+| たった今 | たったいま | Just now |
 | 今日 | きょう | Today |
 | 本日 (rarely used) | ほんじつ |  |
 | 今月 | こんげつ | This month |
 | 今年 | ことし | This year |
-| たった今 | たったいま | Just now |
 | 今回 | こんかい | Now, this time |
 | 日々 | ひび | daily |
 | ... | ... | ... |
