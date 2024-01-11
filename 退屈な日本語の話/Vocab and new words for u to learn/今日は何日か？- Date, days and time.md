@@ -1,12 +1,17 @@
 
 | 漢字 | かな | 英語 |
 | ---- | ---- | ---- |
+| 午前 | ごぜん | AM |
+| 午後 | ごご | PM |
 | 秒 | びょう | Second |
 | 分 | ぷん | Minute |
 | 時 | とき | Time |
 |  | じ | Hour (e.g What time in hour) |
 | 時間 | じかん | Time |
 |  | じかん | Hours (e.g how many hours) |
+| 日 | ひ | Day |
+| 週 | しゅう | Week |
+| 月 | すき | Month |
 
 Example:
 
@@ -15,6 +20,19 @@ Example:
 | 6時 | ろくじ | 6 o'clock |
 | 12時 | じゅうにじ | 12 o'clock |
 | 6時間 | ろくじかん | 6 hours |
+| 3時20分 | 3じ20ぷん | 3:20 |
+|  |  |  |
+| 午前 | ごぜん | AM |
+| 午後 | ごご | PM |
+| 朝 | あさ | morning |
+| 早朝 | そうちょう | early morning |
+| 日の出 | ひので | sunrise |
+| 正午 | しょうご | noon |
+| 日中 | にっちゅう | midday |
+| 夕方 | ゆうがた | early evening |
+| 日没 | にちぼつ | sunset |
+| 夜 | よる | evening / night |
+| 深夜 | しんや | midnight |
 
 ---
 
@@ -66,11 +84,6 @@ Example:
 
 ---
 
-月 \
-つき = Moon\
-Kun = つき\
-On = がつ // げつ
-
 | 漢字 | ひらがな | Months |
 | --- | --- | --- |
 |      １月 | いち がつ  | January |
@@ -106,21 +119,21 @@ On = がつ // げつ
 | 今月 | こんげつ | This month |
 | 今年 | ことし | This year |
 | 今回 | こんかい | Now, this time |
-| 日々 | ひび | daily |
+| 日々 | ひび | Daily / Everyday |
 | ... | ... | ... |
-| 夕べ | ゆうべ | last night, last evening |
+| 夕べ | ゆうべ | Last (yesterday) night, last evening |
 | 昨夜 | さくや |  |
+| 昨朝 | さくちょう | Yesterday morning |
 | 昨日 | きのう | yesterday |
 | 一昨日 | おととい | the day before yesterday |
-| 明日 | みょうにち (formality in order) | tomorrow |
+| 明日 | みょうにち (formality in order) | Tomorrow |
 |  | あす |  |
 |  | あした |  |
-| 翌日 | よくじつ | the next day |
-| 明後日 | あさって | the day after tomorrow |
+| 翌日 | よくじつ | The next day |
+| 明後日 | あさって | The day after tomorrow |
 |  | みょうごにち |  |
-| 一日 | いちにち | all day long |
+| 一日 | いちにち | All day long |
 | ... | ... | ... |
-| 週 | しゅう | week |
 | 今週 | こんしゅう | this week |
 | 先週 | せんしゅう | last week |
 | 来週 | らいしゅう | next week |
