@@ -1,9 +1,11 @@
 {
   "accentColor": "",
-  "baseFontSize": 21,
+  "baseFontSize": 24,
   "textFontFamily": "Calibri",
   "interfaceFontFamily": "Calibri",
   "enabledCssSnippets": [
     "dashboard"
-  ]
+  ],
+  "cssTheme": "Atom",
+  "theme": "obsidian"
 }

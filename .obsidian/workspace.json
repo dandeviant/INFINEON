@@ -29,74 +29,25 @@
               "type": "markdown",
               "state": {
                 "file": "Dashboard4IT.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
             }
           },
           {
-            "id": "116b060f8d9e6104",
+            "id": "767534ea0f08bb03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md",
+                "file": "Linuxing time/All About Linux/Diagrams.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9efe87347217cb1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "退屈な日本語の話/カラオケタイム (曲の歌詞)/黄色 - バックナンバー (back number).md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e664e2e61e0c5ca9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "982eadf33002f3af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f47a38d2c9395c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cisco/NOC Standardization.md",
-                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cisco/NOC Standardization.md",
+                "file": "Dashboard4日本語.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cisco/NOC Standardization.md",
+                "file": "Dashboard4日本語.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cisco/NOC Standardization.md"
+                "file": "Dashboard4日本語.md"
               }
             }
           },
@@ -233,14 +184,21 @@
   },
   "active": "12cf276997f9ba21",
   "lastOpenFiles": [
+    "Linuxing time/All About Linux/Diagrams.md",
+    "Linuxing time/All About Linux/Remote Connection/Secure Copy Protocol.md",
+    "Linuxing time/All About Linux/Basic Linux Commands/Compress n Decompress.md",
+    "Linuxing time/All About Linux/Basic Linux Commands/Aliasing Commands.md",
     "Dashboard4IT.md",
-    "Cisco/NOC Standardization.md",
+    "Linuxing time/Bash Cheat sheet.md",
     "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md",
+    "退屈な日本語の話/カラオケタイム (曲の歌詞)/黄色 - バックナンバー (back number).md",
+    "NOC Network Infra/Cisco Smart Licensing.md",
+    "Cisco/Cisco CCNA R&S/3. VLANs/3.4 VLAN Trunk Configuration.md",
+    "Dashboard4日本語.md",
+    "NOC Network Infra",
     "Cisco/Cisco IOS.ini",
     "退屈な日本語の話/Vocab and new words for u to learn/恵義と反対語 - Adjectives and Antonym.md",
-    "Dashboard4日本語.md",
     "RegEx Basics.md",
-    "退屈な日本語の話/カラオケタイム (曲の歌詞)/黄色 - バックナンバー (back number).md",
     "Cisco/Cisco CCNA R&S/3. VLANs/3.3. VLAN Configuration.md",
     "Cisco/Cisco CCNA R&S/1. Basic Switch Configuration/1.1 Cisco IOS modes.md",
     "退屈な日本語の話/Vocab and new words for u to learn/一二三 GO! - Numbers.md",
@@ -255,17 +213,11 @@
     "Spicy-Sweet Buffalo Popcorn.md",
     "退屈な日本語の話/README.md",
     "Attachments/Basic Chords.png",
-    "退屈な日本語の話/Grammar/Particles.md",
-    "2023-12-28.md",
-    "退屈な日本語の話/Vocab and new words for u to learn/People.md",
-    "Basic Python.md",
     "Attachments/Pasted image 20231205100512.png",
     "Attachments",
     "Attachments/Pasted image 20231204113403.png",
     "Attachments/Pasted image 20231121132922.png",
     "Attachments/Pasted image 20231121132910.png",
-    "退屈な日本語の話/カラオケタイム (曲の歌詞)/水平線 - バックナンバー (back number).md",
-    "退屈な日本語の話/Vocab and new words for u to learn/人間と感情 - Body and emotions.md",
     "checksum-gibraltar-16.12.5b.txt",
     "Attachments/Pasted image 20231213163945.png",
     "Vim Cheat sheet.pdf",
@@ -275,7 +227,6 @@
     "Cisco/Untitled",
     "退屈な日本語の話/カラオケタイム (曲の歌詞)",
     "Attachments/Pasted image 20231208091902.png",
-    "退屈な日本語の話/Grammar/Untitled",
     "Attachments/Pasted image 20231205144756.png",
     "Attachments/Pasted image 20231205141515.png",
     "Older Notes/how to hack the FBI/Images and Media Attachments/searchsploit/searchsploit list.png",

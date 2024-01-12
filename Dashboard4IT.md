@@ -10,7 +10,7 @@ cssclasses:
 - #### Advanced
 	- Wireshark
 
-### Cisco
+### Cisco Basics
 ---
 
 - #### Basic Configurations
@@ -21,3 +21,8 @@ cssclasses:
 - #### VLANs
 	- [[3.3. VLAN Configuration]]
 	- [[3.4 VLAN Trunk Configuration]]
+
+### NOC Network Infra
+---
+- #### Cisco Proprietary
+	- [[Cisco Smart Licensing]]

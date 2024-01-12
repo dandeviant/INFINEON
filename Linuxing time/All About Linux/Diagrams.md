@@ -1,3 +1,9 @@
+---
+cssclasses:
+  - mermaid
+---
+
+
 ```mermaid
 pie title My Everyday Life
 "Cybersecurity": 45
@@ -6,10 +12,22 @@ pie title My Everyday Life
 ```
 
 
-Sequence Diagram
-
+#### TCP Handshake
 ```mermaid
 sequenceDiagram
-Me -->> You: I confessed
-You -->> Me: You rejected
+
+Sender -->> Receiver: SYN
+Receiver -->> Sender: SYN-ACK
+Sender -->> Receiver: ACK
 ```
+
+#### UDP Handshake
+```mermaid
+sequenceDiagram
+
+Receiver -->> Sender: Request
+Sender -->> Receiver: Response
+Sender -->> Receiver: Response
+Sender -->> Receiver: Response
+```
+
