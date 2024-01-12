@@ -116,11 +116,12 @@ Example:
 | ---- | ---- | ---- |
 | たった今 | たったいま | Just now |
 | 今日 | きょう | Today |
-| 本日 (rarely used) | ほんじつ |  |
+| 本日 (rarely used) | ほんじつ | Today |
 | 今月 | こんげつ | This month |
 | 今年 | ことし | This year |
 | 今回 | こんかい | Now, this time |
-| 日々 | ひび | Daily / Everyday |
+| 日々 | ひび | Everyday / Daily |
+| 毎日 | まいにち | Everyday |
 | ... | ... | ... |
 | 夕べ | ゆうべ | Last (yesterday) night, last evening |
 | 昨夜 | さくや |  |

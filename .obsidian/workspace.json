@@ -53,8 +53,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard @ IT.md",
-                "mode": "preview",
+                "file": "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -126,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard @ IT.md",
+                "file": "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard @ IT.md",
+                "file": "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard @ IT.md"
+                "file": "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md"
               }
             }
           },
@@ -197,8 +198,10 @@
   },
   "active": "23ca6a376ebbb3ab",
   "lastOpenFiles": [
-    "Dashboard @ 日本語.md",
+    "NOC Network Infra/Standard Config.md",
+    "NOC Network Infra/Cisco Smart Licensing.md",
     "Dashboard @ IT.md",
+    "Dashboard @ 日本語.md",
     "Linuxing time/All About Linux/Diagrams.md",
     "Linuxing time/All About Linux/Remote Connection/Secure Copy Protocol.md",
     "Linuxing time/All About Linux/Basic Linux Commands/Compress n Decompress.md",
@@ -206,7 +209,6 @@
     "Linuxing time/Bash Cheat sheet.md",
     "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md",
     "退屈な日本語の話/カラオケタイム (曲の歌詞)/黄色 - バックナンバー (back number).md",
-    "NOC Network Infra/Cisco Smart Licensing.md",
     "Cisco/Cisco CCNA R&S/3. VLANs/3.4 VLAN Trunk Configuration.md",
     "NOC Network Infra",
     "Cisco/Cisco IOS.ini",
@@ -224,7 +226,6 @@
     "退屈な日本語の話/Vocab and new words for u to learn/オンラインチェット- tech-cy words.md",
     "退屈な日本語の話/ひらがなとカタカナ.md",
     "Spicy-Sweet Buffalo Popcorn.md",
-    "退屈な日本語の話/README.md",
     "Attachments/Basic Chords.png",
     "Attachments/Pasted image 20231205100512.png",
     "Attachments",

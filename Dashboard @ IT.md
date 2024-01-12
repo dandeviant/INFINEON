@@ -4,6 +4,16 @@ cssclasses:
 ---
 
 ---
+### NOC Network Infra 
+
+---
+- #### Cisco Proprietary
+	- [[Cisco Smart Licensing]] 
+- #### NOC Configuration Standards
+	- 
+
+
+---
 ## Linux
 ---
 
@@ -26,9 +36,3 @@ cssclasses:
 	- [[3.3. VLAN Configuration]]
 	- [[3.4 VLAN Trunk Configuration]]
 
-
----
-### NOC Network Infra
----
-- #### Cisco Proprietary
-	- [[Cisco Smart Licensing]]
