@@ -36,25 +36,25 @@
             }
           },
           {
-            "id": "767534ea0f08bb03",
+            "id": "25b90b1f5600b3a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linuxing time/All About Linux/Diagrams.md",
-                "mode": "source",
+                "file": "退屈な日本語の話/カラオケタイム (曲の歌詞)/恋 - バックナンバー (back number).md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "c4f3c1b162ed6adc",
+            "id": "22eb210241cb57d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard @ Network.md",
-                "mode": "preview",
+                "file": "退屈な日本語の話/Vocab and new words for u to learn/オンラインチェット- tech-cy words.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard @ Network.md",
+                "file": "退屈な日本語の話/Vocab and new words for u to learn/オンラインチェット- tech-cy words.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard @ Network.md",
+                "file": "退屈な日本語の話/Vocab and new words for u to learn/オンラインチェット- tech-cy words.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard @ Network.md"
+                "file": "退屈な日本語の話/Vocab and new words for u to learn/オンラインチェット- tech-cy words.md"
               }
             }
           },
@@ -195,30 +195,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4f3c1b162ed6adc",
+  "active": "22eb210241cb57d6",
   "lastOpenFiles": [
     "Dashboard @ 日本語.md",
-    "Attachments/Basic Chords.png",
-    "NOC Network Infra/Cisco Smart Licensing.md",
+    "退屈な日本語の話/カラオケタイム (曲の歌詞)/恋 - バックナンバー (back number).md",
     "Dashboard @ Network.md",
     "Linuxing time/All About Linux/Diagrams.md",
+    "Cisco/Cisco CCNA R&S/3. VLANs/3.3. VLAN Configuration.md",
+    "Attachments/Basic Chords.png",
+    "Older Notes/NOC Network Infra/Cisco Smart Licensing.md",
     "退屈な日本語の話/カラオケタイム (曲の歌詞)/黄色 - バックナンバー (back number).md",
     "退屈な日本語の話/カラオケタイム (曲の歌詞)/水平線 - バックナンバー (back number).md",
     "退屈な日本語の話/カラオケタイム (曲の歌詞)/木漏れ日 - セブンウップス (seven oops).md",
-    "退屈な日本語の話/カラオケタイム (曲の歌詞)/恋 - バックナンバー (back number).md",
     "退屈な日本語の話/カラオケタイム (曲の歌詞)/センチメートル - セブンウップ (seven oops).md",
     "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md",
-    "NOC Network Infra/Standard Config.md",
+    "Older Notes/NOC Network Infra/Standard Config.md",
     "Linuxing time/All About Linux/Remote Connection/Secure Copy Protocol.md",
     "Linuxing time/All About Linux/Basic Linux Commands/Compress n Decompress.md",
     "Linuxing time/All About Linux/Basic Linux Commands/Aliasing Commands.md",
     "Linuxing time/Bash Cheat sheet.md",
     "Cisco/Cisco CCNA R&S/3. VLANs/3.4 VLAN Trunk Configuration.md",
-    "NOC Network Infra",
+    "Older Notes/NOC Network Infra",
     "Cisco/Cisco IOS.ini",
     "退屈な日本語の話/Vocab and new words for u to learn/恵義と反対語 - Adjectives and Antonym.md",
     "RegEx Basics.md",
-    "Cisco/Cisco CCNA R&S/3. VLANs/3.3. VLAN Configuration.md",
     "Cisco/Cisco CCNA R&S/1. Basic Switch Configuration/1.1 Cisco IOS modes.md",
     "退屈な日本語の話/Vocab and new words for u to learn/一二三 GO! - Numbers.md",
     "README.md",

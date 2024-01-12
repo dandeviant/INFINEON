@@ -5,7 +5,6 @@ cssclasses:
 
 ---
 ### NOC Network Infra 
-
 ---
 - #### Cisco Proprietary
 	- [[Cisco Smart Licensing]] 
@@ -14,7 +13,7 @@ cssclasses:
 
 
 ---
-## Linux
+### Linux
 ---
 
 - #### Basics
