@@ -58,9 +58,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "987432f9845ccb4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "退屈な日本語の話/Vocab and new words for u to learn/オンラインチェット- tech-cy words.md",
+                "file": "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "退屈な日本語の話/Vocab and new words for u to learn/オンラインチェット- tech-cy words.md",
+                "file": "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "退屈な日本語の話/Vocab and new words for u to learn/オンラインチェット- tech-cy words.md"
+                "file": "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md"
               }
             }
           },
@@ -195,9 +207,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22eb210241cb57d6",
+  "active": "987432f9845ccb4a",
   "lastOpenFiles": [
     "Dashboard @ 日本語.md",
+    "退屈な日本語の話/Vocab and new words for u to learn/オンラインチェット- tech-cy words.md",
     "退屈な日本語の話/カラオケタイム (曲の歌詞)/恋 - バックナンバー (back number).md",
     "Dashboard @ Network.md",
     "Linuxing time/All About Linux/Diagrams.md",
