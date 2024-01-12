@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard4日本語.md",
+                "file": "Dashboard @ 日本語.md",
                 "mode": "preview",
                 "source": false
               },
@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard4IT.md",
+                "file": "Dashboard @ IT.md",
                 "mode": "preview",
                 "source": false
               },
@@ -46,8 +46,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "23ca6a376ebbb3ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard @ IT.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard4日本語.md",
+                "file": "Dashboard @ IT.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard4日本語.md",
+                "file": "Dashboard @ IT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard4日本語.md"
+                "file": "Dashboard @ IT.md"
               }
             }
           },
@@ -182,19 +195,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12cf276997f9ba21",
+  "active": "23ca6a376ebbb3ab",
   "lastOpenFiles": [
+    "Dashboard @ 日本語.md",
+    "Dashboard @ IT.md",
     "Linuxing time/All About Linux/Diagrams.md",
     "Linuxing time/All About Linux/Remote Connection/Secure Copy Protocol.md",
     "Linuxing time/All About Linux/Basic Linux Commands/Compress n Decompress.md",
     "Linuxing time/All About Linux/Basic Linux Commands/Aliasing Commands.md",
-    "Dashboard4IT.md",
     "Linuxing time/Bash Cheat sheet.md",
     "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md",
     "退屈な日本語の話/カラオケタイム (曲の歌詞)/黄色 - バックナンバー (back number).md",
     "NOC Network Infra/Cisco Smart Licensing.md",
     "Cisco/Cisco CCNA R&S/3. VLANs/3.4 VLAN Trunk Configuration.md",
-    "Dashboard4日本語.md",
     "NOC Network Infra",
     "Cisco/Cisco IOS.ini",
     "退屈な日本語の話/Vocab and new words for u to learn/恵義と反対語 - Adjectives and Antonym.md",

@@ -2,6 +2,8 @@
 cssclasses:
   - dashboard
 ---
+
+---
 ## Linux
 ---
 
@@ -10,6 +12,8 @@ cssclasses:
 - #### Advanced
 	- Wireshark
 
+
+---
 ### Cisco Basics
 ---
 
@@ -22,6 +26,8 @@ cssclasses:
 	- [[3.3. VLAN Configuration]]
 	- [[3.4 VLAN Trunk Configuration]]
 
+
+---
 ### NOC Network Infra
 ---
 - #### Cisco Proprietary
