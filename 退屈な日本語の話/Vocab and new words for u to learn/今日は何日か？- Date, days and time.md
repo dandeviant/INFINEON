@@ -12,8 +12,6 @@
 | 日 | ひ | Day |
 | 週 | しゅう | Week |
 | 月 | すき | Month |
-| 午前 | ごぜん | AM |
-| 午後 | ごご | PM |
 | 朝 | あさ | morning |
 | 早朝 | そうちょう | early morning |
 | 日の出 | ひので | sunrise |
@@ -24,24 +22,64 @@
 | 夜 | よる | evening / night |
 | 深夜 | しんや | midnight |
 
-### Moments ago/later
-| 日本語 | かな | 英語 |
-| ---- | ---- | ---- |
-| 。。前 | 。。まえ | ... ago |
-| 。。後 | 。。ご | ... later |
+## Tell time
 
-Example:
-
-
+#### Clock time
 | 日本語 | かな | 英語 |
 | ---- | ---- | ---- |
 | 6時 | 6じ | 6 o'clock |
 | 12時 | 12じ | 12 o'clock |
+
+
+> [! ]- Example of telling time (o'clock)
+> 1. 10時です。\
+>	It's ten o'clock.
+> 2. 午後12時に晩御飯を食べました。\
+> 	I ate dinner at 12 p.m.
+> 3. 朝の8時です。\
+> 	8:00 in the morning.
+> 4. 夜の八時です。\
+> 	8:00 in the evening.
+
+#### AM / PM
+| 日本語 | かな | 英語 |
+| ---- | ---- | ---- |
+| 午前 | ごぜん | AM |
+| 午後 | ごご | PM |
+| 半 | はん | 30 minutes (as in half past 10 like that) |
+
+
+> [! ]- Example of telling time (AM / PM)
+> 1. 午前４時にテレビを見ます。
+>	I will watch television at 4 a.m.
+> 
+> 2. 午後１２時に晩御飯（ばんごはん）を食べました。\
+> 	I ate dinner at 12 p.m.
+> 3. 午前11時半に会議（かいぎ）があります    \
+> 	We have a meeting at 11:30 a.m.
+
+| 日本語 | かな | 英語 |
+| ---- | ---- | ---- |
 | 6時間 | 6じかん | 6 hours |
 | 3時20分 | 3じ20ぷん | 3:20 |
+https://www.tofugu.com/japanese/japanese-counter-ji-jikan/
+
+## Moments ago/later
+| 日本語 | かな | 英語 |
+| ---- | ---- | ---- |
+| 。。前 | 。。まえ | ... ago |
+| 。。後 | 。。ご / あと | ... later |
+| くらい ／ ぐらい |  | approximately |
+
+Example:
+
+| 日本語 | かな | 英語 |
+| ---- | ---- | ---- |
 | 10分後 | 10ぷんご | 10 minutes later |
 | 10時前 | 10じかんまえ | 10 hours ago |
-
+| 後10時間 | あと10じかん | 10 hours ago |
+| 10分くらい前 | 10分くらいまえ | Approximately 10 hours ago |
+| 4年後 | 4ねんご | 4 years later |
 
 ---
 
