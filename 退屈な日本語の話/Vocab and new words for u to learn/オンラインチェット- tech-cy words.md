@@ -24,8 +24,9 @@
 | 未読メッセージ４件 | みどくメッセージ４けん | 4 unread messages |
 | 画像 | がぞう | Picture |
 | 動画 | どうが | Videos, clips |
-| 入手 | にゅうしゅ | Get (app) |
-| 開く | ひらく | Open (app) |
+| 入手 | にゅうしゅ | Get / obtain |
+| 開く | ひらく | Open |
+| 終了 | しゅうりょう | Close |
 
 
 
