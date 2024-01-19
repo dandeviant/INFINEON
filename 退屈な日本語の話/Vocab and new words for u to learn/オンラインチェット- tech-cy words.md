@@ -27,6 +27,7 @@
 | 入手 | にゅうしゅ | Get / obtain |
 | 開く | ひらく | Open |
 | 終了 | しゅうりょう | Close |
+| 再生 | さいせい | Playback |
 
 
 
