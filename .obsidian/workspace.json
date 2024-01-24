@@ -41,8 +41,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語 - Grammar/Instructions - How to write.md",
-                "mode": "preview",
+                "file": "日本語 - Vocabulary/Vocab and new words for u to learn/おいしいそぉ！- Food and meals.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語 - Grammar/Instructions - How to write.md",
+                "file": "日本語 - Vocabulary/Vocab and new words for u to learn/おいしいそぉ！- Food and meals.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語 - Grammar/Instructions - How to write.md",
+                "file": "日本語 - Vocabulary/Vocab and new words for u to learn/おいしいそぉ！- Food and meals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本語 - Grammar/Instructions - How to write.md"
+                "file": "日本語 - Vocabulary/Vocab and new words for u to learn/おいしいそぉ！- Food and meals.md"
               }
             }
           },
@@ -185,11 +185,11 @@
   },
   "active": "8d01534ad8842c57",
   "lastOpenFiles": [
+    "日本語 - Grammar/Instructions - How to write.md",
     "Pasted image 20240124165832.png",
     "Pasted image 20240124165827.png",
     "日本語 - Grammar/Grammar/Particles.md",
     "日本語  @ Grammar.md",
-    "日本語 - Grammar/Instructions - How to write.md",
     "日本語 - Grammar/まま (as it is) - Usage and Examples.md",
     "Untitled.md",
     "日本語 - Grammar",
@@ -230,7 +230,6 @@
     "ランドム.txt",
     "Attachments/Pasted image 20231208091902.png",
     "Attachments/Pasted image 20231205144756.png",
-    "Attachments/Pasted image 20231205141515.png",
     "Untitled.canvas"
   ]
 }

@@ -6,3 +6,4 @@
 | ご飯 | ごはん | meal |
 | 晩御飯 | ばんごはん | lunch / dinner |
 | 朝御飯 | あさごはん | breakfast |
+| 料理 | りょうり | cooking, cookery |
