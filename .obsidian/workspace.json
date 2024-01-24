@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "日本語 @ Vocabulary.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "pinned": true
@@ -29,19 +29,19 @@
               "type": "markdown",
               "state": {
                 "file": "日本語  @ Grammar.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "pinned": true
             }
           },
           {
-            "id": "a4e1a6939e7333d4",
+            "id": "8d01534ad8842c57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "退屈な日本語の話/カラオケタイム (曲の歌詞)/ヒロイン - バックナンバー.md",
+                "file": "日本語 - Grammar/Instructions - How to write.md",
                 "mode": "preview",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "退屈な日本語の話/カラオケタイム (曲の歌詞)/ヒロイン - バックナンバー.md",
+                "file": "日本語 - Grammar/Instructions - How to write.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "退屈な日本語の話/カラオケタイム (曲の歌詞)/ヒロイン - バックナンバー.md",
+                "file": "日本語 - Grammar/Instructions - How to write.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "退屈な日本語の話/カラオケタイム (曲の歌詞)/ヒロイン - バックナンバー.md"
+                "file": "日本語 - Grammar/Instructions - How to write.md"
               }
             }
           },
@@ -183,37 +183,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4e1a6939e7333d4",
+  "active": "8d01534ad8842c57",
   "lastOpenFiles": [
-    "退屈な日本語の話/カラオケタイム (曲の歌詞)/センチメートル - セブンウップ (seven oops).md",
-    "日本語 @ Vocabulary.md",
+    "Pasted image 20240124165832.png",
+    "Pasted image 20240124165827.png",
+    "日本語 - Grammar/Grammar/Particles.md",
     "日本語  @ Grammar.md",
+    "日本語 - Grammar/Instructions - How to write.md",
+    "日本語 - Grammar/まま (as it is) - Usage and Examples.md",
+    "Untitled.md",
+    "日本語 - Grammar",
+    "Untitled 1.md",
+    "日本語 - Vocabulary/Vocab and new words for u to learn/おいしいそぉ！- Food and meals.md",
+    "日本語 - Vocabulary/Vocab and new words for u to learn/一二三 GO! - Numbers.md",
+    "日本語 @ Vocabulary.md",
+    "日本語 - Vocabulary/Vocab and new words for u to learn/People.md",
+    "日本語 - Vocabulary/Vocab and new words for u to learn/お隣の天使様 - Positions.md",
+    "退屈な日本語の話/README.md",
+    "Cisco/Cisco CCNA R&S/6. EtherChannel/1. EtherChannel Operation.md",
+    "日本語 - Vocabulary",
+    "日本語 - Vocabulary/Vocab and new words for u to learn/オンラインチェット- tech-cy words.md",
+    "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/ヒロイン - バックナンバー.md",
+    "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/センチメートル - セブンウップ (seven oops).md",
     "Dashboard @ Network.md",
-    "退屈な日本語の話/Vocab and new words for u to learn/People.md",
     "Older Notes/NOC Network Infra/Cisco Smart Licensing.md",
-    "退屈な日本語の話/Vocab and new words for u to learn/一二三 GO! - Numbers.md",
-    "退屈な日本語の話/Vocab and new words for u to learn/オンラインチェット- tech-cy words.md",
-    "退屈な日本語の話/カラオケタイム (曲の歌詞)/ヒロイン - バックナンバー.md",
     "RegEx Basics.md",
-    "退屈な日本語の話/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md",
-    "退屈な日本語の話/カラオケタイム (曲の歌詞)/恋 - バックナンバー (back number).md",
+    "日本語 - Vocabulary/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md",
+    "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/恋 - バックナンバー (back number).md",
     "Linuxing time/how to linux.md",
     "Linuxing time/File and Directory Management.md",
     "Linuxing time/All About Linux/Diagrams.md",
     "Cisco/Cisco CCNA R&S/3. VLANs/3.3. VLAN Configuration.md",
     "Attachments/Basic Chords.png",
-    "退屈な日本語の話/カラオケタイム (曲の歌詞)/黄色 - バックナンバー (back number).md",
-    "退屈な日本語の話/カラオケタイム (曲の歌詞)/水平線 - バックナンバー (back number).md",
-    "退屈な日本語の話/カラオケタイム (曲の歌詞)/木漏れ日 - セブンウップス (seven oops).md",
-    "Older Notes/NOC Network Infra/Standard Config.md",
-    "Linuxing time/All About Linux/Remote Connection/Secure Copy Protocol.md",
-    "Linuxing time/All About Linux/Basic Linux Commands/Compress n Decompress.md",
-    "Linuxing time/All About Linux/Basic Linux Commands/Aliasing Commands.md",
-    "Linuxing time/Bash Cheat sheet.md",
-    "Cisco/Cisco CCNA R&S/3. VLANs/3.4 VLAN Trunk Configuration.md",
     "Older Notes/NOC Network Infra",
     "Cisco/Cisco IOS.ini",
-    "退屈な日本語の話/Vocab and new words for u to learn/恵義と反対語 - Adjectives and Antonym.md",
     "Attachments/Pasted image 20231205100512.png",
     "Attachments",
     "Attachments/Pasted image 20231204113403.png",
@@ -225,12 +228,9 @@
     "木漏れ日 - セブンウップ (seven oops).pdf",
     "退屈な日本語の話/ランドム.txt",
     "ランドム.txt",
-    "Cisco/Untitled",
-    "退屈な日本語の話/カラオケタイム (曲の歌詞)",
     "Attachments/Pasted image 20231208091902.png",
     "Attachments/Pasted image 20231205144756.png",
     "Attachments/Pasted image 20231205141515.png",
-    "Older Notes/how to hack the FBI/Images and Media Attachments/searchsploit/searchsploit list.png",
     "Untitled.canvas"
   ]
 }

@@ -9,5 +9,6 @@
   "readableLineLength": false,
   "strictLineBreaks": true,
   "spellcheck": false,
-  "livePreview": true
+  "livePreview": true,
+  "alwaysUpdateLinks": true
 }
