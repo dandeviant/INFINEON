@@ -41,14 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語 - Vocabulary/Vocab and new words for u to learn/おいしいそぉ！- Food and meals.md",
+                "file": "日本語 - Grammar/Kunyomi and Onyomi - How to read Kanji.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f08c62d4f63fb767",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日本語 - Vocabulary/Vocab and new words for u to learn/オンラインチェット- tech-cy words.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語 - Vocabulary/Vocab and new words for u to learn/おいしいそぉ！- Food and meals.md",
+                "file": "日本語 - Vocabulary/Vocab and new words for u to learn/オンラインチェット- tech-cy words.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語 - Vocabulary/Vocab and new words for u to learn/おいしいそぉ！- Food and meals.md",
+                "file": "日本語 - Vocabulary/Vocab and new words for u to learn/オンラインチェット- tech-cy words.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本語 - Vocabulary/Vocab and new words for u to learn/おいしいそぉ！- Food and meals.md"
+                "file": "日本語 - Vocabulary/Vocab and new words for u to learn/オンラインチェット- tech-cy words.md"
               }
             }
           },
@@ -183,20 +195,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d01534ad8842c57",
+  "active": "f08c62d4f63fb767",
   "lastOpenFiles": [
+    "日本語 - Vocabulary/ランドム-二.md",
+    "日本語 @ Vocabulary.md",
+    "日本語  @ Grammar.md",
+    "日本語 - Grammar/Kunyomi and Onyomi - How to read Kanji.md",
+    "日本語 - Vocabulary/Vocab and new words for u to learn/一二三 GO! - Numbers.md",
+    "日本語 - Vocabulary/Vocab and new words for u to learn/おいしいそぉ！- Food and meals.md",
     "日本語 - Grammar/Instructions - How to write.md",
     "Pasted image 20240124165832.png",
     "Pasted image 20240124165827.png",
     "日本語 - Grammar/Grammar/Particles.md",
-    "日本語  @ Grammar.md",
     "日本語 - Grammar/まま (as it is) - Usage and Examples.md",
     "Untitled.md",
     "日本語 - Grammar",
     "Untitled 1.md",
-    "日本語 - Vocabulary/Vocab and new words for u to learn/おいしいそぉ！- Food and meals.md",
-    "日本語 - Vocabulary/Vocab and new words for u to learn/一二三 GO! - Numbers.md",
-    "日本語 @ Vocabulary.md",
     "日本語 - Vocabulary/Vocab and new words for u to learn/People.md",
     "日本語 - Vocabulary/Vocab and new words for u to learn/お隣の天使様 - Positions.md",
     "退屈な日本語の話/README.md",
@@ -213,7 +227,6 @@
     "Linuxing time/how to linux.md",
     "Linuxing time/File and Directory Management.md",
     "Linuxing time/All About Linux/Diagrams.md",
-    "Cisco/Cisco CCNA R&S/3. VLANs/3.3. VLAN Configuration.md",
     "Attachments/Basic Chords.png",
     "Older Notes/NOC Network Infra",
     "Cisco/Cisco IOS.ini",

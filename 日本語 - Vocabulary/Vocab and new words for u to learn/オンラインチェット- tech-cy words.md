@@ -13,11 +13,12 @@
 
 | 漢字 | かな | 英語 |
 | ---- | ---- | ---- |
+| 情報 | じょうほう | information |
 | 出力 | しゅつりょく | Output |
 | 入力 | にゅうりょく | Input / Enter something (data) |
 | 入力中 | にゅうりょくちゅう | is typing (or some shit like that...) |
 | 遅らせる | おくらせる | to send |
-| 情報 | じょうほう | information |
+| 入手 | にゅうしゅ | Get / obtain |
 | 検索 | けんさく | search / look up |
 | 保存 | ほぞん | Save / Keep |
 | 保存しない | ほぞんしない | Do not save |
@@ -28,13 +29,11 @@
 | 写真 | しゃしん | Photograph |
 | 動画 | どうが | Videos, clips |
 | 映画 | えいが | Movies |
-| 入手 | にゅうしゅ | Get / obtain |
 | 開く | ひらく | Open |
 | 終了 | しゅうりょう | Close |
 | 再生 | さいせい | Playback |
-
-
-
+| 戻る					<br> | もどる | Go back / Return |
+| 進む | すすむ | Advance / go forward |
 
 
 

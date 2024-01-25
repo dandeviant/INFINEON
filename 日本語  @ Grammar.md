@@ -9,6 +9,7 @@ cssclasses:
 - [[お前と俺は- Pronouns]]
 - [[まま (as it is) - Usage and Examples]]
 - Instructions - How to write
+- [[Kunyomi and Onyomi - How to read Kanji]]
 
 
 
