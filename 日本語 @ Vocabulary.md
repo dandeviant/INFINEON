@@ -4,10 +4,12 @@ cssclasses:
 tags: []
 ---
 
-- Schools
-- Occupations
-- Media and Internet things
-- Colours
+- ### People
+	- Schools
+	- Occupations
+	
+- [[Media and Internet things]]
+- Adjectives
 - [[一二三 GO! - Numbers]]
 - [[今日は何日か？- Date, days and time]]
 - [[おいしいそぉ！- Food and meals]]
@@ -17,9 +19,6 @@ tags: []
 
 
 
-- Vocabulary
-	- [[一二三 GO! - Numbers]]
-	- [[今日は何日か？- Date, days and time]]
 - カラオケタイム！！
 	- [[黄色 - バックナンバー (back number)]]
 	- [[恋 - バックナンバー (back number)]]
