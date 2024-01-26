@@ -1,12 +1,12 @@
 
-Don't know what language
+---
 
 | Syntax | Functions |
 | ---- | ---- |
-| abc… | Letters |
-| 123… | Digits |
-| \d | Any Digit |
-| \D | Any non-digit character |
+| `abc…` | Letters |
+| `123…` | Digits |
+| `\d` | Any Digit |
+| `\D` | Any non-digit character |
 | . | Any character |
 | . | Period |
 | `[abc]` | Only a,b,c |
@@ -27,4 +27,3 @@ Don't know what language
 | `(a(bc))`	 | Capture Sub-group |
 | `(.*)` | Capture all |
 | `(abc\|def)` | Matches `abc` or `def` |
-+

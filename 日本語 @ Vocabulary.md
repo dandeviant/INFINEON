@@ -25,3 +25,6 @@ tags: []
 	- [[黄色 - バックナンバー (back number)]]
 - People
 	-  [[People]]
+
+
+{君|きみ}
