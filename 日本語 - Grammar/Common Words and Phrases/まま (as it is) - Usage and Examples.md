@@ -6,7 +6,7 @@ https://jlptsensei.com/learn-japanese-grammar/%E3%81%BE%E3%81%BE-mama-meaning/
 | Noun + の | {昔\|むかし}のまま | The way things used to be / the same as always |
 | Verb (た form) | {開\|あ}けたまま | to be left open |
 | Verb (ない form) | ...しないまま | to be left undone / unfinished |
-| な-adjective + な | きれいなまま | to remain beautiful / while beautiful |
+| な-adjective | きれいなまま | to remain beautiful / while beautiful |
 | い-adjective | {熱\|あつ}いまま | while it’s (still) hot |
 | Demonstrative adjective + まま | そのままでよい | it’s fine as it is. |
 
