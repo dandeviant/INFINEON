@@ -1,16 +1,21 @@
+---
+cssclasses:
+  - dashboard
+---
 
 ---
 
+### Music and Media
 | 漢字 | かな | Meaning |
 | ---- | ---- | ---- |
-| 入力中 | にゅうりょくちゅう | ...is typing |
 | 曲 | きょく | Music |
 | 歌詞 | かし | Lyrics |
-| {見\|み}てた<br> |  |  |
+| 画像 | がぞう | Picture |
+| 写真 | しゃしん | Photograph |
+| 動画 | どうが | Videos, clips |
+| 映画 | えいが | Movies |
 
-
-.
-
+### Information
 | 漢字 | かな | 英語 |
 | ---- | ---- | ---- |
 | 情報 | じょうほう | information |
@@ -25,15 +30,12 @@
 | 既読 | きどく | Read messages |
 | 転送されたメッセジ | てんそうされたメッセジ | Forwarded message |
 | 未読メッセージ４件 | みどくメッセージ４けん | 4 unread messages |
-| 画像 | がぞう | Picture |
-| 写真 | しゃしん | Photograph |
-| 動画 | どうが | Videos, clips |
-| 映画 | えいが | Movies |
 | 開く | ひらく | Open |
 | 終了 | しゅうりょう | Close |
 | 再生 | さいせい | Playback |
 | 戻る					<br> | もどる | Go back / Return |
 | 進む | すすむ | Advance / go forward |
+| 入力中 | にゅうりょくちゅう | ...is typing |
 
 
 

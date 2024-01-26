@@ -4,14 +4,15 @@ cssclasses:
 ---
 ---
 
+- ### Writing Sentences
+	- [[Particles]]
+	- [[お前と俺は- Pronouns]]
+	- Instructions - How to write
+	- [[Kunyomi and Onyomi - How to read Kanji]]
+- ### Common Words and Phrases
+	- [[まま (as it is) - Usage and Examples]]
 
-- [[Particles]]
-- [[お前と俺は- Pronouns]]
-- [[まま (as it is) - Usage and Examples]]
-- Instructions - How to write
-- [[Kunyomi and Onyomi - How to read Kanji]]
-
-
+---
 
 
 Source Links
