@@ -45,7 +45,7 @@ cssclasses:
 
 ![[Pasted image 20231208091902.png]]
 
-申し訳ありません
+> 申し訳ありません \
 >もうしわけありませんあ\
 > Apologies, I'm sorry
 

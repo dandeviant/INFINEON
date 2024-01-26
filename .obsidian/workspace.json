@@ -53,38 +53,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cisco/Cisco CCNA R&S/1. Basic Switch Configuration/1.2 Configure switch ports.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bf6ebe7634692a25",
+            "id": "7d2dae9e92004e0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語 - Vocabulary/Media and Internet things.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce87221f7f00d062",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日本語 - Vocabulary/Media and Internet things.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -150,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語 - Vocabulary/Media and Internet things.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語 - Vocabulary/Media and Internet things.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本語 - Vocabulary/Media and Internet things.md"
+                "file": "README.md"
               }
             }
           },
@@ -219,26 +207,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce87221f7f00d062",
+  "active": "7d2dae9e92004e0b",
   "lastOpenFiles": [
-    "日本語 @ Vocabulary.md",
-    "日本語 - Vocabulary/Media and Internet things.md",
-    "日本語 - Vocabulary/おいしいそぉ！- Food and meals.md",
+    "日本語  @ Grammar.md",
+    "Dashboard @ Network.md",
+    "README.md",
+    "Untitled.md",
     "Cisco/Cisco CCNA R&S/1. Basic Switch Configuration/1.2 Configure switch ports.md",
+    "日本語 - Vocabulary/Media and Internet things.md",
+    "日本語 @ Vocabulary.md",
+    "日本語 - Vocabulary/おいしいそぉ！- Food and meals.md",
     "Cisco/Cisco CCNA R&S/1. Basic Switch Configuration/1.3 Secure Remote Access.md",
     "Cisco/Cisco CCNA R&S/1. Basic Switch Configuration/1.1 Cisco IOS modes.md",
     "Cisco/Cisco CCNA R&S/1. Basic Switch Configuration/1.4 Basic Router Configuration.md",
     "日本語 - Grammar/Instructions - How to write.md",
     "Pasted image 20240124165832.png",
     "Pasted image 20240124165827.png",
-    "日本語  @ Grammar.md",
-    "Dashboard @ Network.md",
     "日本語 - Grammar/Kunyomi and Onyomi - How to read Kanji.md",
     "日本語 - Vocabulary/ランドム-二.md",
     "日本語 - Vocabulary/Vocab and new words for u to learn/一二三 GO! - Numbers.md",
     "日本語 - Grammar/Grammar/Particles.md",
     "日本語 - Grammar/まま (as it is) - Usage and Examples.md",
-    "Untitled.md",
     "日本語 - Grammar",
     "Untitled 1.md",
     "日本語 - Vocabulary/Vocab and new words for u to learn/People.md",
@@ -250,7 +239,6 @@
     "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/センチメートル - セブンウップ (seven oops).md",
     "Older Notes/NOC Network Infra/Cisco Smart Licensing.md",
     "RegEx Basics.md",
-    "日本語 - Vocabulary/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md",
     "Attachments/Basic Chords.png",
     "Older Notes/NOC Network Infra",
     "Cisco/Cisco IOS.ini",
