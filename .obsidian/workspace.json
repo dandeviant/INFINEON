@@ -8,45 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a430d35126cd2e1a",
+            "id": "22ed0cbd411cc10f",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語 @ Vocabulary.md",
+                "file": "README.md",
                 "mode": "preview",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "fe8c61ccd1656892",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日本語 - Grammar/Common Words and Phrases/まま (as it is) - Usage and Examples.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "350144e8749152ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日本語 - Vocabulary/People/Body Parts.md",
-                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 300
   },
   "right": {
     "id": "ae7d11b7469d2cbc",
@@ -112,8 +85,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語 - Vocabulary/People/Body Parts.md",
-                "collapseAll": true,
+                "file": "README.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -129,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語 - Vocabulary/People/Body Parts.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本語 - Vocabulary/People/Body Parts.md"
+                "file": "README.md"
               }
             }
           },
@@ -169,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,53 +154,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "350144e8749152ea",
+  "active": "22ed0cbd411cc10f",
   "lastOpenFiles": [
+    "日本語  @ Grammar.md",
+    "退屈な日本語の話/カラオケタイム (曲の歌詞)/黄色 - バックナンバー (back number).md",
+    "Older Notes/NOC Network Infra/Standard Config.md",
+    "Older Notes/NOC Network Infra/Cisco Smart Licensing.md",
+    "Older Notes/NOC Network Infra",
+    "日本語 @ Vocabulary.md",
+    "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/黄色 - バックナンバー (back number).md",
+    "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/水平線 - バックナンバー (back number).md",
+    "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/木漏れ日 - セブンウップス (seven oops).md",
+    "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/恋 - バックナンバー (back number).md",
+    "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/ヒロイン - バックナンバー.md",
+    "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/センチメートル - セブンウップ (seven oops).md",
+    "日本語 - Vocabulary/Vocab and new words for u to learn/空は青いねぇ - Colours.md",
+    "日本語 - Vocabulary/Vocab and new words for u to learn/春夏秋冬 - Weather, seasons and nature.md",
+    "日本語 - Vocabulary/Vocab and new words for u to learn/恵義と反対語 - Adjectives and Antonym.md",
+    "日本語 - Vocabulary/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md",
+    "日本語 - Vocabulary/Vocab and new words for u to learn/人間と感情 - Body and emotions.md",
+    "日本語 - Vocabulary/Vocab and new words for u to learn/お隣の天使様 - Positions.md",
+    "日本語 - Vocabulary/Vocab and new words for u to learn/一二三 GO! - Numbers.md",
+    "日本語 - Vocabulary/Vocab and new words for u to learn/People.md",
     "日本語 - Vocabulary/People/Schools and Studies.md",
     "日本語 - Vocabulary/People/Body Parts.md",
-    "日本語 - Vocabulary/Vocab and new words for u to learn/People.md",
-    "日本語 - Vocabulary/People/Untitled",
+    "日本語 - Vocabulary/ランドム-二.md",
+    "日本語 - Vocabulary/カラオケタイム (曲の歌詞)",
+    "日本語 - Vocabulary/おいしいそぉ！- Food and meals.md",
+    "日本語 - Vocabulary/Vocab and new words for u to learn",
     "日本語 - Vocabulary/People",
-    "日本語 - Vocabulary/Vocab and new words for u to learn/空は青いねぇ - Colours.md",
-    "日本語 @ Vocabulary.md",
-    "日本語 - Grammar/Common Words and Phrases/まま (as it is) - Usage and Examples.md",
-    "日本語 - Grammar/Reading Kanji and sentences/Kunyomi and Onyomi - How to read Kanji.md",
+    "日本語 - Vocabulary/Media and Internet things.md",
+    "日本語 - Vocabulary",
+    "日本語 - Grammar/Writing Sentences/何言ってんの？- Questions.md",
+    "日本語 - Grammar/Writing Sentences/Particles.md",
+    "日本語 - Grammar/Writing Sentences",
+    "日本語 - Grammar/Reading Kanji and sentences",
+    "日本語 - Grammar/Common Words and Phrases",
+    "日本語 - Grammar",
     "Pasted image 20240124165832.png",
     "Attachments/Pasted image 20231213163945.png",
     "Attachments/Pasted image 20231208091902.png",
     "Attachments/Pasted image 20231205144756.png",
+    "Attachments/Pasted image 20231205141515.png",
+    "Attachments/Pasted image 20231205100512.png",
     "Attachments/Pasted image 20231204113403.png",
     "Attachments/Pasted image 20231121132922.png",
     "Attachments/Pasted image 20231121132910.png",
     "Attachments/Basic Chords.png",
-    "Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/full-duplex.png",
-    "Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220125115700.png",
-    "Cisco/Cisco CCNA R&S/CCNA Terminology.md",
-    "Linuxing time/basic protocols.md",
-    "Linuxing time/Bash Redirection - The Basics.md",
-    "Linuxing time/File and Directory Management.md",
-    "Cisco/Cisco CCNA R&S/Terminal Cheat Sheet.md",
-    "Cisco/some basic Cisco stuffs to remember.md",
-    "Cisco/Cisco CCNA R&S/1. Basic Switch Configuration/1.1 Cisco IOS modes.md",
-    "Linuxing time/Linux Security and shit.md",
-    "Linuxing time/how to linux.md",
-    "Older Notes/NOC Network Infra/Standard Config.md",
-    "Older Notes/NOC Network Infra/Cisco Smart Licensing.md",
-    "RegEx Basics.md",
-    "README.md",
-    "日本語  @ Grammar.md",
-    "Dashboard @ Network.md",
-    "日本語 - Grammar/Writing Sentences/Particles.md",
-    "日本語 - Grammar/Reading Kanji and sentences",
-    "日本語 - Grammar/Common Words and Phrases",
-    "日本語 - Grammar/Writing Sentences",
-    "Untitled.md",
-    "Cisco/Cisco CCNA R&S/1. Basic Switch Configuration/1.2 Configure switch ports.md",
-    "日本語 - Vocabulary/Media and Internet things.md",
-    "日本語 - Grammar",
-    "日本語 - Vocabulary",
-    "Older Notes/NOC Network Infra",
-    "Cisco/Cisco IOS.ini",
     "Attachments",
     "Untitled.canvas"
   ]

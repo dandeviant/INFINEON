@@ -5,6 +5,15 @@ My stash of useless Obsidian notes
 
 Synced using Obsidian with Obsidian Git plugin
 
+### Obsidian Plugins and Add-ons
+
+- #### Themes
+	- Things
+- #### Community Plugins
+	1. **Obsidian Git**
+	2. Markdown Furigana
+- #### CSS Snippets (Settings --> Appearance --> CSS Snippets)
+	1. Dashboard++ CSS
 ### Setup:
 1. Install all the shit below
 	- Git Windows
@@ -18,10 +27,5 @@ Synced using Obsidian with Obsidian Git plugin
 5. Pull to sync
 6. Push and pull (heh..) your vault to remote repo
 
-### Obsidian Plugins and Add-ons
-- Community Plugins
-	1. Obsidian Git
-	2. Markdown Furigana
-- CSS Snippets (Settings --> Appearance --> CSS Snippets)
-	1. Dashboard++ CSS
+
 
