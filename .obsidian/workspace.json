@@ -44,9 +44,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0c483224c4aa6d12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語 - Vocabulary/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語 - Vocabulary/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本語 - Vocabulary/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -181,8 +193,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "350144e8749152ea",
+  "active": "0c483224c4aa6d12",
   "lastOpenFiles": [
+    "日本語 - Vocabulary/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md",
+    "conflict-files-obsidian-git.md",
     "日本語 - Vocabulary/Vocab and new words for u to learn/春夏秋冬 - Weather, seasons and nature.md",
     "日本語 - Vocabulary/People/Body Parts.md",
     "日本語 - Vocabulary/People/Schools and Studies.md",
@@ -222,8 +236,6 @@
     "日本語 - Grammar/Reading Kanji and sentences",
     "日本語 - Grammar/Common Words and Phrases",
     "日本語 - Grammar/Writing Sentences",
-    "Untitled.md",
-    "Cisco/Cisco CCNA R&S/1. Basic Switch Configuration/1.2 Configure switch ports.md",
     "日本語 - Grammar",
     "日本語 - Vocabulary",
     "Older Notes/NOC Network Infra",
