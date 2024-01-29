@@ -6,6 +6,7 @@ cssclasses:
 
 - ### Writing Sentences
 	- [[Particles]]
+	- Verbs, forms and tenses
 	- [[お前と俺は- Pronouns]]
 	- Instructions - How to write
 - ### Reading Kanji and Sentences

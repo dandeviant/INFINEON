@@ -1,21 +1,42 @@
 
 ---
+### Summary
+| **Myself** |  |  |
+| ---- | ---- | ---- |
+| 私 | わたし / あたし |  |
+| 僕 | ぼく |  |
+| 俺 | おれ |  |
+| 僕ら | ぼくら | We, Us |
+| 私たち, 僕たち | +たち | We, Us |
+| **You / yourself** |  |  |
+| 貴方 | あなた |  |
+| 君 | きみ |  |
+| お前 | おまえ |  |
+| お前ら | おまえら | all of you |
+| 貴方たち, 君たち | +たち | all of you |
+| **Others** |  |  |
+| 彼 | かれ | He, him |
+| 彼たち | かれたち | They (male) |
+| 彼女 | かのじょ | She, her |
+| 彼女たち | かのじょたち | They (female) |
+| あの人 | あのひと | That person |
+| あいつ |  | That person |
+
 ### Japanese Pronouns Used to Refer to Yourself
 
 As we mentioned earlier, the way you refer to yourself in Japanese depends on your gender. It can also depend on how honorific you want your speech to be. In the chart below, we’ll be breaking down the pronouns for “I” listed in the previous section. This time, we’ll expand on honorific forms.
 
-|   |   |   |   |
-|---|---|---|---|
-|**Pronoun**|**Gender**|**Polite**|**Honorific**|
-|_Watashi_<br><br>私/わたし<br><br>I, me|Neutral, female|_Watakushi_<br><br>私/わたくし|_Ware_<br><br>我|
-|_Atashi_<br><br>あたし<br><br>I, me|Female|_Atakushi_<br><br>あたくし|_Atakushi_<br><br>あたくし|
-|_Uchi_<br><br>うち<br><br>I, me|Neutral, but more commonly used by females|–|–|
-|_Boku_<br><br>僕<br><br>I, me|Male|–|–|
-|_Ore_<br><br>俺<br><br>I, me|Male|–|–|
-|_Jibun_<br><br>自分<br><br>Myself|Neutral|–|–|
-|_Watashitachi_<br><br>私たち<br><br>We, us|Neutral|_Ware ware_<br><br>我々|_Ware ware_<br><br>我々|
-|_Bokura_<br><br>僕ら<br><br>We, us|Male|–|–|
-|_Orera_<br><br>俺ら<br><br>We, us|Male|–|–|
+| **Pronoun** | **Gender** | **Polite** | **Honorific** |
+| ---- | ---- | ---- | ---- |
+| _Watashi_<br><br>私/わたし<br><br>I, me | Neutral, female | _Watakushi_<br><br>私/わたくし | _Ware_<br><br>我 |
+| _Atashi_<br><br>あたし<br><br>I, me | Female | _Atakushi_<br><br>あたくし | _Atakushi_<br><br>あたくし |
+| _Uchi_<br><br>うち<br><br>I, me | Neutral, but more commonly used by females | – | – |
+| _Boku_<br><br>僕<br><br>I, me | Male | – | – |
+| _Ore_<br><br>俺<br><br>I, me | Male | – | – |
+| _Jibun_<br><br>自分<br><br>Myself | Neutral | – | – |
+| _Watashitachi_<br><br>私たち<br><br>We, us | Neutral | _Ware ware_<br><br>我々 | _Ware ware_<br><br>我々 |
+| _Bokura_<br><br>僕ら<br><br>We, us | Male | – | – |
+| _Orera_<br><br>俺ら<br><br>We, us | Male | – | – |
 
 While _watashitachi_ is the gender-neutral way to say _we_, you can also use gendered pronouns to say _we_ in Japanese. If you identify as male and are speaking for your group, you can use _boku_ or _ore_. Simply attach the suffix _-tachi_（達/たち）to make the pronoun plural.
 
@@ -162,27 +183,3 @@ Here are some sample sentences for each situation listed above. The omitted word
 
 The very concept of omitting words may be foreign to you, depending on what the rules of your native language are. Still, word omission is a skill that will start to come naturally to you the more you study Japanese.
 
-### To sum it up...
-
-
-| | | |
-| --- | --- | --- |
-| **Myself** | | |
-| 私 | わたし / あたし | |
-| 僕 | ぼく | | 
-| 俺 | おれ |
-| 僕ら | ぼくら | We, Us |
-| 私たち, 僕たち | +たち | We, Us |
-| **You / yourself** | | |
-| 貴方 | あなた | |
-| 君 | きみ ||
-| お前 | おまえ ||
-| お前ら | おまえら | all of you |
-| 貴方たち, 君たち | +たち | all of you |
-| **Others** |||
-| 彼 | かれ | He, him |
-| 彼たち | かれたち | They (male) | 
-| 彼女 | かのじょ | She, her | 
-| 彼女たち | かのじょたち | They (female)
-| あの人 | あのひと | That person |
-| あいつ || That person |
