@@ -5,6 +5,7 @@ cssclasses:
 ---
 
 - ### Writing Sentences
+	- Sentence Structures
 	- [[Particles]]
 	- Verbs, forms and tenses
 	- [[お前と俺は- Pronouns]]

@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語 - Grammar/お前と俺は- Pronouns.md",
+                "file": "日本語  @ Grammar.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語 - Grammar/お前と俺は- Pronouns.md",
+                "file": "日本語  @ Grammar.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語 - Grammar/お前と俺は- Pronouns.md",
+                "file": "日本語  @ Grammar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本語 - Grammar/お前と俺は- Pronouns.md"
+                "file": "日本語  @ Grammar.md"
               }
             }
           },
@@ -171,7 +171,14 @@
   },
   "active": "fe8c61ccd1656892",
   "lastOpenFiles": [
+    "日本語 @ Vocabulary.md",
+    "日本語 - Grammar/Writing Sentences/Untitled.md",
+    "日本語 - Grammar/Writing Sentences/Particles.md",
     "日本語  @ Grammar.md",
+    "RegEx Basics.md",
+    "Pasted image 20240124165832.png",
+    "Pasted image 20240124165827.png",
+    "日本語 - Grammar/お前と俺は- Pronouns.md",
     "日本語 - Grammar/Common Words and Phrases/まま (as it is) - Usage and Examples.md",
     "日本語 - Vocabulary/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md",
     "conflict-files-obsidian-git.md",
@@ -182,9 +189,7 @@
     "日本語 - Vocabulary/People/Untitled",
     "日本語 - Vocabulary/People",
     "日本語 - Vocabulary/Vocab and new words for u to learn/空は青いねぇ - Colours.md",
-    "日本語 @ Vocabulary.md",
     "日本語 - Grammar/Reading Kanji and sentences/Kunyomi and Onyomi - How to read Kanji.md",
-    "Pasted image 20240124165832.png",
     "Attachments/Pasted image 20231213163945.png",
     "Attachments/Pasted image 20231208091902.png",
     "Attachments/Pasted image 20231205144756.png",
@@ -193,7 +198,6 @@
     "Attachments/Pasted image 20231121132910.png",
     "Attachments/Basic Chords.png",
     "Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/full-duplex.png",
-    "Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220125115700.png",
     "Cisco/Cisco CCNA R&S/CCNA Terminology.md",
     "Linuxing time/basic protocols.md",
     "Linuxing time/Bash Redirection - The Basics.md",
@@ -205,10 +209,6 @@
     "Linuxing time/how to linux.md",
     "Older Notes/NOC Network Infra/Standard Config.md",
     "Older Notes/NOC Network Infra/Cisco Smart Licensing.md",
-    "RegEx Basics.md",
-    "README.md",
-    "Dashboard @ Network.md",
-    "日本語 - Grammar/Writing Sentences/Particles.md",
     "日本語 - Grammar/Reading Kanji and sentences",
     "日本語 - Grammar/Common Words and Phrases",
     "日本語 - Grammar/Writing Sentences",
