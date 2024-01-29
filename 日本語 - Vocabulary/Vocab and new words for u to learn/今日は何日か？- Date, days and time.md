@@ -53,7 +53,7 @@
 > 1. 午前４時にテレビを見ます。
 >	I will watch television at 4 a.m.
 > 
-> 2. 午後１２時に晩御飯（ばんごはん）を食べました。\
+> 2. 午後12時に晩御飯（ばんごはん）を食べました。\
 > 	I ate dinner at 12 p.m.
 > 3. 午前11時半に会議（かいぎ）があります    \
 > 	We have a meeting at 11:30 a.m.
