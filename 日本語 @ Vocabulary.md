@@ -26,5 +26,7 @@ tags: []
 - People
 	-  [[People]]
 
+---
 
-{君|きみ}
+- **Source Links**
+	- https://www.tofugu.com/japanese/japanese-counter-ji-jikan/
