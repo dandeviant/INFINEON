@@ -22,13 +22,13 @@
             }
           },
           {
-            "id": "fe8c61ccd1656892",
+            "id": "db61f294875d774c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語  @ Grammar.md",
-                "mode": "preview",
+                "file": "日本語 - Vocabulary/ランドム-二.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語  @ Grammar.md",
+                "file": "日本語 - Vocabulary/ランドム-二.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語  @ Grammar.md",
+                "file": "日本語 - Vocabulary/ランドム-二.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本語  @ Grammar.md"
+                "file": "日本語 - Vocabulary/ランドム-二.md"
               }
             }
           },
@@ -169,10 +169,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe8c61ccd1656892",
+  "active": "db61f294875d774c",
   "lastOpenFiles": [
     "日本語 @ Vocabulary.md",
+    "[ランドム-二.md",
     "日本語  @ Grammar.md",
+    "日本語 - Vocabulary/ランドム-二.md",
     "日本語 - Grammar/Writing Sentences/Untitled.md",
     "日本語 - Grammar/Writing Sentences/Particles.md",
     "RegEx Basics.md",
@@ -207,8 +209,6 @@
     "Cisco/Cisco CCNA R&S/1. Basic Switch Configuration/1.1 Cisco IOS modes.md",
     "Linuxing time/Linux Security and shit.md",
     "Linuxing time/how to linux.md",
-    "Older Notes/NOC Network Infra/Standard Config.md",
-    "Older Notes/NOC Network Infra/Cisco Smart Licensing.md",
     "日本語 - Grammar/Reading Kanji and sentences",
     "日本語 - Grammar/Common Words and Phrases",
     "日本語 - Grammar/Writing Sentences",

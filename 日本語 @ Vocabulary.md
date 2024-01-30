@@ -4,6 +4,9 @@ cssclasses:
 tags: []
 ---
 
+
+[[ランドム-二]]
+
 - ### People
 	- Schools
 	- Occupations
