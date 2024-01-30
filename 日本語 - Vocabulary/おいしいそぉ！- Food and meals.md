@@ -15,3 +15,7 @@
 | 朝御飯 | あさごはん | breakfast |
 
 ### Foods and beverages
+
+| 漢字 | かな | 英語 |
+| ---- | ---- | ---- |
+| 水 | みず | Water, drinking water |
