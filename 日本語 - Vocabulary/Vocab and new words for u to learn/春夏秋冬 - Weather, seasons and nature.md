@@ -1,7 +1,7 @@
 
 ---
 
-### 単語 （たんご）- Seasons
+## **単語 （たんご）- Seasons**
 
 | 単語 （たんご) | ひらがな | 英語 |
 | ---- | ---- | ---- |
@@ -11,7 +11,7 @@
 | 冬 | ふゆ | Winter |
 | 季節 | きせつ | Season |
 
-### Nature
+## **Nature**
 
 | 単語 | ひらがな | 英語 |
 | ---- | ---- | ---- |
@@ -23,8 +23,9 @@
 | 雪 | ゆき | Snow |
 | 水 | みず | Water |
 | 景色 | けしき | Scenery, landscape |
+| 山 | やま | Mountain |
 
-### Verbs for nature
+## **Verbs** for nature
 
 | 漢字 | かな | 英語 |
 | ---- | ---- | ---- |
