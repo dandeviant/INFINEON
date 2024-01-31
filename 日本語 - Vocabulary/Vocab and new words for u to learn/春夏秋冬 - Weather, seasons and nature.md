@@ -3,12 +3,13 @@
 
 ### 単語 （たんご）- Seasons
 
-| 単語 （たんご) | ひらがな | 英語 | 
-| --- | --- | --- |
-| 春 | はる | Spring | 
+| 単語 （たんご) | ひらがな | 英語 |
+| ---- | ---- | ---- |
+| 春 | はる | Spring |
 | 夏 | なつ | Summer |
-| 秋 | あき | Autumn | 
+| 秋 | あき | Autumn |
 | 冬 | ふゆ | Winter |
+| 季節 | きせつ | Season |
 
 ### Nature
 
@@ -21,6 +22,7 @@
 | 雨 | あめ | Rain |
 | 雪 | ゆき | Snow |
 | 水 | みず | Water |
+| 景色 | けしき | Scenery, landscape |
 
 ### Verbs for nature
 
