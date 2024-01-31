@@ -4,7 +4,9 @@
 ### Verbs
 | 漢字 | かな | 英語 |
 | ---- | ---- | ---- |
-| 料理 | りょうり | cooking, cookery |
+| 料理 | りょうり | cooking, cookery, meal |
+| 食べる | たべる | Eat |
+| 飲み ／呑み | のみ | Drink |
 
 
 ### Type of meals

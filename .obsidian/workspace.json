@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語 - Vocabulary/おいしいそぉ！- Food and meals.md",
+                "file": "日本語 - Vocabulary/People/Body Parts.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語 - Vocabulary/おいしいそぉ！- Food and meals.md",
+                "file": "日本語 - Vocabulary/People/Body Parts.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語 - Vocabulary/おいしいそぉ！- Food and meals.md",
+                "file": "日本語 - Vocabulary/People/Body Parts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本語 - Vocabulary/おいしいそぉ！- Food and meals.md"
+                "file": "日本語 - Vocabulary/People/Body Parts.md"
               }
             }
           },
@@ -183,27 +183,32 @@
   },
   "active": "db61f294875d774c",
   "lastOpenFiles": [
-    "日本語 - Vocabulary/ランドム-二.md",
+    "日本語 - Vocabulary/おいしいそぉ！- Food and meals.md",
+    "日本語 - Vocabulary/Vocab and new words for u to learn/人間と感情 - Body and emotions.md",
+    "日本語 - Grammar/Common Words and Phrases/まま (as it is) - Usage and Examples.md",
+    "日本語 - Vocabulary/Vocab and new words for u to learn/一二三 GO! - Numbers.md",
+    "日本語 - Vocabulary/Vocab and new words for u to learn/お隣の天使様 - Positions.md",
     "日本語 - Vocabulary/Vocab and new words for u to learn/People.md",
+    "日本語 - Vocabulary/People/Schools and Studies.md",
+    "日本語 - Vocabulary/People/Body Parts.md",
+    "日本語 - Grammar/Reading Kanji and sentences/Kunyomi and Onyomi - How to read Kanji.md",
+    "日本語 - Grammar/Writing Sentences/Instructions - How to write.md",
+    "日本語 - Vocabulary/Vocab and new words for u to learn/春夏秋冬 - Weather, seasons and nature.md",
+    "日本語 - Grammar/Writing Sentences/Untitled.md",
+    "日本語 - Vocabulary/ランドム-二.md",
     "日本語 @ Vocabulary.md",
     "日本語 - Vocabulary/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md",
     "[ランドム-二.md",
     "日本語  @ Grammar.md",
-    "日本語 - Grammar/Writing Sentences/Untitled.md",
     "日本語 - Grammar/Writing Sentences/Particles.md",
     "RegEx Basics.md",
     "Pasted image 20240124165832.png",
     "Pasted image 20240124165827.png",
     "日本語 - Grammar/お前と俺は- Pronouns.md",
-    "日本語 - Grammar/Common Words and Phrases/まま (as it is) - Usage and Examples.md",
     "conflict-files-obsidian-git.md",
-    "日本語 - Vocabulary/Vocab and new words for u to learn/春夏秋冬 - Weather, seasons and nature.md",
-    "日本語 - Vocabulary/People/Body Parts.md",
-    "日本語 - Vocabulary/People/Schools and Studies.md",
     "日本語 - Vocabulary/People/Untitled",
     "日本語 - Vocabulary/People",
     "日本語 - Vocabulary/Vocab and new words for u to learn/空は青いねぇ - Colours.md",
-    "日本語 - Grammar/Reading Kanji and sentences/Kunyomi and Onyomi - How to read Kanji.md",
     "Attachments/Pasted image 20231213163945.png",
     "Attachments/Pasted image 20231208091902.png",
     "Attachments/Pasted image 20231205144756.png",
@@ -216,11 +221,6 @@
     "Linuxing time/basic protocols.md",
     "Linuxing time/Bash Redirection - The Basics.md",
     "Linuxing time/File and Directory Management.md",
-    "Cisco/Cisco CCNA R&S/Terminal Cheat Sheet.md",
-    "Cisco/some basic Cisco stuffs to remember.md",
-    "Cisco/Cisco CCNA R&S/1. Basic Switch Configuration/1.1 Cisco IOS modes.md",
-    "Linuxing time/Linux Security and shit.md",
-    "Linuxing time/how to linux.md",
     "日本語 - Grammar/Reading Kanji and sentences",
     "日本語 - Grammar/Common Words and Phrases",
     "日本語 - Grammar/Writing Sentences",
