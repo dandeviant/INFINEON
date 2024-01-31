@@ -13,3 +13,4 @@
 | 声 | こえ | Voice |
 | 心配 | しんぱい | Heart (organ) |
 | 心 | こころ | Heart/soul |
+| 覚める | さめる | wake up
