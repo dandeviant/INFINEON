@@ -2,7 +2,7 @@ https://www.japanesepod101.com/blog/2021/07/08/japanese-tenses/#1
 
 ---
 
-## 1. Japanese Tenses Overview
+## Japanese Tenses Overview
 
 Before we get ahead of ourselves, let’s go over some basic information regarding Japanese verb tenses and forms. 
 
@@ -66,10 +66,9 @@ Each Japanese tense has a formal form (honorific) and an informal form:
 _Ressha ga tōchaku_ **_shimasu_**_, go-chūi kudasai._  
 (The train is coming, please be careful.) [formal and polite form]
 
-## 2. Present Tense
+## Present Tense
 
 The Japanese present tense is used to talk about things that are happening now, recurring actions, and events set to happen in the future. 
-
 ### Present Tense 
 
 Japanese verbs in their informal form always end in **_-u_** or **_-ru_**. These suffixes correspond to the syllables found in the **う段** **(****_u-dan_****)** or “U row” of the Hiragana table. 
@@ -122,7 +121,7 @@ Drop the る (-_ru_) part of the verb and add て (-_te_). 
 - 食べ**る** (_tabe_**_ru_**), “eat” → 食べ**て** (_tabe_**_te_**)
 - 調べ**る** (_shirabe_**_ru_**), “investigate” → 調べ**て** (_shirabe_**_te_**)
 
-## 3. Past Tense
+## Past Tense
 
 Forming the Japanese past tense is very simple! Whether an action took place just a few minutes ago, happened many centuries ago, or was being talked about by someone in the past who was talking about an even older past, the Japanese past tense has just one form. There are no such variations as “did,” “have done,” “had done,” etc.
 
@@ -186,7 +185,7 @@ The past progressive tense is used when expressing continuing actions in the pas
   
     [する (_su-ru_) or “do”]: Irregular Verb
 
-## 4. How to Express the Future in Japanese
+## How to Express the Future in Japanese
 
 As mentioned, the Japanese present tense is also used to talk about actions in the future. Speakers can express the future using the present tense in the following ways.  
 
