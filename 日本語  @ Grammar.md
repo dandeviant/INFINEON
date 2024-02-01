@@ -7,7 +7,7 @@ cssclasses:
 - ### Writing Sentences
 	- Sentence Structures
 	- [[Particles]]
-	- Verbs, forms and tenses
+	- [[Tenses and Word Forms]]
 	- [[お前と俺は- Pronouns]]
 	- Instructions - How to write
 - ### Reading Kanji and Sentences
