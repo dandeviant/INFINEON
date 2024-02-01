@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "db61f294875d774c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日本語 - Vocabulary/ランドム-二.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d6ce90c196c05e3a",
             "type": "leaf",
             "state": {
@@ -45,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語 - Vocabulary/ランドム-二.md",
+                "file": "日本語 @ Vocabulary.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語 - Vocabulary/ランドム-二.md",
+                "file": "日本語 @ Vocabulary.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本語 - Vocabulary/ランドム-二.md"
+                "file": "日本語 @ Vocabulary.md"
               }
             }
           },
@@ -181,8 +168,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db61f294875d774c",
+  "active": "a430d35126cd2e1a",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20231121132922.png",
+    "日本語 - Grammar/Writing Sentences/Tenses and Word Forms.md",
+    "Attachments/Pasted image 20231205100512.png",
+    "Attachments/Pasted image 20231205141515.png",
+    "Attachments/Pasted image 20231205144756.png",
+    "Attachments/Pasted image 20231208091902.png",
+    "Attachments/Pasted image 20231213163945.png",
+    "Attachments/Pasted image 20231204113403.png",
+    "Attachments/Pasted image 20231121132910.png",
+    "日本語 - Vocabulary/ランドム-二.md",
     "日本語 - Vocabulary/おいしいそぉ！- Food and meals.md",
     "日本語 - Vocabulary/Vocab and new words for u to learn/春夏秋冬 - Weather, seasons and nature.md",
     "日本語 - Vocabulary/Vocab and new words for u to learn/お隣の天使様 - Positions.md",
@@ -190,14 +187,12 @@
     "日本語 - Vocabulary/People/Humans and Living things.md",
     "日本語 - Vocabulary/People/Schools and Studies.md",
     "日本語 - Vocabulary/People/家族 - Family.md",
-    "日本語 - Vocabulary/ランドム-二.md",
     "日本語 - Grammar/Common Words and Phrases/まま (as it is) - Usage and Examples.md",
     "日本語 - Vocabulary/Vocab and new words for u to learn/People.md",
     "RegEx Basics.md",
     "日本語 - Vocabulary/Vocab and new words for u to learn/人間と感情 - Body and emotions.md",
     "日本語 - Vocabulary/Vocab and new words for u to learn/一二三 GO! - Numbers.md",
     "日本語 - Grammar/Writing Sentences/Instructions - How to write.md",
-    "日本語 - Grammar/Writing Sentences/Untitled.md",
     "日本語 @ Vocabulary.md",
     "日本語 - Vocabulary/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md",
     "[ランドム-二.md",
@@ -210,17 +205,8 @@
     "日本語 - Vocabulary/People/Untitled",
     "日本語 - Vocabulary/People",
     "日本語 - Vocabulary/Vocab and new words for u to learn/空は青いねぇ - Colours.md",
-    "Attachments/Pasted image 20231213163945.png",
-    "Attachments/Pasted image 20231208091902.png",
-    "Attachments/Pasted image 20231205144756.png",
-    "Attachments/Pasted image 20231204113403.png",
-    "Attachments/Pasted image 20231121132922.png",
-    "Attachments/Pasted image 20231121132910.png",
-    "Attachments/Basic Chords.png",
-    "Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/full-duplex.png",
     "Cisco/Cisco CCNA R&S/CCNA Terminology.md",
     "Linuxing time/basic protocols.md",
-    "Linuxing time/Bash Redirection - The Basics.md",
     "日本語 - Grammar/Reading Kanji and sentences",
     "日本語 - Grammar/Common Words and Phrases",
     "日本語 - Grammar/Writing Sentences",
