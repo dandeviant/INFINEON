@@ -11,11 +11,9 @@
             "id": "0a87d4abeda6c7af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "日本語 - Grammar/Writing Sentences/Tenses and Word Forms.md",
-                "mode": "preview",
-                "source": false
+                "file": "Pasted image 20240124165832.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語 - Grammar/Writing Sentences/Tenses and Word Forms.md",
+                "file": "Pasted image 20240124165832.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語 - Grammar/Writing Sentences/Tenses and Word Forms.md",
+                "file": "Pasted image 20240124165832.png",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本語 - Grammar/Writing Sentences/Tenses and Word Forms.md"
+                "file": "Pasted image 20240124165832.png"
               }
             }
           },
@@ -156,10 +154,15 @@
   },
   "active": "0a87d4abeda6c7af",
   "lastOpenFiles": [
+    "Pasted image 20240124165827.png",
+    "日本語 - Vocabulary/タイトルなし.md",
+    "退屈な日本語の話/Daily Sentences/お仕事アワー！.md",
+    "日本語 - Grammar/ひらがなとカタカナ.md",
+    "日本語 - Grammar/Writing Sentences/Tenses and Word Forms.md",
+    "退屈な日本語の話/README.md",
     "日本語 - Vocabulary/Numbers and stuffs/Money and bills.md",
     "日本語 - Vocabulary/Numbers and stuffs/一二三 GO! - Numbers.md",
     "日本語 - Vocabulary/Numbers and stuffs/今日は何日か？- Date, days and time.md",
-    "日本語 - Grammar/Writing Sentences/Tenses and Word Forms.md",
     "日本語 - Vocabulary/Numbers and stuffs",
     "日本語  @ Grammar.md",
     "日本語 - Vocabulary/ランドム-二.md",
@@ -187,21 +190,15 @@
     "[ランドム-二.md",
     "日本語 - Grammar/Writing Sentences/Particles.md",
     "Pasted image 20240124165832.png",
-    "Pasted image 20240124165827.png",
-    "日本語 - Grammar/お前と俺は- Pronouns.md",
-    "conflict-files-obsidian-git.md",
     "日本語 - Vocabulary/People/Untitled",
     "日本語 - Vocabulary/People",
-    "日本語 - Vocabulary/Vocab and new words for u to learn/空は青いねぇ - Colours.md",
-    "Cisco/Cisco CCNA R&S/CCNA Terminology.md",
-    "Linuxing time/basic protocols.md",
     "日本語 - Grammar/Reading Kanji and sentences",
     "日本語 - Grammar/Common Words and Phrases",
     "日本語 - Grammar/Writing Sentences",
     "日本語 - Grammar",
     "日本語 - Vocabulary",
     "Older Notes/NOC Network Infra",
-    "Cisco/Cisco IOS.ini",
+    "IT - Cisco/Cisco IOS.ini",
     "Untitled.canvas"
   ]
 }
