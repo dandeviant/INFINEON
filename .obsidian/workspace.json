@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語  @ Grammar.md",
+                "file": "日本語 - Grammar/Writing Sentences/Tenses and Word Forms.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語  @ Grammar.md",
+                "file": "日本語 - Grammar/Writing Sentences/Tenses and Word Forms.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語  @ Grammar.md",
+                "file": "日本語 - Grammar/Writing Sentences/Tenses and Word Forms.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本語  @ Grammar.md"
+                "file": "日本語 - Grammar/Writing Sentences/Tenses and Word Forms.md"
               }
             }
           },
@@ -156,11 +156,15 @@
   },
   "active": "0a87d4abeda6c7af",
   "lastOpenFiles": [
+    "日本語 - Vocabulary/Numbers and stuffs/Money and bills.md",
+    "日本語 - Vocabulary/Numbers and stuffs/一二三 GO! - Numbers.md",
+    "日本語 - Vocabulary/Numbers and stuffs/今日は何日か？- Date, days and time.md",
+    "日本語 - Grammar/Writing Sentences/Tenses and Word Forms.md",
+    "日本語 - Vocabulary/Numbers and stuffs",
+    "日本語  @ Grammar.md",
     "日本語 - Vocabulary/ランドム-二.md",
     "日本語 @ Vocabulary.md",
-    "日本語  @ Grammar.md",
     "Attachments/Pasted image 20231121132922.png",
-    "日本語 - Grammar/Writing Sentences/Tenses and Word Forms.md",
     "Attachments/Pasted image 20231205100512.png",
     "Attachments/Pasted image 20231205141515.png",
     "Attachments/Pasted image 20231205144756.png",
@@ -179,9 +183,7 @@
     "日本語 - Vocabulary/Vocab and new words for u to learn/People.md",
     "RegEx Basics.md",
     "日本語 - Vocabulary/Vocab and new words for u to learn/人間と感情 - Body and emotions.md",
-    "日本語 - Vocabulary/Vocab and new words for u to learn/一二三 GO! - Numbers.md",
     "日本語 - Grammar/Writing Sentences/Instructions - How to write.md",
-    "日本語 - Vocabulary/Vocab and new words for u to learn/今日は何日か？- Date, days and time.md",
     "[ランドム-二.md",
     "日本語 - Grammar/Writing Sentences/Particles.md",
     "Pasted image 20240124165832.png",
@@ -200,7 +202,6 @@
     "日本語 - Vocabulary",
     "Older Notes/NOC Network Infra",
     "Cisco/Cisco IOS.ini",
-    "Attachments",
     "Untitled.canvas"
   ]
 }

@@ -2,6 +2,8 @@
 cssclasses:
   - dashboard
 ---
+**日本語 難しいよ！**
+
 ---
 
 - ### Writing Sentences
