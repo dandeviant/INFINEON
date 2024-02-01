@@ -7,6 +7,7 @@
 | 料理 | りょうり | cooking, cookery, meal |
 | 食べる | たべる | Eat |
 | 飲み ／呑み | のみ | Drink |
+| 食む | はむ | Eat (graze grass, etc) |
 
 
 ### Type of meals
