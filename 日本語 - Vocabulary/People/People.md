@@ -21,3 +21,4 @@
 | 幼 | よう | Young child |
 | 幼児 | ようじ | Child (Infant) |
 | 幼馴染 | おさななじみ | Childhood friend |
+| 大人 | おとな | Adult |
