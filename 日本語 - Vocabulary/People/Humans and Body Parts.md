@@ -32,7 +32,7 @@
 
 >[! ]- Do not confuse 血 with 皿 
 >血 （ち）: Blood \
->皿（さら）: Dish; plate
+>皿（さら）: Plate; dish (object)
 
 
 ### Verbs
