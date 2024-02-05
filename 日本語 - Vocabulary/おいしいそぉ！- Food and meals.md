@@ -9,6 +9,9 @@
 | 飲み ／呑み | のみ | Drink |
 | 食む | はむ | Eat (graze grass, etc) |
 
+>[! ]- Do not confuse 皿 with  血
+>皿（さら）: Dish; plate \
+>血 （ち）: Blood
 
 ### Type of meals
 | 漢字 | かな | 英語 |
