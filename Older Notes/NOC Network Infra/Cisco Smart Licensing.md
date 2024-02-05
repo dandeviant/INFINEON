@@ -5,7 +5,6 @@
 
 ### 1.2.1. Common configuration
 
-
 > [!Note]- **Define HTTP source interface** 
 > ```
 > ip http client source-interface <NOC_mgmt_VLAN_ID>
