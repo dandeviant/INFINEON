@@ -7,7 +7,7 @@
 | 料理 | りょうり | cooking, cookery, meal |
 | 食べる | たべる | Eat |
 | 飲み ／呑み | のみ | Drink |
-| 食む | はむ | Eat (graze grass, etc) |
+| 食む | はむ | Eat (for animals) (graze grass, etc) |
 
 >[! ]- Do not confuse 皿 with  血
 >皿（さら）: Dish; plate \
