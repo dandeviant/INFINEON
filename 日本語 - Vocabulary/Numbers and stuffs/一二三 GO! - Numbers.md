@@ -1,6 +1,13 @@
 
 ---
-達（たち）：pluralizing suffix (esp. for people and animals; formerly honorific)​
+
+>[! ]- 達（たち）
+>pluralizing suffix (esp. for people and animals; formerly honorific)​
+>
+>Example:\
+>私たち : Us\
+>お前たち : You (plural)\
+>先生たち : Teachers
 
 #### Positioning
 |  |  |  |
