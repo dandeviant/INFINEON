@@ -1,6 +1,5 @@
 
 ---
-
 ### Verbs
 | 漢字 | かな | 英語 |
 | ---- | ---- | ---- |
@@ -8,6 +7,7 @@
 | 食べる | たべる | Eat |
 | 飲み ／呑み | のみ | Drink |
 | 食む | はむ | Eat (for animals) (graze grass, etc) |
+| 皿 | さら | Plate; dishes (object); |
 
 >[! ]- Do not confuse 皿 with  血
 >皿（さら）: Dish; plate \
