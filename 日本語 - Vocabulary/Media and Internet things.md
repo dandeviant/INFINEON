@@ -9,8 +9,8 @@ cssclasses:
 | ---- | ---- | ---- |
 | 曲 | きょく | Music |
 | 歌詞 | かし | Lyrics |
-| 画像 | がぞう | Picture |
 | 写真 | しゃしん | Photograph |
+| 画像 | がぞう | Picture |
 | 動画 | どうが | Videos, clips |
 | 映画 | えいが | Movies |
 

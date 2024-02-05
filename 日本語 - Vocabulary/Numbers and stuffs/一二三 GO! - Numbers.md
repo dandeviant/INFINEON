@@ -1,5 +1,6 @@
 
 ---
+達（たち）：pluralizing suffix (esp. for people and animals; formerly honorific)​
 
 #### Positioning
 |  |  |  |
