@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語 - Vocabulary/People/People.md",
+                "file": "日本語 - Vocabulary/People/Humans and Body Parts.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語 - Vocabulary/People/People.md",
+                "file": "日本語 - Vocabulary/People/Humans and Body Parts.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語 - Vocabulary/People/People.md",
+                "file": "日本語 - Vocabulary/People/Humans and Body Parts.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本語 - Vocabulary/People/People.md"
+                "file": "日本語 - Vocabulary/People/Humans and Body Parts.md"
               }
             }
           },
@@ -156,17 +156,19 @@
   },
   "active": "0a87d4abeda6c7af",
   "lastOpenFiles": [
-    "日本語 - Vocabulary/People/Humans and Body Parts.md",
-    "日本語 - Vocabulary/People/People.md",
-    "日本語 - Vocabulary/おいしいそぉ！- Food and meals.md",
     "日本語 - Vocabulary/People/人間と感情 - Body and emotions.md",
+    "日本語 - Vocabulary/People/Schools and Studies.md",
+    "日本語 - Vocabulary/People/People.md",
+    "日本語 - Vocabulary/People/家族 - Family.md",
+    "日本語 - Vocabulary/People/Humans and Body Parts.md",
+    "日本語 - Vocabulary/People/Occupations.md",
+    "日本語 - Vocabulary/おいしいそぉ！- Food and meals.md",
     "日本語 - Vocabulary/Media and Internet things.md",
     "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/愛は薬 －wacci.md",
     "日本語 - Vocabulary/Numbers and stuffs/今日は何日か？- Date, days and time.md",
     "日本語 @ Vocabulary.md",
     "日本語 - Vocabulary/Numbers and stuffs/Money and bills.md",
     "日本語 - Vocabulary/Numbers and stuffs/一二三 GO! - Numbers.md",
-    "日本語 - Vocabulary/People/家族 - Family.md",
     "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/桜（さくら）- コブクロ.md",
     "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/水平線 - バックナンバー (back number).md",
     "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/黄色 - バックナンバー (back number).md",
@@ -180,8 +182,6 @@
     "日本語  @ Grammar.md",
     "Older Notes/NOC Network Infra/Cisco Smart Licensing.md",
     "Dashboard @ Network.md",
-    "README.md",
-    "日本語 - Grammar/ひらがなとカタカナ.md",
     "Pasted image 20240202162916.png",
     "Pasted image 20240124165832.png",
     "Pasted image 20240124165827.png",

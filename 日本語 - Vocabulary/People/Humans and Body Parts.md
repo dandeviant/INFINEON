@@ -38,10 +38,16 @@
 ### Verbs
 | 漢字 | かな | 英語 |
 | ---- | ---- | ---- |
-| 覚める | さめる | wake up |
-| 息 | いき | breathe |
-| 吸う | すう | breathe in; inhale; suck; smoke |
+| 覚める | さめる | Wake up |
+| 息 | いき | Breathe |
+| 吸う | すう | Breathe in; inhale; suck; smoke |
 | 吐く | つく | breathe out; vomit |
+| 聞く | きく | Listen |
+| 見る | みる | See, watch, read |
+| 知る | しる | Know |
+| 思え | おもえ | Think |
+| 覚え | おぼえ | Remember / memorize |
+| 痛み | いたみ | Pain, ache |
 ### 感情（かんじょう）- Feelings
 | 漢字 | かな | 英語 |
 | ---- | ---- | ---- |
