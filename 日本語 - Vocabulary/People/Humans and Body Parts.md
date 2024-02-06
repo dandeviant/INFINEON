@@ -39,6 +39,7 @@
 | 漢字 | かな | 英語 |
 | ---- | ---- | ---- |
 | 覚める | さめる | Wake up |
+| 起きろ | おきろ | Get up; wake up |
 | 息 | いき | Breathe |
 | 吸う | すう | Breathe in; inhale; suck; smoke |
 | 吐く | つく | breathe out; vomit |
