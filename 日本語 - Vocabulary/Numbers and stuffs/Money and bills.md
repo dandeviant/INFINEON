@@ -7,3 +7,4 @@ cssclasses:
 | ---- | ---- | ---- |
 | 金 | かね | Money |
 | 買う | かう | to buy |
+| ご注文(する(verb)) | ごちゅうもん | order |

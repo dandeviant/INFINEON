@@ -11,11 +11,12 @@
 
 #### Positioning
 |  |  |  |
-| --- | --- | --- |
+| ---- | ---- | ---- |
 | 始めて | はじめて | First Time |
-| 一度 | いちど | Once | 
-| 一番 | いちばん | First place | 
-| 次 | つぎ | Next | 
+| 一度 | いちど | Once |
+| 一番 | いちばん | First place |
+| 次 | つぎ | Next |
+| 最初 | さいしょ | Beginning, first |
 
 #### 年齢（ねんれい） - Age
 

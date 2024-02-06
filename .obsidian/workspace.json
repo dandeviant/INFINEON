@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語 - Vocabulary/Nature/Geography.md",
+                "file": "日本語 - Vocabulary/People/Verbs in Daily lives.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語 - Vocabulary/Nature/Geography.md",
+                "file": "日本語 - Vocabulary/People/Verbs in Daily lives.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語 - Vocabulary/Nature/Geography.md",
+                "file": "日本語 - Vocabulary/People/Verbs in Daily lives.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本語 - Vocabulary/Nature/Geography.md"
+                "file": "日本語 - Vocabulary/People/Verbs in Daily lives.md"
               }
             }
           },
@@ -154,12 +154,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a87d4abeda6c7af",
+  "active": "0c3e306f7d54c63f",
   "lastOpenFiles": [
     "日本語 - Vocabulary/People/Humans and Body Parts.md",
+    "日本語 - Vocabulary/People/Verbs in Daily lives.md",
+    "日本語 - Vocabulary/Numbers and stuffs/Money and bills.md",
     "日本語 - Vocabulary/Nature/Geography.md",
-    "日本語 - Vocabulary/Numbers and stuffs/今日は何日か？- Date, days and time.md",
+    "日本語 - Vocabulary/Numbers and stuffs/一二三 GO! - Numbers.md",
     "日本語 - Vocabulary/Nature/春夏秋冬 - Weather, seasons and nature.md",
+    "日本語 - Vocabulary/Numbers and stuffs/今日は何日か？- Date, days and time.md",
     "日本語 - Vocabulary/Vocab and new words for u to learn/お隣の天使様 - Positions.md",
     "日本語 - Vocabulary/Vocab and new words for u to learn/恵義と反対語 - Adjectives and Antonym.md",
     "日本語 - Vocabulary/Nature",
@@ -173,8 +176,6 @@
     "日本語 - Vocabulary/Media and Internet things.md",
     "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/愛は薬 －wacci.md",
     "日本語 @ Vocabulary.md",
-    "日本語 - Vocabulary/Numbers and stuffs/Money and bills.md",
-    "日本語 - Vocabulary/Numbers and stuffs/一二三 GO! - Numbers.md",
     "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/桜（さくら）- コブクロ.md",
     "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/水平線 - バックナンバー (back number).md",
     "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/黄色 - バックナンバー (back number).md",
@@ -183,7 +184,6 @@
     "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/センチメートル - セブンウップ (seven oops).md",
     "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/ヒロイン - バックナンバー.md",
     "日本語 - Vocabulary/ランドム-二.md",
-    "日本語 - Vocabulary/タイトルなし.md",
     "Pasted image 20240202162916.png",
     "Pasted image 20240124165832.png",
     "Pasted image 20240124165827.png",
