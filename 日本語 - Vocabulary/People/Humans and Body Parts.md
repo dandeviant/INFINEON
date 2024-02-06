@@ -59,3 +59,4 @@
 | 幸せ | しあわせ | Happy (deeper context) |
 | 痛み | いたみ | Pain |
 | 心配 | しんぱい | Worry; fear; anxiety |
+| 寂し | 寂し | Lonely; loneliness |
