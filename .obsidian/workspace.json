@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0a87d4abeda6c7af",
+            "id": "22ed0cbd411cc10f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語 - Vocabulary/People/幸せなら毛をたたこう - Humans and Emotions.md",
-                "mode": "source",
+                "file": "日本語 - Grammar/Writing Sentences/Tenses and Word Forms.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 300
   },
   "right": {
     "id": "ae7d11b7469d2cbc",
@@ -85,8 +85,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語 - Vocabulary/People/幸せなら毛をたたこう - Humans and Emotions.md",
-                "collapseAll": true,
+                "file": "日本語 - Grammar/Writing Sentences/Tenses and Word Forms.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -102,8 +102,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語 - Vocabulary/People/幸せなら毛をたたこう - Humans and Emotions.md",
-                "linksCollapsed": true,
+                "file": "日本語 - Grammar/Writing Sentences/Tenses and Word Forms.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本語 - Vocabulary/People/幸せなら毛をたたこう - Humans and Emotions.md"
+                "file": "日本語 - Grammar/Writing Sentences/Tenses and Word Forms.md"
               }
             }
           },
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,54 +154,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a87d4abeda6c7af",
+  "active": "12cf276997f9ba21",
   "lastOpenFiles": [
-    "日本語 - Vocabulary/People/Verbs in Daily lives.md",
+    "日本語 - Vocabulary/日常（にちじょう）/おいしいそぉ！- Food and meals.md",
+    "日本語 - Vocabulary/日常（にちじょう）/Schools and Studies.md",
+    "日本語 - Vocabulary/日常（にちじょう）",
+    "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/桜（さくら）- コブクロ.md",
+    "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/愛は薬 －wacci.md",
     "日本語 - Vocabulary/People/幸せなら毛をたたこう - Humans and Emotions.md",
-    "日本語 - Vocabulary/Numbers and stuffs/Money and bills.md",
     "日本語 - Vocabulary/People/人間と感情 - Body and emotions.md",
+    "日本語 - Vocabulary/People/Verbs in Daily lives.md",
+    "日本語 - Vocabulary/People/People.md",
     "日本語 - Vocabulary/People/Occupations.md",
-    "日本語 - Vocabulary/Numbers and stuffs/一二三 GO! - Numbers.md",
+    "日本語 - Vocabulary/Nature/春夏秋冬 - Weather, seasons and nature.md",
     "日本語 - Vocabulary/Nature/お隣の天使様 - Positions.md",
     "日本語 - Vocabulary/Nature/Geography.md",
-    "日本語 - Vocabulary/Nature/春夏秋冬 - Weather, seasons and nature.md",
-    "日本語 - Vocabulary/Numbers and stuffs/今日は何日か？- Date, days and time.md",
-    "日本語 - Vocabulary/Vocab and new words for u to learn/恵義と反対語 - Adjectives and Antonym.md",
     "日本語 - Vocabulary/Nature",
-    "日本語 - Vocabulary/People/People.md",
-    "日本語 - Vocabulary/日常（にちじょう）/おいしいそぉ！- Food and meals.md",
-    "日本語 - Vocabulary/日常（にちじょう）",
-    "日本語 - Vocabulary/日常（にちじょう）/Schools and Studies.md",
+    "日本語  @ Grammar.md",
+    "日本語 - Grammar/お前と俺は- Pronouns.md",
+    "README.md",
+    "日本語 - Vocabulary/タイトルなし.md",
     "日本語 - Vocabulary/People/家族 - Family.md",
-    "日本語 - Vocabulary/Media and Internet things.md",
-    "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/愛は薬 －wacci.md",
-    "日本語 @ Vocabulary.md",
-    "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/桜（さくら）- コブクロ.md",
-    "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/水平線 - バックナンバー (back number).md",
-    "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/黄色 - バックナンバー (back number).md",
-    "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/木漏れ日 - セブンウップス (seven oops).md",
-    "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/恋 - バックナンバー (back number).md",
-    "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/センチメートル - セブンウップ (seven oops).md",
-    "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/ヒロイン - バックナンバー.md",
-    "日本語 - Vocabulary/ランドム-二.md",
-    "Pasted image 20240202162916.png",
-    "Pasted image 20240124165832.png",
-    "Pasted image 20240124165827.png",
+    "日本語 - Vocabulary/People/Humans and Living things.md",
+    "日本語 - Vocabulary/Numbers and stuffs/今日は何日か？- Date, days and time.md",
+    "日本語 - Vocabulary/Numbers and stuffs/一二三 GO! - Numbers.md",
+    "日本語 - Vocabulary/Numbers and stuffs/Money and bills.md",
     "日本語 - Vocabulary/Numbers and stuffs",
-    "Attachments/Pasted image 20231121132922.png",
-    "Attachments/Pasted image 20231205100512.png",
-    "Attachments/Pasted image 20231205141515.png",
-    "Attachments/Pasted image 20231205144756.png",
-    "Attachments/Pasted image 20231208091902.png",
-    "Attachments/Pasted image 20231213163945.png",
-    "Attachments/Pasted image 20231204113403.png",
-    "日本語 - Vocabulary/People/Untitled",
-    "日本語 - Vocabulary/People",
-    "日本語 - Grammar/Reading Kanji and sentences",
-    "日本語 - Grammar/Common Words and Phrases",
-    "日本語 - Grammar/Writing Sentences",
-    "日本語 - Grammar",
-    "日本語 - Vocabulary",
+    "日本語 - Grammar/ひらがなとカタカナ.md",
+    "日本語 - Grammar/Writing Sentences/Tenses and Word Forms.md",
+    "Pasted image 20240202162916.png",
+    "IT - Linuxing time/All About Linux/Linux Servers/Lightweight Directory Access Protocol/OpenLDAP terminology.md",
+    "IT - Linuxing time/All About Linux/Linux Servers/Lightweight Directory Access Protocol/OpenLDAP Configuration tutorial.md",
+    "IT - Linuxing time/All About Linux/Linux Containers and Docker/Guide on Docker - Python Side/Installing Ubuntu container for Python.md",
+    "IT - Linuxing time/All About Linux/Linux Servers/Lightweight Directory Access Protocol",
+    "IT - Linuxing time/All About Linux/Linux Containers and Docker/Guide on Docker - Python Side",
+    "IT - Linuxing time/All About Linux/Linux Containers and Docker/Guide on Docker - C Side",
+    "IT - Linuxing time/All About Linux/Linux Containers and Docker/Docker Compose",
+    "IT - Linuxing time/All About Linux/Image/linux.png",
+    "IT - Linuxing time/All About Linux/User Management",
+    "IT - Linuxing time/All About Linux/Remote Connection",
+    "IT - Linuxing time/All About Linux/Linux Servers",
+    "IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220128100745.png",
+    "IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220128100242.png",
+    "IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220125215749.png",
+    "IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220125184819.png",
+    "IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220125182350.png",
+    "IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220125182253.png",
+    "IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220125181355.png",
+    "IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220125180704.png",
     "Untitled.canvas"
   ]
 }
