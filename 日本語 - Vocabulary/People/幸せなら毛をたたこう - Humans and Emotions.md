@@ -39,14 +39,13 @@
 ### 感情（かんじょう）- Feelings
 | 漢字 | かな | 英語 |
 | ---- | ---- | ---- |
-| 寂し | さびし | Feeling lonely |
 | 悲し | かなし | Sad |
 | 嬉し | うれし | Relieved |
 | 楽し | たのし | Excited, feeling happy |
 | 幸せ | しあわせ | Happy (deeper context) |
 | 痛み | いたみ | Pain |
 | 心配 | しんぱい | Worry; fear; anxiety |
-| 寂し | 寂し | Lonely; loneliness |
+| 寂し | さびし | Lonely; loneliness |
 
 ### Verbs
 | 漢字 | かな | 英語 |
