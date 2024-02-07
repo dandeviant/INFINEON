@@ -5,6 +5,7 @@
 | ---- | ---- | ---- |
 | 頭 | あたま | Head |
 | 髪 | かみ | Hair |
+| 毛 | け | Hair |
 | 顔 | かお | Face |
 | 目 | め | Eyes |
 | 口 | くち | Mouth |
@@ -29,6 +30,7 @@
 | 涙 | なみだ | Tears |
 | 汗 | あせ | Sweats |
 | 血 | ち | Blood |
+| 態度 | たいど | Attitude |
 
 >[! ]- Do not confuse 血 with 皿 
 >血 （ち）: Blood \
@@ -45,3 +47,11 @@
 | 痛み | いたみ | Pain |
 | 心配 | しんぱい | Worry; fear; anxiety |
 | 寂し | 寂し | Lonely; loneliness |
+
+### Verbs
+| 漢字 | かな | 英語 |
+| ---- | ---- | ---- |
+| 生まれ | うまれ | Birth |
+| 生まれる | うまれる | To be born |
+| 死ぬ | しぬ | Die |
+
