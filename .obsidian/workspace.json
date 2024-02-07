@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語 - Grammar/Writing Sentences/Tenses and Word Forms.md",
+                "file": "日本語 - Vocabulary/Nature/春夏秋冬 - Weather, seasons and nature.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "f63972867818389b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語 - Grammar/Writing Sentences/Tenses and Word Forms.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語 - Grammar/Writing Sentences/Tenses and Word Forms.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本語 - Grammar/Writing Sentences/Tenses and Word Forms.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -154,8 +167,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12cf276997f9ba21",
+  "active": "f63972867818389b",
   "lastOpenFiles": [
+    "日本語 - Vocabulary/Nature/春夏秋冬 - Weather, seasons and nature.md",
+    "Untitled.md",
+    "日本語 - Vocabulary/Nature/Geography.md",
+    "日本語 - Vocabulary/Nature/お隣の天使様 - Positions.md",
+    "日本語 - Grammar/Writing Sentences/Tenses and Word Forms.md",
     "日本語 - Vocabulary/日常（にちじょう）/おいしいそぉ！- Food and meals.md",
     "日本語 - Vocabulary/日常（にちじょう）/Schools and Studies.md",
     "日本語 - Vocabulary/日常（にちじょう）",
@@ -166,9 +184,6 @@
     "日本語 - Vocabulary/People/Verbs in Daily lives.md",
     "日本語 - Vocabulary/People/People.md",
     "日本語 - Vocabulary/People/Occupations.md",
-    "日本語 - Vocabulary/Nature/春夏秋冬 - Weather, seasons and nature.md",
-    "日本語 - Vocabulary/Nature/お隣の天使様 - Positions.md",
-    "日本語 - Vocabulary/Nature/Geography.md",
     "日本語 - Vocabulary/Nature",
     "日本語  @ Grammar.md",
     "日本語 - Grammar/お前と俺は- Pronouns.md",
@@ -181,11 +196,9 @@
     "日本語 - Vocabulary/Numbers and stuffs/Money and bills.md",
     "日本語 - Vocabulary/Numbers and stuffs",
     "日本語 - Grammar/ひらがなとカタカナ.md",
-    "日本語 - Grammar/Writing Sentences/Tenses and Word Forms.md",
     "Pasted image 20240202162916.png",
     "IT - Linuxing time/All About Linux/Linux Servers/Lightweight Directory Access Protocol/OpenLDAP terminology.md",
     "IT - Linuxing time/All About Linux/Linux Servers/Lightweight Directory Access Protocol/OpenLDAP Configuration tutorial.md",
-    "IT - Linuxing time/All About Linux/Linux Containers and Docker/Guide on Docker - Python Side/Installing Ubuntu container for Python.md",
     "IT - Linuxing time/All About Linux/Linux Servers/Lightweight Directory Access Protocol",
     "IT - Linuxing time/All About Linux/Linux Containers and Docker/Guide on Docker - Python Side",
     "IT - Linuxing time/All About Linux/Linux Containers and Docker/Guide on Docker - C Side",
