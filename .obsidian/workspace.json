@@ -11,11 +11,10 @@
             "id": "0a87d4abeda6c7af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "日本語 - Grammar/Common Words and Phrases/まま (as it is) - Usage and Examples.md",
-                "mode": "source",
-                "source": false
+                "file": "conflict-files-obsidian-git.md",
+                "staged": false
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語 - Grammar/Common Words and Phrases/まま (as it is) - Usage and Examples.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語 - Grammar/Common Words and Phrases/まま (as it is) - Usage and Examples.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "日本語 - Grammar/Common Words and Phrases/まま (as it is) - Usage and Examples.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,10 +151,10 @@
   },
   "active": "0a87d4abeda6c7af",
   "lastOpenFiles": [
+    "日本語 - Grammar/Common Words and Phrases/まま (as it is) - Usage and Examples.md",
     "Untitled.md",
     "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/桜（さくら）- コブクロ.md",
     "conflict-files-obsidian-git.md",
-    "日本語 - Grammar/Common Words and Phrases/まま (as it is) - Usage and Examples.md",
     "日本語 - Grammar/Common Words and Phrases/何言ってんですか - Questions and Answers.md",
     "日本語 - Vocabulary/ランドム-二.md",
     "日本語 - Vocabulary/Numbers and stuffs/日付、曜日と時- Date, days and time.md",
