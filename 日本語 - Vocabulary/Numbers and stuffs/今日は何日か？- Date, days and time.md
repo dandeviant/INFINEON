@@ -47,7 +47,7 @@
 | 午前 | ごぜん | AM |
 | 午後 | ごご | PM |
 | 半 | はん | 30 minutes (as in half past 10 like that) |
-
+|  |  | Example: 7時半 = 7:30 |
 
 > [! ]- Example of telling time (AM / PM)
 > 1. 午前４時にテレビを見ます。
