@@ -12,6 +12,7 @@ cssclasses:
 	- [[Tenses and Word Forms]]
 	- [[お前と俺は- Pronouns]]
 	- Instructions - How to write
+	- 
 - ### Reading Kanji and Sentences
 	- [[Kunyomi and Onyomi - How to read Kanji]]
 - ### Common Words and Phrases
