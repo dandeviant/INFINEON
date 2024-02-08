@@ -3,14 +3,14 @@
 | ---- | ---- | ---- |
 | 日付 | ひづけ | Date |
 | 曜日 | ようび | Day of the week |
-| 午前 | ごぜん | AM |
-| 午後 | ごご | PM |
-| 秒 | びょう | Second |
-| 分 | ぷん | Minute |
 | 時 | とき | Time |
 |  | じ | Hour (e.g What time in hour) |
 | 時間 | じかん | Time |
 |  | じかん | Hours (e.g how many hours) |
+| 午前 | ごぜん | AM |
+| 午後 | ごご | PM |
+| 秒 | びょう | Second |
+| 分 | ぷん | Minute |
 | 日 | ひ | Day |
 | 週 | しゅう | Week |
 | 月 | すき | Month |
