@@ -16,6 +16,8 @@ cssclasses:
 	- [[Kunyomi and Onyomi - How to read Kanji]]
 - ### Common Words and Phrases
 	- [[まま (as it is) - Usage and Examples]]
+	- [[何言ってんですか？ - Questions and Answers]]
+	- 
 
 ---
 

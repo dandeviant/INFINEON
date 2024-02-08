@@ -6,3 +6,4 @@
 | 違う | ちがう | Wrong (casual, wider usage) |
 | 間違う | まちがう | To make mistakes |
 | 嘘 | うそ | To lie |
+|  |  |  |
