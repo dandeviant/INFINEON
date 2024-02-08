@@ -14,7 +14,7 @@ tags: []
 - [[Media and Internet things]]
 - Adjectives
 - [[一二三 GO! - Numbers]]
-- [[今日は何日か？- Date, days and time]]
+- [[日付、曜日と時- Date, days and time]]
 - [[おいしいそぉ！- Food and meals]]
 
 
