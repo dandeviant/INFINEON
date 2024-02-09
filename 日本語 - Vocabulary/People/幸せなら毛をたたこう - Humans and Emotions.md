@@ -15,6 +15,7 @@
 | 手 | て | Hand |
 | 胸 | むね | Chest, breast |
 | 足 | あし | Leg |
+| 背中 | せなか | Back of the body |
 
 ### Inside
 | 漢字 | かな | 英語 |
@@ -47,7 +48,7 @@
 | 心配 | しんぱい | Worry; fear; anxiety |
 | 寂し | さびし | Lonely; loneliness |
 
-### Verbs
+### 動詞（どうし）－ Verb
 | 漢字 | かな | 英語 |
 | ---- | ---- | ---- |
 | 生まれ | うまれ | Birth |
