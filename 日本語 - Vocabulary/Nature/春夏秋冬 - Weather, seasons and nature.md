@@ -22,14 +22,14 @@
 | 水 | みず | Water |
 | 景色 | けしき | Scenery, landscape |
 
-
 ### **Verbs** for nature
 | 漢字 | かな | 英語 |
 | ---- | ---- | ---- |
 | 吹く | ふく | to blow (wind) |
 | 越える | こえる | to cross |
 | 浴びて | 浴びて | to take (shower); to bask (in sun)​ |
-
+| 輝く | かがやく | to shine, sparkle |
+| 消える | きえる | to disappear |
 
 ### Adjectives
 | 単語 | ひらがな | Meaning | 
