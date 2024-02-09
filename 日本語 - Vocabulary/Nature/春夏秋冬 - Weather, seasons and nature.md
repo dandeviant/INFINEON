@@ -1,8 +1,7 @@
 
 ---
 
-## **季節**
-
+### 季節 （きせつ）
 | 単語 （たんご) | ひらがな | 英語 |
 | ---- | ---- | ---- |
 | 春 | はる | Spring |
@@ -11,8 +10,7 @@
 | 冬 | ふゆ | Winter |
 | 季節 | きせつ | Season |
 
-## **Nature**
-
+### Nature
 | 単語 | ひらがな | 英語 |
 | ---- | ---- | ---- |
 | 世界 | せかい | World |
@@ -23,19 +21,17 @@
 | 雪 | ゆき | Snow |
 | 水 | みず | Water |
 | 景色 | けしき | Scenery, landscape |
-| 山 | やま | Mountain |
 
-## **Verbs** for nature
 
+### **Verbs** for nature
 | 漢字 | かな | 英語 |
 | ---- | ---- | ---- |
 | 吹く | ふく | to blow (wind) |
 | 越える | こえる | to cross |
-|  |  |  |
+| 浴びて | 浴びて | to take (shower); to bask (in sun)​ |
 
 
-**Adjectives**
-
+### Adjectives
 | 単語 | ひらがな | Meaning | 
 | --- | --- | --- |
 | 冷たい | つめたい | Cold | 
