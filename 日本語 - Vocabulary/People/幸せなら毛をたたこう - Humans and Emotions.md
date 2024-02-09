@@ -46,6 +46,8 @@
 | 幸せ | しあわせ | Happy (deeper context) |
 | 痛み | いたみ | Pain |
 | 心配 | しんぱい | Worry; fear; anxiety |
+| 不安 | ふあん | Worry, uneasiness, anxiety, suspense, insecurity |
+| 緊張 | きんちょう | Nervous, tension, stress |
 | 寂し | さびし | Lonely; loneliness |
 
 ### 動詞（どうし）－ Verb
