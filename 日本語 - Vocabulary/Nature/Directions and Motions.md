@@ -4,6 +4,7 @@
 | ---- | ---- | ---- |
 | 上 | うえ | Up, above, over |
 | 下 | した | Down, below,under |
+| 隣 | となり | Next to |
 
 
 ### Motions
