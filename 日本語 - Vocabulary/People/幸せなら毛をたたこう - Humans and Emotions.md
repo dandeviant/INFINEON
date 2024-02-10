@@ -1,6 +1,11 @@
-
+1. [[#Body Parts]]
+	1. [[#Inside]]
+	2. [[#Others]]
+2. [[#感情（かんじょう）- Feelings]]
+3. [[#動詞（どうし）－ Verb]]
 ---
-### Body Parts
+
+## Body Parts
 | 漢字 | かな | 英語 |
 | ---- | ---- | ---- |
 | 頭 | あたま | Head |
@@ -8,6 +13,7 @@
 | 毛 | け | Hair |
 | 顔 | かお | Face |
 | 目 | め | Eyes |
+| 瞳 | ひとみ | Pupils (eye) |
 | 口 | くち | Mouth |
 | 鼻 | はな | Nose |
 | 耳 | みみ | Ears |
@@ -37,7 +43,7 @@
 >血 （ち）: Blood \
 >皿（さら）: Plate; dish (object)
 
-### 感情（かんじょう）- Feelings
+## 感情（かんじょう）- Feelings
 | 漢字 | かな | 英語 |
 | ---- | ---- | ---- |
 | 悲し | かなし | Sad |

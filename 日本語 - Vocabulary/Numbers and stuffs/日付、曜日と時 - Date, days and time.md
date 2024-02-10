@@ -1,7 +1,16 @@
 今は何時ですか？
-
+1. [[#Basic Terms]]
+2. [[#Tell time]]
+	1. [[#Clock time]]
+	2. [[#AM / PM]]
+	3. [[#Moments ago/later]]
+3. [[#Tell Days and Dates]]
+	1. [[#Terms for Dates]]
+4. [[#Time/Day reference]]
 ---
 
+
+### Basic Terms
 | 漢字 | かな | 英語 |
 | ---- | ---- | ---- |
 | 日付 | ひづけ | Date |
@@ -87,6 +96,7 @@ Example:
 | 4年後 | 4ねんご | 4 years later |
 
 ---
+### Tell Days and Dates
 
 | 漢字 | かな | Days |
 | ---- | ---- | ---- |
@@ -151,6 +161,12 @@ Example:
 |１１月 | じゅう いち がつ  | November|
 |１２月 | じゅうに がつ | December|
 
+
+### Terms for Dates
+| 漢字 | ひらがな | English |
+| ---- | ---- | ---- |
+| 生年月日 | せいねんがっぴ | Date of Birth |
+
 ---
 
 | 漢字 | ひらがな | English |
@@ -162,6 +178,8 @@ Example:
 |今夜 | こんや | tonight, this evening | 
 
 ---
+
+### Time/Day reference
 
 | 漢字 | ひらがな | English |
 | ---- | ---- | ---- |
