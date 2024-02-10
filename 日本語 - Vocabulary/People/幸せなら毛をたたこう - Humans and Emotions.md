@@ -37,6 +37,7 @@
 | 涙 | なみだ | Tears |
 | 汗 | あせ | Sweats |
 | 血 | ち | Blood |
+| 傷 | きず | Wound; Injury |
 | 態度 | たいど | Attitude |
 
 >[! ]- Do not confuse 血 with 皿 
@@ -56,7 +57,7 @@
 | 緊張 | きんちょう | Nervous, tension, stress |
 | 寂し | さびし | Lonely; loneliness |
 
-### 動詞（どうし）－ Verb
+## 動詞（どうし）－ Verb
 | 漢字 | かな | 英語 |
 | ---- | ---- | ---- |
 | 生まれ | うまれ | Birth |

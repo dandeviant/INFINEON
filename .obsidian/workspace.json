@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語 - Vocabulary/Numbers and stuffs/日付、曜日と時 - Date, days and time.md",
-                "mode": "preview",
+                "file": "日本語 - Vocabulary/Numbers and stuffs/Money and bills.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語 - Vocabulary/Numbers and stuffs/日付、曜日と時 - Date, days and time.md",
+                "file": "日本語 - Vocabulary/Numbers and stuffs/Money and bills.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語 - Vocabulary/Numbers and stuffs/日付、曜日と時 - Date, days and time.md",
+                "file": "日本語 - Vocabulary/Numbers and stuffs/Money and bills.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本語 - Vocabulary/Numbers and stuffs/日付、曜日と時 - Date, days and time.md"
+                "file": "日本語 - Vocabulary/Numbers and stuffs/Money and bills.md"
               }
             }
           },
@@ -156,11 +156,11 @@
   },
   "active": "0a87d4abeda6c7af",
   "lastOpenFiles": [
-    "日本語 - Vocabulary/People/People.md",
     "日本語 - Vocabulary/People/幸せなら毛をたたこう - Humans and Emotions.md",
     "日本語 - Vocabulary/People/人間と感情 - Body and emotions.md",
-    "日本語 - Vocabulary/Numbers and stuffs/Money and bills.md",
+    "日本語 - Vocabulary/People/People.md",
     "日本語 - Vocabulary/Numbers and stuffs/日付、曜日と時 - Date, days and time.md",
+    "日本語 - Vocabulary/Numbers and stuffs/Money and bills.md",
     "Dashboard @ Network.md",
     "日本語 - Vocabulary/People/Schools.md",
     "日本語 - Vocabulary/People/Occupations.md",
