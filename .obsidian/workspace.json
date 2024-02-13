@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT - Linuxing time/how to linux.md",
-                "mode": "source",
+                "file": "IT - Linuxing time/Linux Security and shit.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT - Linuxing time/how to linux.md",
+                "file": "IT - Linuxing time/Linux Security and shit.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT - Linuxing time/how to linux.md",
+                "file": "IT - Linuxing time/Linux Security and shit.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT - Linuxing time/how to linux.md"
+                "file": "IT - Linuxing time/Linux Security and shit.md"
               }
             }
           },
@@ -156,6 +156,7 @@
   },
   "active": "7e7cbefa3845d7b6",
   "lastOpenFiles": [
+    "IT - Linuxing time/how to linux.md",
     "IT - Linuxing time/File and Directory Management.md",
     "IT - Linuxing time/Bash Redirection - The Basics.md",
     "IT - Linuxing time/Bash Cheat sheet.md",
@@ -167,7 +168,6 @@
     "IT - Linuxing time/All About Linux/Remote Connection/Secure Copy Protocol.md",
     "IT - Linuxing time/All About Linux/Image/linux.png",
     "IT - Linuxing time/basic protocols.md",
-    "IT - Linuxing time/how to linux.md",
     "IT - Linuxing time/Linux Security and shit.md",
     "Attachments/Pasted image 20231121132910.png",
     "Attachments/Pasted image 20231121132922.png",
