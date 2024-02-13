@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Dashboard @ Network.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Dashboard @ Network.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Dashboard @ Network.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Dashboard @ Network.md"
               }
             }
           },
@@ -156,10 +156,11 @@
   },
   "active": "0a87d4abeda6c7af",
   "lastOpenFiles": [
-    "Pasted image 20240124165832.png",
+    "3.4 VLAN Trunk Configuration.md",
     "Dashboard @ Network.md",
-    "README.md",
     "日本語  @ Grammar.md",
+    "README.md",
+    "Pasted image 20240124165832.png",
     "Older Notes/README.md",
     "日本語 - Vocabulary/Numbers and stuffs/Money and bills.md",
     "日本語 - Vocabulary/People/幸せなら毛をたたこう - Humans and Emotions.md",
