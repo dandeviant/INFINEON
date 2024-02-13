@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8ed9b52e8aecf4d7",
+        "id": "7bfabdc148ef73b1",
         "type": "tabs",
         "children": [
           {
-            "id": "0a87d4abeda6c7af",
+            "id": "7e7cbefa3845d7b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dashboard @ Network.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard @ Network.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard @ Network.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dashboard @ Network.md"
-              }
+              "state": {}
             }
           },
           {
@@ -138,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -154,10 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a87d4abeda6c7af",
+  "active": "7e7cbefa3845d7b6",
   "lastOpenFiles": [
-    "3.4 VLAN Trunk Configuration.md",
+    "2024-02-13.md",
+    "日本語 - Vocabulary/Media and Internet things.md",
+    "日本語 - Vocabulary/Vocab and new words for u to learn/空は青いねぇ - Colours.md",
+    "日本語 - Vocabulary/Vocab and new words for u to learn/形容詞と反対語 - Adjectives and Antonym.md",
+    "日本語 - Vocabulary/Nature/Untitled.md",
+    "日本語 - Grammar/Common Words and Phrases/お前と俺は- Pronouns.md",
+    "日本語 - Vocabulary/Numbers and stuffs/日付、曜日と時 - Date, days and time.md",
     "Dashboard @ Network.md",
+    "3.4 VLAN Trunk Configuration.md",
     "日本語  @ Grammar.md",
     "README.md",
     "Pasted image 20240124165832.png",
@@ -166,23 +165,16 @@
     "日本語 - Vocabulary/People/幸せなら毛をたたこう - Humans and Emotions.md",
     "日本語 - Vocabulary/People/人間と感情 - Body and emotions.md",
     "日本語 - Vocabulary/People/People.md",
-    "日本語 - Vocabulary/Numbers and stuffs/日付、曜日と時 - Date, days and time.md",
     "日本語 - Vocabulary/People/Schools.md",
     "日本語 - Vocabulary/People/Occupations.md",
     "日本語 - Vocabulary/People/家族 - Family.md",
     "日本語 - Vocabulary/People/Verbs in Daily lives.md",
-    "日本語 - Vocabulary/Vocab and new words for u to learn/形容詞と反対語 - Adjectives and Antonym.md",
     "日本語 - Vocabulary/Nature/春夏秋冬 - Weather, seasons and nature.md",
     "日本語 - Vocabulary/Nature/Geography.md",
     "日本語 - Vocabulary/Nature/Directions and Motions.md",
     "日本語 - Vocabulary/Nature/お隣の天使様 - Positions.md",
     "日本語 - Vocabulary/ランドム-二.md",
     "日本語 - Grammar/Writing Sentences/Tenses and Word Forms.md",
-    "日本語 - Grammar/Writing Sentences/Particles.md",
-    "日本語 - Grammar/Writing Sentences/Instructions - How to write.md",
-    "日本語 - Grammar/Writing Sentences/文はどうやって書くんですか？- Questions.md",
-    "日本語 @ Vocabulary.md",
-    "日本語 - Grammar/ひらがなとカタカナ.md",
     "Pasted image 20240124165827.png",
     "Pasted image 20240202162916.png",
     "日本語 - Vocabulary/Nature",
