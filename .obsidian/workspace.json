@@ -118,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "日本語 - Vocabulary/タイトルなし.md"
+              }
             }
           },
           {
@@ -130,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -146,7 +148,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e7cbefa3845d7b6",
+  "active": "0c3e306f7d54c63f",
   "lastOpenFiles": [
     "2024-02-13.md",
     "日本語 - Vocabulary/Media and Internet things.md",
