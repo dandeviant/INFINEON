@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語 - Vocabulary/Numbers and stuffs/日付、曜日と時 - Date, days and time.md",
-                "mode": "preview",
+                "file": "Dashboard @ Network.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語 - Vocabulary/Numbers and stuffs/日付、曜日と時 - Date, days and time.md",
+                "file": "Dashboard @ Network.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語 - Vocabulary/Numbers and stuffs/日付、曜日と時 - Date, days and time.md",
+                "file": "Dashboard @ Network.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本語 - Vocabulary/Numbers and stuffs/日付、曜日と時 - Date, days and time.md"
+                "file": "Dashboard @ Network.md"
               }
             }
           },
@@ -154,8 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e7cbefa3845d7b6",
+  "active": "0c3e306f7d54c63f",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20240124165832.png",
+    "日本語  @ Grammar.md",
+    "日本語 @ Vocabulary.md",
+    "日本語 - Vocabulary/Numbers and stuffs/日付、曜日と時 - Date, days and time.md",
     "IT - Linuxing time/Linux Security and shit.md",
     "IT - Linuxing time/how to linux.md",
     "IT - Linuxing time/File and Directory Management.md",
@@ -180,12 +184,7 @@
     "日本語 - Vocabulary/Vocab and new words for u to learn/形容詞と反対語 - Adjectives and Antonym.md",
     "日本語 - Vocabulary/Nature/Untitled.md",
     "日本語 - Grammar/Common Words and Phrases/お前と俺は- Pronouns.md",
-    "日本語 - Vocabulary/Numbers and stuffs/日付、曜日と時 - Date, days and time.md",
     "Dashboard @ Network.md",
-    "日本語  @ Grammar.md",
-    "README.md",
-    "Pasted image 20240124165832.png",
-    "Older Notes/README.md",
     "Pasted image 20240124165827.png",
     "Pasted image 20240202162916.png",
     "日本語 - Vocabulary/Nature",
