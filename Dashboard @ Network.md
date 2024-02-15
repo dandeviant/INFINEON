@@ -10,9 +10,7 @@ cssclasses:
 - #### NOC Configuration Standards
 	- 
 
----
 # **Linux**
-
 
 - #### Basics
 	- Terminal Commands
