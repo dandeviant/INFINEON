@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/IT - Cisco/Cisco CCNA R&S/3. VLANs/3.4 VLAN Trunk Configuration.md",
-                "mode": "preview",
+                "file": "IT/IT - Cisco/Cisco CCNA R&S/Terminal Cheat Sheet.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/IT - Cisco/Cisco CCNA R&S/3. VLANs/3.4 VLAN Trunk Configuration.md",
+                "file": "IT/IT - Cisco/Cisco CCNA R&S/Terminal Cheat Sheet.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/IT - Cisco/Cisco CCNA R&S/3. VLANs/3.4 VLAN Trunk Configuration.md",
+                "file": "IT/IT - Cisco/Cisco CCNA R&S/Terminal Cheat Sheet.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/IT - Cisco/Cisco CCNA R&S/3. VLANs/3.4 VLAN Trunk Configuration.md"
+                "file": "IT/IT - Cisco/Cisco CCNA R&S/Terminal Cheat Sheet.md"
               }
             }
           },
@@ -156,21 +156,24 @@
   },
   "active": "7e7cbefa3845d7b6",
   "lastOpenFiles": [
+    "IT/IT - Cisco/Cisco CCNA R&S/CCNA Terminology.md",
+    "IT/IT - Cisco/Cisco CCNA R&S/15. IP Static Routing/1. Configure IP Static Routes/3. IPv4 Directly Connected Static Route.md",
+    "IT/IT - Cisco/Cisco CCNA R&S/15. IP Static Routing/1. Configure IP Static Routes/1. IPv4 Next-Hop Static Route.md",
+    "IT/IT - Cisco/Cisco CCNA R&S/13. WLAN Configuration/1. Remote Sote WLAN Configuration.md",
+    "IT/IT - Cisco/Cisco CCNA R&S/8. SLAAC and DHCPv6/4. Configure DHCPv6 Server/3. Configure a Stateless DHCPv6 Client.md",
+    "IT/IT - Cisco/Cisco CCNA R&S/8. SLAAC and DHCPv6/4. Configure DHCPv6 Server/2. Configure a Stateless DHCPv6 Server.md",
+    "IT/IT - Cisco/Cisco CCNA R&S/3. VLANs/3.4 VLAN Trunk Configuration.md",
     "IT/IT - Cisco/Cisco CCNA R&S/3. VLANs/3.3. VLAN Configuration.md",
     "IT/IT - Cisco/Cisco CCNA R&S/1. Basic Switch Configuration/1.3 Secure Remote Access.md",
     "IT/IT - Cisco/Cisco CCNA R&S/1. Basic Switch Configuration/1.2 Configure switch ports.md",
     "IT/IT - Cisco/Cisco CCNA R&S/1. Basic Switch Configuration/1.1 Cisco IOS modes.md",
     "Dashboard @ Network.md",
-    "IT/IT - Cisco/Cisco CCNA R&S/8. SLAAC and DHCPv6/4. Configure DHCPv6 Server/2. Configure a Stateless DHCPv6 Server.md",
-    "IT/IT - Cisco/Cisco CCNA R&S/8. SLAAC and DHCPv6/4. Configure DHCPv6 Server/3. Configure a Stateless DHCPv6 Client.md",
     "IT/IT - Cisco/Cisco CCNA R&S/8. SLAAC and DHCPv6/4. Configure DHCPv6 Server/6. DHCPv6 Server Verification Commands.md",
     "IT/IT - Cisco/Cisco CCNA R&S/8. SLAAC and DHCPv6/4. Configure DHCPv6 Server/5. Configure a Stateful DHCPv6 Client.md",
     "IT/IT - Cisco/Cisco CCNA R&S/8. SLAAC and DHCPv6/4. Configure DHCPv6 Server/4. Configure a Stateful DHCPv6 Server.md",
     "IT/IT - Cisco/Cisco CCNA R&S/15. IP Static Routing/3. Configure IP Default Static Routes/15.3. Configure a Default Static Routes.md",
     "IT/IT - Cisco/Cisco CCNA R&S/15. IP Static Routing/4. Configure Floating Static Routes/2. Configure IPv4 and IPv6 Floating Static Routes.md",
     "IT/IT - Cisco/Cisco CCNA R&S/15. IP Static Routing/1. Configure IP Static Routes/2. IPv6 Next-Hop Static Route.md",
-    "IT/IT - Cisco/Cisco CCNA R&S/15. IP Static Routing/1. Configure IP Static Routes/1. IPv4 Next-Hop Static Route.md",
-    "IT/IT - Cisco/Cisco CCNA R&S/15. IP Static Routing/1. Configure IP Static Routes/3. IPv4 Directly Connected Static Route.md",
     "IT/IT - Cisco/Cisco CCNA R&S/15. IP Static Routing/1. Configure IP Static Routes/4. IPv6 Directly Connected Static Route.md",
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220125182350.png",
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220128100745.png",
@@ -184,18 +187,15 @@
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220125115700.png",
     "IT/IT - Cisco/Cisco CCNA R&S/8. SLAAC and DHCPv6/2. SLAAC.md",
     "IT/IT - Cisco/Cisco CCNA R&S/7. DHCPv4/3. Configuring DHCPv4 Server.md",
-    "IT/IT - Cisco/Cisco CCNA R&S/3. VLANs/3.4 VLAN Trunk Configuration.md",
     "IT/IT - Cisco/Cisco CCNA R&S/8. SLAAC and DHCPv6/3. DHCPv6.md",
     "IT/IT - Cisco/Cisco CCNA R&S/8. SLAAC and DHCPv6/4. Configure DHCPv6 Server",
     "IT/IT - Cisco/Cisco CCNA R&S/6. EtherChannel/1. EtherChannel Operation.md",
     "IT/IT - Cisco/Cisco CCNA R&S/6. EtherChannel/2. Configure EtherChannel.md",
     "IT/IT - Cisco/Cisco CCNA R&S/6. EtherChannel/3. Verify EtherChannel.md",
-    "IT/IT - Cisco/Cisco CCNA R&S/13. WLAN Configuration/1. Remote Sote WLAN Configuration.md",
     "IT/IT - Cisco/Cisco CCNA R&S/15. IP Static Routing/4. Configure Floating Static Routes",
     "IT/IT - Cisco/Cisco CCNA R&S/15. IP Static Routing/3. Configure IP Default Static Routes",
     "IT/IT - Cisco/Cisco CCNA R&S/15. IP Static Routing/1. Configure IP Static Routes",
     "IT/IT - Cisco/Cisco CCNA R&S/1. Basic Switch Configuration/1.4 Basic Router Configuration.md",
-    "IT/IT - Cisco/Cisco CCNA R&S/Terminal Cheat Sheet.md",
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)",
     "IT/IT - Cisco/Cisco CCNA R&S/7. DHCPv4",
     "IT/IT - Cisco/Cisco CCNA R&S/3. VLANs",
