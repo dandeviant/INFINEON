@@ -21,6 +21,7 @@ cssclasses:
 | 出力 | しゅつりょく | Output |
 | 入力 | にゅうりょく | Input / Enter something (data) |
 | 入力中 | にゅうりょくちゅう | is typing (or some shit like that...) |
+| 削除 | さくじょ | Delete |
 | 遅らせる | おくらせる | to send |
 | 入手 | にゅうしゅ | Get / obtain |
 | 検索 | けんさく | search / look up |

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語 - Grammar/Writing Sentences/Tenses and Word Forms.md",
+                "file": "日本語 - Vocabulary/Media and Internet things.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語 - Grammar/Writing Sentences/Tenses and Word Forms.md",
+                "file": "日本語 - Vocabulary/Media and Internet things.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語 - Grammar/Writing Sentences/Tenses and Word Forms.md",
+                "file": "日本語 - Vocabulary/Media and Internet things.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本語 - Grammar/Writing Sentences/Tenses and Word Forms.md"
+                "file": "日本語 - Vocabulary/Media and Internet things.md"
               }
             }
           },
@@ -156,6 +156,7 @@
   },
   "active": "7e7cbefa3845d7b6",
   "lastOpenFiles": [
+    "日本語 - Grammar/Writing Sentences/Tenses and Word Forms.md",
     "日本語 - Grammar/Common Words and Phrases/お前と俺は- Pronouns.md",
     "日本語 - Vocabulary/Media and Internet things.md",
     "日本語 - Vocabulary/ランドム-二.md",
@@ -191,7 +192,6 @@
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220125180704.png",
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220125181355.png",
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220125115700.png",
-    "IT/IT - Cisco/Cisco CCNA R&S/8. SLAAC and DHCPv6/2. SLAAC.md",
     "IT/IT - Cisco/Cisco CCNA R&S/8. SLAAC and DHCPv6/4. Configure DHCPv6 Server",
     "IT/IT - Cisco/Cisco CCNA R&S/15. IP Static Routing/4. Configure Floating Static Routes",
     "IT/IT - Cisco/Cisco CCNA R&S/15. IP Static Routing/3. Configure IP Default Static Routes",
