@@ -1,4 +1,5 @@
 https://www.japanesepod101.com/blog/2021/07/08/japanese-tenses/#1
+https://www.japanesepod101.com/blog/2020/10/05/japanese-conjugations/
 
 ---
 
@@ -263,13 +264,9 @@ or 
     _Kareshi ga watashi ni_ **_ai ni kimasu_**.  
     My boyfriend will come to see me.
 
-  
-
 ➢ 美術館の特別展を**見に行きます**。  
     _Bijutsukan no tokubetsuten o_ **_mi ni ikimasu_**.  
     I will go to see the special exhibition at the museum.
-
-  
 
 ➢ 兄の引越しを**手伝いに行きます**。  
     _Ani no hikkoshi o_ **_tetsudai ni ikimasu_**.  
