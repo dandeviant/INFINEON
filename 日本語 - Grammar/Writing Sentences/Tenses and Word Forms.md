@@ -199,19 +199,13 @@ With context and extra information, listeners can understand that an action is s
     **_Shiken ga owattara_**_, tomodachi to nani ka oishii mono o tabe ni ikimasu._  
     **When the exams are over**, I will go to eat something delicious with my friends.
 
-  
-
 ➢ **彼は毎日ピアノを練習しています**。彼は絶対、プロのピアニストになります。  
     **_Kare wa mainichi piano o renshū shite imasu_**_. Kare wa zettai, puro no pianisuto ni narimasu._  
     **He practices piano everyday**. He will definitely become a professional pianist.
 
-  
-
 ➢ **全員の準備ができ次第**、出発します。  
     **_Zen’in no junbi ga deki_** _shidai, shuppatsu shimasu._  
     **As soon as everyone is ready**, we will depart.
-
-  
 
 ### Time Words
 
@@ -223,24 +217,17 @@ Using time words (such as specific dates or terms like “later” and “tomorr
     **_Ashita no gogo_**_, kozutsumi ga todokimasu._  
     The parcel will arrive **in the afternoon tomorrow**.
 
-  
-
 ➢ 私は**3月に**大学を卒業します。  
     _Watashi wa_ **_san-gatsu_** _ni daigaku o sotsugyō shimasu._  
     I will graduate from university in March.
-
-  
 
 ➢ 私の両親は**来月**沖縄へ旅行に行きます。  
     _Watashi no ryōshin wa_ **_raigetsu_** _Okinawa e ryokō ni ikimasu._  
     My parents will take a trip to Okinawa **next month**.
 
-  
-
 ### Words That Indicate an Intention or Plan
 
 Another way to express things about the future is to use words that indicate an intention or plan. 
-
 There are two words often used for this purpose: 
 
 - **つもり(****_tsumori_****)** – “intend to” or “plan to” 
@@ -252,19 +239,13 @@ There are two words often used for this purpose: 
     _Watashi wa kono shigoto o yameru_ **_tsumori_** _desu._  
     I **intend to** quit this job.
 
-  
-
 ➢ 卒業パーティーには参加しない**予定**です。  
     _Sotsugyō pātī ni wa sanka shinai_ **_yotei_** _desu._  
     I **plan** not to participate in the graduation party.
 
-  
-
 ➢ 彼女は看護師になる**予定**です。  
     _Kanojo wa kangoshi ni naru_ **_yotei_** _desu._  
     She **plans** to become a nurse.
-
-  
 
 ### The Particle に (_ni_)
 
