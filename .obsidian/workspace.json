@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test Link.md",
+                "file": "IT/IT - Linux/Diagrams.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test Link.md",
+                "file": "IT/IT - Linux/Diagrams.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test Link.md",
+                "file": "IT/IT - Linux/Diagrams.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test Link.md"
+                "file": "IT/IT - Linux/Diagrams.md"
               }
             }
           },
@@ -156,32 +156,32 @@
   },
   "active": "21efcf9937631c45",
   "lastOpenFiles": [
-    "Markdown Advanced Template.md",
+    "IT/IT - Linux/User Management/Linux User, Groups Management.md",
+    "IT/IT - Linux/Diagrams.md",
+    "IT/IT - Linux/Remote Connection/Secure Copy Protocol.md",
+    "IT/IT - Linux/Remote Connection/Secure Shell (SSH).md",
+    "IT/IT - Linux/Remote Connection/Secure Shell (SSH) Pubic Key Authentication.md",
+    "IT/how to linux.md",
+    "IT/File and Directory Management.md",
+    "IT/Bash Cheat sheet.md",
+    "IT/IT - Linux/User Management/Change Username.md",
+    "IT/IT - Linux/Linux Servers/Lightweight Directory Access Protocol/OpenLDAP terminology.md",
+    "IT/IT - Linux/Linux Servers/Lightweight Directory Access Protocol/OpenLDAP Configuration tutorial.md",
+    "IT/IT - Linux/Extra Stuffs/My Own Alias + some recommendations.md",
+    "IT/IT - Linux/Basic Linux Commands/Installing and Downloading from Terminal.md",
+    "IT/IT - Linux/Basic Linux Commands/Directory manipulation (Advanced).md",
+    "IT/IT - Linux/Basic Linux Commands/Directory Manipulation (Beginner).md",
+    "IT/IT - Linux/Basic Linux Commands/Compress n Decompress.md",
+    "IT/IT - Linux/Basic Linux Commands/Aliasing Commands.md",
+    "IT/IT - Linux/Basic Apps and Tools/Vim - How to exit vim 101.md",
+    "IT/IT - Linux/Basic Apps and Tools/nano.md",
+    "日本語 - Vocabulary/People/People.md",
+    "README.md",
     "Test Link.md",
+    "Markdown Advanced Template.md",
     "Linked Texts] [.md",
     "日本語 - Vocabulary/ランドム-二.md",
     "日本語 - Vocabulary/People/幸せなら毛をたたこう - Humans and Emotions.md",
-    "日本語 - Vocabulary/People/家族 - Family.md",
-    "日本語 - Vocabulary/People/Verbs in Daily lives.md",
-    "日本語 - Vocabulary/People/Schools.md",
-    "日本語 - Vocabulary/People/People.md",
-    "日本語 - Vocabulary/People/Occupations.md",
-    "日本語 - Vocabulary/Nature/春夏秋冬 - Weather, seasons and nature.md",
-    "日本語 - Vocabulary/Nature/Untitled.md",
-    "日本語 - Vocabulary/Nature/Geography.md",
-    "日本語 - Vocabulary/Nature/Directions and Motions.md",
-    "日本語 - Grammar/ひらがなとカタカナ.md",
-    "日本語 - Grammar/Writing Sentences/文はどうやって書くんですか？- Questions.md",
-    "日本語 - Grammar/Writing Sentences/Tenses and Word Forms.md",
-    "日本語 - Grammar/Writing Sentences/Particles.md",
-    "日本語 - Grammar/Writing Sentences/Instructions - How to write.md",
-    "日本語 - Grammar/Reading Kanji and sentences/Kunyomi and Onyomi - How to read Kanji.md",
-    "日本語 - Grammar/Common Words and Phrases/何言ってんですか？ - Questions and Answers.md",
-    "日本語 - Grammar/Common Words and Phrases/まま (as it is) - Usage and Examples.md",
-    "日本語 - Grammar/Common Words and Phrases/お前と俺は- Pronouns.md",
-    "日本語 - Vocabulary/Media and Internet things.md",
-    "IT/RegEx Basics.md",
-    "IT/IT - Cisco/Cisco CCNA R&S/Terminal Cheat Sheet.md",
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220125182350.png",
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220128100745.png",
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220128100242.png",
