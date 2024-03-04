@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/IT - Linux/Diagrams.md",
-                "mode": "preview",
+                "file": "日本語 - Vocabulary/Numbers and stuffs/日付、曜日と時 - Date, days and time.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/IT - Linux/Diagrams.md",
+                "file": "日本語 - Vocabulary/Numbers and stuffs/日付、曜日と時 - Date, days and time.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/IT - Linux/Diagrams.md",
+                "file": "日本語 - Vocabulary/Numbers and stuffs/日付、曜日と時 - Date, days and time.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/IT - Linux/Diagrams.md"
+                "file": "日本語 - Vocabulary/Numbers and stuffs/日付、曜日と時 - Date, days and time.md"
               }
             }
           },
@@ -156,8 +156,18 @@
   },
   "active": "21efcf9937631c45",
   "lastOpenFiles": [
-    "IT/IT - Linux/User Management/Linux User, Groups Management.md",
+    "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/センチメートル - セブンウップ (seven oops).md",
+    "日本語 - Vocabulary/日常（にちじょう）/おいしいそぉ！- Food and meals.md",
+    "日本語 - Vocabulary/Nature/Geography.md",
+    "日本語 - Vocabulary/Nature/Directions and Motions.md",
+    "日本語 - Grammar/ひらがなとカタカナ.md",
+    "日本語 - Grammar/Writing Sentences/文はどうやって書くんですか？- Questions.md",
+    "日本語 - Grammar/Writing Sentences/Instructions - How to write.md",
+    "日本語 - Vocabulary/People/Verbs in Daily lives.md",
+    "日本語 - Vocabulary/People/幸せなら毛をたたこう - Humans and Emotions.md",
+    "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/ヒロイン - バックナンバー.md",
     "IT/IT - Linux/Diagrams.md",
+    "IT/IT - Linux/User Management/Linux User, Groups Management.md",
     "IT/IT - Linux/Remote Connection/Secure Copy Protocol.md",
     "IT/IT - Linux/Remote Connection/Secure Shell (SSH).md",
     "IT/IT - Linux/Remote Connection/Secure Shell (SSH) Pubic Key Authentication.md",
@@ -172,16 +182,6 @@
     "IT/IT - Linux/Basic Linux Commands/Directory manipulation (Advanced).md",
     "IT/IT - Linux/Basic Linux Commands/Directory Manipulation (Beginner).md",
     "IT/IT - Linux/Basic Linux Commands/Compress n Decompress.md",
-    "IT/IT - Linux/Basic Linux Commands/Aliasing Commands.md",
-    "IT/IT - Linux/Basic Apps and Tools/Vim - How to exit vim 101.md",
-    "IT/IT - Linux/Basic Apps and Tools/nano.md",
-    "日本語 - Vocabulary/People/People.md",
-    "README.md",
-    "Test Link.md",
-    "Markdown Advanced Template.md",
-    "Linked Texts] [.md",
-    "日本語 - Vocabulary/ランドム-二.md",
-    "日本語 - Vocabulary/People/幸せなら毛をたたこう - Humans and Emotions.md",
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220125182350.png",
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220128100745.png",
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220128100242.png",

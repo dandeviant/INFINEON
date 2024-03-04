@@ -6,8 +6,9 @@ cssclasses:
 
 ```mermaid
 pie title My Everyday Life
-"Cybersecurity": 45
-"Networking": 45
+"Cybersecurity": 30
+"Networking": 30
+"日本語練習": 30
 "Sleep": 10
 ```
 
