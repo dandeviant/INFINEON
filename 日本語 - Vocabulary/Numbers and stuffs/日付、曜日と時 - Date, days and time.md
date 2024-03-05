@@ -98,15 +98,15 @@ Example:
 ---
 ### Tell Days and Dates
 
-| 漢字 | かな | Days |
-| ---- | ---- | ---- |
-| 月曜日 | げつようび | Monday |
-| 火曜日 | かようび | Tuesday |
-| 水曜日 | すいようび | Wednesday |
-| 木曜日 | もくようび | Thursday |
-| 金曜日 | きんようび | Friday |
-| 土曜日 | どようび | Saturday |
-| 日曜日 | にちようび | Sunday |
+| 漢字  | かな    | Days      |     |
+| --- | ----- | --------- | --- |
+| 月曜日 | げつようび | Monday    |     |
+| 火曜日 | かようび  | Tuesday   |     |
+| 水曜日 | すいようび | Wednesday |     |
+| 木曜日 | もくようび | Thursday  |     |
+| 金曜日 | きんようび | Friday    |     |
+| 土曜日 | どようび  | Saturday  |     |
+| 日曜日 | にちようび | Sunday    |     |
 
 ---
 
@@ -222,12 +222,13 @@ Example:
 | 再来年 | さらいねん | The year after next year |
 | 毎年 | まいとし | Every year |
 
-.
+### Occasions
 
-|... |... |... |
-| --- | --- | --- | 
-| 休みの日 | やすみのひ | Rest day, off day | 
-| 休み | やすみ | Rest, vacation, holiday | 
+| ...  | ...   | ...                     |
+| ---- | ----- | ----------------------- |
+| 休みの日 | やすみのひ | Rest day, off day       |
+| 休み   | やすみ   | Rest, vacation, holiday |
+|      |       |                         |
 
 
 
