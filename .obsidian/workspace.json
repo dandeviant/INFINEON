@@ -11,8 +11,12 @@
             "id": "21efcf9937631c45",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "日本語 - Grammar/Writing Sentences/Compound Sentence.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "日本語 - Grammar/Writing Sentences/Compound Sentence.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "日本語 - Grammar/Writing Sentences/Compound Sentence.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "日本語 - Grammar/Writing Sentences/Compound Sentence.md"
+              }
             }
           },
           {
@@ -148,6 +156,7 @@
   },
   "active": "21efcf9937631c45",
   "lastOpenFiles": [
+    "日本語 - Grammar/Writing Sentences/Compound Sentence.md",
     "日本語 - Vocabulary/Numbers and stuffs/日付、曜日と時 - Date, days and time.md",
     "Test Link.md",
     "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/センチメートル - セブンウップ (seven oops).md",
@@ -173,7 +182,6 @@
     "IT/IT - Linux/Linux Servers/Lightweight Directory Access Protocol/OpenLDAP Configuration tutorial.md",
     "IT/IT - Linux/Extra Stuffs/My Own Alias + some recommendations.md",
     "IT/IT - Linux/Basic Linux Commands/Installing and Downloading from Terminal.md",
-    "IT/IT - Linux/Basic Linux Commands/Directory manipulation (Advanced).md",
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220125182350.png",
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220128100745.png",
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220128100242.png",

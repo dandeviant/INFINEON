@@ -20,8 +20,8 @@ Synced using Obsidian with Obsidian Git plugin
 	- Git Windows
 	- Obsidian Git
 2. Setup local Git
-	1. git --config user.name "name"
-	2. git --config user.email "email"
+	1. git config user.name "name"
+	2. git config user.email "email"
 3. Open new vault in Obsidian
 4. Initialize Git in the vault
 5. Clone the repository using HTTPS link fron GitHub (.git)
