@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b9e9f2a462a21422",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,13 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e7cbefa3845d7b6",
+  "active": "b9e9f2a462a21422",
   "lastOpenFiles": [
+    "README.md",
     "Attachments/Pasted image 20231121132910.png",
     "Linked Texts] [.md",
     "Attachments/Basic Chords.png",
     "Attachments/Pasted image 20240124165832.png",
-    "README.md",
     "日本語  @ Grammar.md",
     "日本語 - Vocabulary/Numbers and stuffs/一二三 GO! - Numbers.md",
     "日本語 - Grammar/Writing Sentences/Compound Sentence.md",
