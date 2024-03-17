@@ -11,7 +11,6 @@
 - #### CSS Snippets (Settings --> Appearance --> CSS Snippets)
 	1. Dashboard++ CSS
 
-Test update
 
 
 
