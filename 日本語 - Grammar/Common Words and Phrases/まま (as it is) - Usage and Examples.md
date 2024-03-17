@@ -1,4 +1,5 @@
 https://jlptsensei.com/learn-japanese-grammar/%E3%81%BE%E3%81%BE-mama-meaning/
+
 ---
 
 | Usage | Examples | Meaning |
