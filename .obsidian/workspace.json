@@ -23,8 +23,12 @@
             "id": "b9e9f2a462a21422",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/愛は薬 －wacci.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/愛は薬 －wacci.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/愛は薬 －wacci.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/愛は薬 －wacci.md"
+              }
             }
           },
           {
@@ -161,6 +169,9 @@
   },
   "active": "b9e9f2a462a21422",
   "lastOpenFiles": [
+    "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/木漏れ日 - セブンウップス (seven oops).md",
+    "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/桜（さくら）- コブクロ.md",
+    "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/愛は薬 －wacci.md",
     "README.md",
     "Attachments/Pasted image 20231121132910.png",
     "Linked Texts] [.md",
@@ -187,8 +198,6 @@
     "IT/IT - Cisco/Cisco CCNA R&S/3. VLANs/3.3. VLAN Configuration.md",
     "IT/IT - Cisco/Cisco CCNA R&S/1. Basic Switch Configuration/1.3 Secure Remote Access.md",
     "IT/IT - Cisco/Cisco CCNA R&S/1. Basic Switch Configuration/1.2 Configure switch ports.md",
-    "IT/IT - Cisco/Cisco CCNA R&S/1. Basic Switch Configuration/1.1 Cisco IOS modes.md",
-    "Dashboard @ Network.md",
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220125182350.png",
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220128100745.png",
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220128100242.png",
