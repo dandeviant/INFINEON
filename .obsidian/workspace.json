@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語 - Grammar/ひらがなとカタカナ.md",
-                "mode": "source",
+                "file": "日本語 - Grammar/Writing Sentences/Conjugate Verbs.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語 - Grammar/ひらがなとカタカナ.md",
+                "file": "日本語 - Grammar/Writing Sentences/Conjugate Verbs.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語 - Grammar/ひらがなとカタカナ.md",
+                "file": "日本語 - Grammar/Writing Sentences/Conjugate Verbs.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本語 - Grammar/ひらがなとカタカナ.md"
+                "file": "日本語 - Grammar/Writing Sentences/Conjugate Verbs.md"
               }
             }
           },
@@ -156,6 +156,8 @@
   },
   "active": "21efcf9937631c45",
   "lastOpenFiles": [
+    "日本語 - Grammar/ひらがなとカタカナ.md",
+    "日本語 - Grammar/Writing Sentences/Conjugate Verbs.md",
     "日本語 - Grammar/Writing Sentences/文はどうやって書くんですか？- Questions.md",
     "日本語 - Grammar/Writing Sentences/Instructions - How to write.md",
     "日本語 - Grammar/Writing Sentences/Compound Sentence and Conjunctions.md",
@@ -171,7 +173,6 @@
     "日本語 - Vocabulary/日常（にちじょう）/おいしいそぉ！- Food and meals.md",
     "日本語 - Vocabulary/Nature/Geography.md",
     "日本語 - Vocabulary/Nature/Directions and Motions.md",
-    "日本語 - Grammar/ひらがなとカタカナ.md",
     "日本語 - Vocabulary/People/Verbs in Daily lives.md",
     "日本語 - Vocabulary/People/幸せなら毛をたたこう - Humans and Emotions.md",
     "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/ヒロイン - バックナンバー.md",
@@ -181,7 +182,6 @@
     "IT/IT - Linux/Remote Connection/Secure Shell (SSH).md",
     "IT/IT - Linux/Remote Connection/Secure Shell (SSH) Pubic Key Authentication.md",
     "IT/how to linux.md",
-    "IT/File and Directory Management.md",
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220125182350.png",
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220128100745.png",
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220128100242.png",
