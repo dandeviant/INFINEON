@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JLPT Practices/JLPT.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JLPT Practices/JLPT.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JLPT Practices/JLPT.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JLPT Practices/JLPT.md"
+                "file": "README.md"
               }
             }
           },
@@ -157,9 +157,9 @@
   },
   "active": "1db3d2f89c7b3725",
   "lastOpenFiles": [
+    "JLPT Practices/JLPT.md",
     "JLPT Practices/N5",
     "日本語  @ Grammar.md",
-    "JLPT Practices/JLPT.md",
     "JLPT Practices",
     "Books and Ebook/Genki Textbook I.pdf",
     "日本語 - Grammar/Reading Kanji and sentences/Untitled.md",
@@ -202,7 +202,6 @@
     "IT/IT - Cisco/Cisco CCNA R&S/15. IP Static Routing/4. Configure Floating Static Routes",
     "IT/IT - Cisco/Cisco CCNA R&S/15. IP Static Routing/3. Configure IP Default Static Routes",
     "IT/IT - Cisco/Cisco CCNA R&S/15. IP Static Routing/1. Configure IP Static Routes",
-    "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)",
     "Untitled.canvas"
   ]
 }
