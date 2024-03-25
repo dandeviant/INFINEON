@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語 - 文法/Writing Sentences/Basic Sentences.md",
+                "file": "日本語 - Vocabulary/Numbers and stuffs/一二三 GO! - Numbers.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語 - 文法/Writing Sentences/Basic Sentences.md",
+                "file": "日本語 - Vocabulary/Numbers and stuffs/一二三 GO! - Numbers.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語 - 文法/Writing Sentences/Basic Sentences.md",
+                "file": "日本語 - Vocabulary/Numbers and stuffs/一二三 GO! - Numbers.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本語 - 文法/Writing Sentences/Basic Sentences.md"
+                "file": "日本語 - Vocabulary/Numbers and stuffs/一二三 GO! - Numbers.md"
               }
             }
           },
@@ -157,8 +157,10 @@
   },
   "active": "f55216f2e39f2265",
   "lastOpenFiles": [
-    "日本語 - 文法/Writing Sentences/Tenses and Word Forms.md",
     "日本語 - 文法/Writing Sentences/Basic Sentences.md",
+    "日本語 - 文法/Writing Sentences/文はどうやって書くんですか？- Questions.md",
+    "日本語 - 文法/Writing Sentences/Tenses and Word Forms.md",
+    "日本語  @ 文法（ぶんぽう）.md",
     "日本語 - 文法/Writing Sentences/Particles.md",
     "日本語 - 文法/Writing Sentences/Instructions - How to write.md",
     "日本語 - 文法/Writing Sentences/Conjunctions.md",
@@ -166,7 +168,6 @@
     "日本語 - 文法/Writing Sentences/Compound Sentence and Conjunctions.md",
     "日本語 - 文法/Common Words and Phrases/お前と俺は- Pronouns.md",
     "JLPT Practices/JLPT - Index.md",
-    "日本語  @ Grammar.md",
     "README.md",
     "JLPT Practices/N5",
     "JLPT Practices",
@@ -179,7 +180,6 @@
     "日本語 - 文法/Common Words and Phrases/まま (as it is) - Usage and Examples.md",
     "日本語 @ Vocabulary.md",
     "日本語 - 文法/ひらがなとカタカナ.md",
-    "日本語 - 文法/Writing Sentences/文はどうやって書くんですか？- Questions.md",
     "日本語 - Grammar/Writing Sentences/Compound Sentence.md",
     "日本語 - Vocabulary/Numbers and stuffs/日付、曜日と時 - Date, days and time.md",
     "Test Link.md",
