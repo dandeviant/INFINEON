@@ -11,11 +11,9 @@
             "id": "ca33e562d0ae4771",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "日本語 - Grammar/Reading Kanji and sentences/Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "Books and Ebook/Genki Textbook II.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語 - Grammar/Reading Kanji and sentences/Untitled.md",
+                "file": "Books and Ebook/Genki Textbook II.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語 - Grammar/Reading Kanji and sentences/Untitled.md",
+                "file": "Books and Ebook/Genki Textbook II.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本語 - Grammar/Reading Kanji and sentences/Untitled.md"
+                "file": "Books and Ebook/Genki Textbook II.pdf"
               }
             }
           },
@@ -155,10 +153,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ca33e562d0ae4771",
+  "active": "0c3e306f7d54c63f",
   "lastOpenFiles": [
-    "日本語 - Grammar/Common Words and Phrases/くれる、あげる、むらう.md",
+    "Books and Ebook/Genki Textbook I.pdf",
     "日本語 - Grammar/Reading Kanji and sentences/Untitled.md",
+    "Books and Ebook/Genki Textbook II.pdf",
+    "Books and Ebook",
+    "New folder",
+    "日本語 - Grammar/Common Words and Phrases/くれる、あげる、むらう.md",
     "日本語 - Grammar/Common Words and Phrases/お前と俺は- Pronouns.md",
     "日本語 - Grammar/Common Words and Phrases/まま (as it is) - Usage and Examples.md",
     "日本語  @ Grammar.md",
@@ -182,7 +184,6 @@
     "日本語 - Vocabulary/People/Verbs in Daily lives.md",
     "日本語 - Vocabulary/People/幸せなら毛をたたこう - Humans and Emotions.md",
     "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/ヒロイン - バックナンバー.md",
-    "IT/IT - Linux/Diagrams.md",
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220125182350.png",
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220128100745.png",
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220128100242.png",
@@ -199,10 +200,6 @@
     "IT/IT - Cisco/Cisco CCNA R&S/15. IP Static Routing/1. Configure IP Static Routes",
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)",
     "IT/IT - Cisco/Cisco CCNA R&S/7. DHCPv4",
-    "IT/IT - Cisco/Cisco CCNA R&S/3. VLANs",
-    "IT/IT - Cisco/Cisco CCNA R&S/8. SLAAC and DHCPv6",
-    "IT/IT - Cisco/Cisco CCNA R&S/6. EtherChannel",
-    "IT/IT - Cisco/Cisco CCNA R&S/13. WLAN Configuration",
     "Untitled.canvas"
   ]
 }
