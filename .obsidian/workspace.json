@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "12a6863411f87426",
+        "id": "3c82d76d204a548b",
         "type": "tabs",
         "children": [
           {
-            "id": "c115bab4ce27d2a7",
+            "id": "ca33e562d0ae4771",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語  @ Grammar.md",
-                "mode": "preview",
+                "file": "日本語 - Grammar/Common Words and Phrases/くれる、あげる、むらう.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語  @ Grammar.md",
+                "file": "日本語 - Grammar/Common Words and Phrases/くれる、あげる、むらう.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語  @ Grammar.md",
+                "file": "日本語 - Grammar/Common Words and Phrases/くれる、あげる、むらう.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本語  @ Grammar.md"
+                "file": "日本語 - Grammar/Common Words and Phrases/くれる、あげる、むらう.md"
               }
             }
           },
@@ -155,10 +155,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c115bab4ce27d2a7",
+  "active": "ca33e562d0ae4771",
   "lastOpenFiles": [
-    "日本語 @ Vocabulary.md",
+    "日本語 - Grammar/Common Words and Phrases/お前と俺は- Pronouns.md",
+    "日本語 - Grammar/Common Words and Phrases/くれる、あげる、むらう.md",
+    "日本語 - Grammar/Common Words and Phrases/まま (as it is) - Usage and Examples.md",
     "日本語  @ Grammar.md",
+    "日本語 @ Vocabulary.md",
     "README.md",
     "日本語 - Grammar/Writing Sentences/Conjugate Verbs.md",
     "日本語 - Grammar/ひらがなとカタカナ.md",
@@ -168,7 +171,6 @@
     "日本語 - Grammar/Writing Sentences/Conjunctions.md",
     "日本語 - Grammar/Writing Sentences/Particles.md",
     "日本語 - Grammar/Writing Sentences/Tenses and Word Forms.md",
-    "日本語 - Grammar/Common Words and Phrases/まま (as it is) - Usage and Examples.md",
     "日本語 - Grammar/Writing Sentences/Compound Sentence.md",
     "日本語 - Vocabulary/Numbers and stuffs/日付、曜日と時 - Date, days and time.md",
     "Test Link.md",
@@ -181,8 +183,6 @@
     "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/ヒロイン - バックナンバー.md",
     "IT/IT - Linux/Diagrams.md",
     "IT/IT - Linux/User Management/Linux User, Groups Management.md",
-    "IT/IT - Linux/Remote Connection/Secure Copy Protocol.md",
-    "IT/IT - Linux/Remote Connection/Secure Shell (SSH).md",
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220125182350.png",
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220128100745.png",
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220128100242.png",
