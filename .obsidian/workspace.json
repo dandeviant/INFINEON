@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "73981529f723b757",
+        "id": "fbc8a95d1a5a707a",
         "type": "tabs",
         "children": [
           {
-            "id": "f55216f2e39f2265",
+            "id": "d1b98f15ab575055",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語 - Vocabulary/Numbers and stuffs/一二三 GO! - Numbers.md",
+                "file": "日本語  @ 文法（ぶんぽう）.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語 - Vocabulary/Numbers and stuffs/一二三 GO! - Numbers.md",
+                "file": "日本語  @ 文法（ぶんぽう）.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語 - Vocabulary/Numbers and stuffs/一二三 GO! - Numbers.md",
+                "file": "日本語  @ 文法（ぶんぽう）.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本語 - Vocabulary/Numbers and stuffs/一二三 GO! - Numbers.md"
+                "file": "日本語  @ 文法（ぶんぽう）.md"
               }
             }
           },
@@ -155,20 +155,24 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f55216f2e39f2265",
+  "active": "d1b98f15ab575055",
   "lastOpenFiles": [
+    "日本語  @ Grammar.md",
+    "日本語  @ 文法（ぶんぽう）.md",
+    "日本語 @ Vocabulary.md",
+    "日本語 - 文法/Common Words and Phrases/お前と俺は- Pronouns.md",
+    "日本語 - Vocabulary/Numbers and stuffs/日付、曜日と時 - Date, days and time.md",
+    "日本語 - Vocabulary/People/Occupations.md",
     "Untitled.md",
     "日本語 - Vocabulary/Numbers and stuffs/一二三 GO! - Numbers.md",
     "日本語 - 文法/Writing Sentences/Basic Sentences.md",
     "日本語 - 文法/Writing Sentences/文はどうやって書くんですか？- Questions.md",
     "日本語 - 文法/Writing Sentences/Tenses and Word Forms.md",
-    "日本語  @ 文法（ぶんぽう）.md",
     "日本語 - 文法/Writing Sentences/Particles.md",
     "日本語 - 文法/Writing Sentences/Instructions - How to write.md",
     "日本語 - 文法/Writing Sentences/Conjunctions.md",
     "日本語 - 文法/Writing Sentences/Conjugate Verbs.md",
     "日本語 - 文法/Writing Sentences/Compound Sentence and Conjunctions.md",
-    "日本語 - 文法/Common Words and Phrases/お前と俺は- Pronouns.md",
     "JLPT Practices/JLPT - Index.md",
     "README.md",
     "JLPT Practices/N5",
@@ -180,15 +184,11 @@
     "New folder",
     "日本語 - 文法/Common Words and Phrases/くれる、あげる、むらう.md",
     "日本語 - 文法/Common Words and Phrases/まま (as it is) - Usage and Examples.md",
-    "日本語 @ Vocabulary.md",
     "日本語 - 文法/ひらがなとカタカナ.md",
     "日本語 - Grammar/Writing Sentences/Compound Sentence.md",
-    "日本語 - Vocabulary/Numbers and stuffs/日付、曜日と時 - Date, days and time.md",
     "Test Link.md",
     "日本語 - Vocabulary/カラオケタイム (曲の歌詞)/センチメートル - セブンウップ (seven oops).md",
     "日本語 - Vocabulary/日常（にちじょう）/おいしいそぉ！- Food and meals.md",
-    "日本語 - Vocabulary/Nature/Geography.md",
-    "日本語 - Vocabulary/Nature/Directions and Motions.md",
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220125182350.png",
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220128100745.png",
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220128100242.png",
