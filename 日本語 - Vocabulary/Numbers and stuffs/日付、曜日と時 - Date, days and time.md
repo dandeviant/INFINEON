@@ -7,6 +7,8 @@
 3. [[#Tell Days and Dates]]
 	1. [[#Terms for Dates]]
 4. [[#Time/Day reference]]
+
+https://www.tofugu.com/japanese/japanese-counter-ji-jikan/
 ---
 
 

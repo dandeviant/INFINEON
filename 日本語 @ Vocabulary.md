@@ -17,10 +17,7 @@ tags: []
 - [[日付、曜日と時 - Date, days and time]]
 - [[おいしいそぉ！- Food and meals]]
 
-
 ---
-
-
 
 - カラオケタイム‼
 	- [[黄色 - バックナンバー (back number)]]
