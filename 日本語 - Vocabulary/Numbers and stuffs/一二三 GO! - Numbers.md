@@ -12,8 +12,8 @@ https://jref.com/articles/decimals-and-fractions-in-japanese.351/
 >お前たち : You (plural)\
 >先生たち : Teachers
 
-> [!NOTE]- FRACTIONS
-> Fractions (ぶんすう "bun**sû**" in Japanese) are not so commonly used in East Asia as in the West, but it's good to learn how to read them in Japanese here because it's easy. 
+> [!NOTE]- 小数と分数
+> Fractions (分数 / ぶんすう "bun**sû**" in Japanese) are not so commonly used in East Asia as in the West, but it's good to learn how to read them in Japanese here because it's easy. 
 > 
 > Read the denominator first, then add the suffix ぶんの "bunno", and read the numerator.
 > 
