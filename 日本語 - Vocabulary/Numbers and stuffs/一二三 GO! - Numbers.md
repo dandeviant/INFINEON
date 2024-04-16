@@ -1,5 +1,7 @@
 https://www.japanesepod101.com/blog/2019/10/24/japanese-numbers/
 
+https://jref.com/articles/decimals-and-fractions-in-japanese.351/
+
 ---
 
 >[! ]- 達（たち）
