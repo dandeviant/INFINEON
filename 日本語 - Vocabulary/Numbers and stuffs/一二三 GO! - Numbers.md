@@ -1,6 +1,6 @@
 https://www.japanesepod101.com/blog/2019/10/24/japanese-numbers/
 
-https://jref.com/articles/decimals-and-fractions-in-japanese.351/
+
 
 ---
 
@@ -13,7 +13,16 @@ https://jref.com/articles/decimals-and-fractions-in-japanese.351/
 >先生たち : Teachers
 
 > [!NOTE]- 小数と分数
-> Fractions (分数 / ぶんすう "bun**sû**" in Japanese) are not so commonly used in East Asia as in the West, but it's good to learn how to read them in Japanese here because it's easy. 
+> https://jref.com/articles/decimals-and-fractions-in-japanese.351/
+> ---
+> #### 小数（しょうすう）
+> The way to read decimals (しょうすう "syô**sû**") in Japanese is similar to English. 
+> The decimal delimiter in Japanese is a period (not [Japanese period](https://jref.com/articles/punctuation.347/) but European period). To read decimals in 
+> Japanese, read the integer part first. 
+> Then say てん "ten", which is the Japanese word for _point_, and say plain digit names after that. Omitting zero before a decimal point is not allowed in Japanese.
+> 
+> #### 分数（ぶんすう）
+> Fractions (ぶんす in Japanese) are not so commonly used in East Asia as in the West, but it's good to learn how to read them in Japanese here because it's easy. 
 > 
 > Read the denominator first, then add the suffix ぶんの "bunno", and read the numerator.
 > 
