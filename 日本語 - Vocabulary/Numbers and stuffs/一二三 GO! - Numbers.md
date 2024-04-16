@@ -12,6 +12,15 @@ https://jref.com/articles/decimals-and-fractions-in-japanese.351/
 >お前たち : You (plural)\
 >先生たち : Teachers
 
+> [!NOTE]- FRACTIONS
+> Fractions (ぶんすう "bun**sû**" in Japanese) are not so commonly used in East Asia as in the West, but it's good to learn how to read them in Japanese here because it's easy. 
+> 
+> Read the denominator first, then add the suffix ぶんの "bunno", and read the numerator.
+> 
+> In short, _y_ ぶんの _x_ means _x_/_y_. ぶん "**bu**n" means _divide_, and の "no" is [the genitive marker](https://jref.com/articles/counters.350/). 
+> 
+> For instance, 2/3 is read さんぶんのに "sanbunno ni".
+
 #### Positioning
 |  |  |  |
 | ---- | ---- | ---- |
