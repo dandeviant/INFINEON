@@ -34,4 +34,23 @@
 > 
 > - どこへ行きたいのですか。
 > - あなたが悪いのだ。
-> - 
+
+
+>[!NOTE]- ような / ように
+> https://jlptsensei.com/learn-japanese-grammar/%E3%82%88%E3%81%86%E3%81%AB-%E3%82%88%E3%81%86%E3%81%AA-you-ni-na-meaning/
+> ---
+> ように / ような (you ni / you na) is used to say things like:
+> 
+> - just like
+> - just as
+> - similar to something else
+>
+> Example:
+> 
+> 1. 犬のように働いている。
+> 2. その二人は燃えるような愛がありますね。
+> 3. 彼は家族のためだけに生きていたように思える。
+
+
+
+
