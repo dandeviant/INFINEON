@@ -35,7 +35,6 @@
 > - どこへ行きたいのですか。
 > - あなたが悪いのだ。
 
-
 >[!NOTE]- ような / ように
 > https://jlptsensei.com/learn-japanese-grammar/%E3%82%88%E3%81%86%E3%81%AB-%E3%82%88%E3%81%86%E3%81%AA-you-ni-na-meaning/
 > ---
@@ -51,6 +50,10 @@
 > 2. その二人は燃えるような愛がありますね。
 > 3. 彼は家族のためだけに生きていたように思える。
 
+> [! ]- ところ
+> https://jlptsensei.com/learn-japanese-grammar/%E3%81%A8%E3%81%93%E3%82%8D-tokoro-meaning/
+> ---
+> dsds
 
 
 

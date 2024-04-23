@@ -4,27 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f53a6bee99986579",
+        "id": "99d31f81cecddaf0",
         "type": "tabs",
         "children": [
           {
-            "id": "1f999a1edc313ed5",
+            "id": "20a5ce4ac1eb5b82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語 - Vocabulary/Nature/Directions and Motions.md",
-                "mode": "source",
+                "file": "日本語 - 文法/Common Words and Phrases/Common Words.md",
+                "mode": "preview",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "af1f2ca77db65808",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -93,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語 - Vocabulary/Nature/Directions and Motions.md",
+                "file": "日本語 - 文法/Common Words and Phrases/Common Words.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語 - Vocabulary/Nature/Directions and Motions.md",
+                "file": "日本語 - 文法/Common Words and Phrases/Common Words.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本語 - Vocabulary/Nature/Directions and Motions.md"
+                "file": "日本語 - 文法/Common Words and Phrases/Common Words.md"
               }
             }
           },
@@ -163,10 +155,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1f999a1edc313ed5",
+  "active": "20a5ce4ac1eb5b82",
   "lastOpenFiles": [
-    "日本語 - 文法/Common Words and Phrases/Common Words.md",
     "日本語  @ 文法（ぶんぽう）.md",
+    "日本語 - 文法/Common Words and Phrases/Common Words.md",
     "日本語 @ Vocabulary.md",
     "日本語 - 文法/Common Words and Phrases/何言ってんですか？ - Questions and Answers.md",
     "日本語 - 文法/Common Words and Phrases/まま (as it is) - Usage and Examples.md",
