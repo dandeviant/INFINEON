@@ -1,6 +1,9 @@
 
 ---
 
+> [!NOTE]- まま
+
+
 > [!NOTE]- んですか、んだ、のです、のだ
 > https://jlptsensei.com/learn-japanese-grammar/%E3%82%93%E3%81%A7%E3%81%99-ndesu-%E3%82%93%E3%81%A0-nda-meaning/#examples
 > ---
