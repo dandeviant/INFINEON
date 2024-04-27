@@ -59,4 +59,16 @@
 > https://japanese.stackexchange.com/questions/73839/what-is-the-grammar-behind-%E3%82%82%E3%81%AA%E3%81%91%E3%82%8C%E3%81%B0-%E3%81%AA%E3%81%91%E3%82%8C%E3%81%B0
 > 
 
+> [! ]- くれて
+> https://japanese.stackexchange.com/questions/14715/%E3%81%8F%E3%82%8C%E3%81%A6-what-is-the-meaning-and-how-do-people-use-it
+> ---
+> 「{来|き}てくれてありがとう。」 
+> 
+> > "Thanks for coming!"
+>
+> 「君きみがここにいてくれて{嬉|うれ}しい。」
+>  
+> > "I am happy that you are here (for me)."
+
+
 
