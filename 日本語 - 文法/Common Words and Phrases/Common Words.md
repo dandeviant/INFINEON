@@ -70,5 +70,3 @@
 >  
 > > "I am happy that you are here (for me)."
 
-
-さ
