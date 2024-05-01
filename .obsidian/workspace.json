@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "27ebf49d8352e664",
+        "id": "f735c036579191b0",
         "type": "tabs",
         "children": [
           {
-            "id": "ed129ab949690a05",
+            "id": "da7d9de765e3617e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語 - 文法/Common Words and Phrases/くれる、あげる、むらう.md",
+                "file": "カラオケタイム (曲の歌詞)/さらり－スネオヘアー.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語 - 文法/Common Words and Phrases/くれる、あげる、むらう.md",
+                "file": "カラオケタイム (曲の歌詞)/さらり－スネオヘアー.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語 - 文法/Common Words and Phrases/くれる、あげる、むらう.md",
+                "file": "カラオケタイム (曲の歌詞)/さらり－スネオヘアー.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本語 - 文法/Common Words and Phrases/くれる、あげる、むらう.md"
+                "file": "カラオケタイム (曲の歌詞)/さらり－スネオヘアー.md"
               }
             }
           },
@@ -155,17 +155,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed129ab949690a05",
+  "active": "da7d9de765e3617e",
   "lastOpenFiles": [
+    "カラオケタイム (曲の歌詞)/木漏れ日 - セブンウップス (seven oops).md",
+    "カラオケタイム (曲の歌詞)/さらり－スネオヘアー.md",
+    "カラオケタイム (曲の歌詞)/恋色.md",
+    "カラオケタイム (曲の歌詞)/恋 - バックナンバー (back number).md",
+    "日本語  @ 文法（ぶんぽう）.md",
     "日本語 - 文法/Common Words and Phrases/まま (as it is) - Usage and Examples.md",
     "日本語 - 文法/Common Words and Phrases/何言ってんですか？ - Questions and Answers.md",
     "日本語 - 文法/Common Words and Phrases/Common Words.md",
     "日本語 - 文法/Common Words and Phrases/お前と俺は- Pronouns.md",
-    "カラオケタイム (曲の歌詞)/恋色.md",
-    "日本語  @ 文法（ぶんぽう）.md",
     "日本語 - 文法/Writing Sentences/Conditionals.md",
-    "カラオケタイム (曲の歌詞)/木漏れ日 - セブンウップス (seven oops).md",
-    "カラオケタイム (曲の歌詞)/恋 - バックナンバー (back number).md",
     "カラオケタイム (曲の歌詞)/ヒロイン - バックナンバー.md",
     "カラオケタイム (曲の歌詞)/センチメートル - セブンウップ (seven oops).md",
     "カラオケタイム (曲の歌詞)",
@@ -187,7 +188,6 @@
     "日本語 - 文法/Reading Kanji and sentences",
     "日本語 - 文法/Common Words and Phrases",
     "日本語 - 文法",
-    "Untitled.md",
     "JLPT-ish Practices",
     "Books and Ebook",
     "Attachments/Pasted image 20231121132910.png",
