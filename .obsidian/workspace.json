@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f735c036579191b0",
+        "id": "1c8faf119605d351",
         "type": "tabs",
         "children": [
           {
-            "id": "da7d9de765e3617e",
+            "id": "da99dc9ba7de8150",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "カラオケタイム (曲の歌詞)/さらり－スネオヘアー.md",
-                "mode": "preview",
+                "file": "カラオケタイム (曲の歌詞)/シャボン－スネオヘアー.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "カラオケタイム (曲の歌詞)/さらり－スネオヘアー.md",
+                "file": "カラオケタイム (曲の歌詞)/シャボン－スネオヘアー.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "カラオケタイム (曲の歌詞)/さらり－スネオヘアー.md",
+                "file": "カラオケタイム (曲の歌詞)/シャボン－スネオヘアー.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "カラオケタイム (曲の歌詞)/さらり－スネオヘアー.md"
+                "file": "カラオケタイム (曲の歌詞)/シャボン－スネオヘアー.md"
               }
             }
           },
@@ -155,14 +155,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da7d9de765e3617e",
+  "active": "da99dc9ba7de8150",
   "lastOpenFiles": [
+    "日本語  @ 文法（ぶんぽう）.md",
+    "カラオケタイム (曲の歌詞)/シャボン－スネオヘアー.md",
     "さらり－スネオヘアー.pdf",
     "カラオケタイム (曲の歌詞)/木漏れ日 - セブンウップス (seven oops).md",
     "カラオケタイム (曲の歌詞)/さらり－スネオヘアー.md",
     "カラオケタイム (曲の歌詞)/恋色.md",
     "カラオケタイム (曲の歌詞)/恋 - バックナンバー (back number).md",
-    "日本語  @ 文法（ぶんぽう）.md",
     "日本語 - 文法/Common Words and Phrases/まま (as it is) - Usage and Examples.md",
     "日本語 - 文法/Common Words and Phrases/何言ってんですか？ - Questions and Answers.md",
     "日本語 - 文法/Common Words and Phrases/Common Words.md",
@@ -202,7 +203,6 @@
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220125182253.png",
     "IT/IT - Cisco/Cisco CCNA R&S/8. SLAAC and DHCPv6/4. Configure DHCPv6 Server",
     "IT/IT - Cisco/Cisco CCNA R&S/15. IP Static Routing/4. Configure Floating Static Routes",
-    "IT/IT - Cisco/Cisco CCNA R&S/15. IP Static Routing/3. Configure IP Default Static Routes",
     "Untitled.canvas"
   ]
 }
