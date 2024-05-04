@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1c8faf119605d351",
+        "id": "1a6ca25ce8bbbce0",
         "type": "tabs",
         "children": [
           {
-            "id": "da99dc9ba7de8150",
+            "id": "e95e9b63db934907",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "カラオケタイム (曲の歌詞)/シャボン－スネオヘアー.md",
+                "file": "カラオケタイム (曲の歌詞)/slow dance－スネオヘアー.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "カラオケタイム (曲の歌詞)/シャボン－スネオヘアー.md",
+                "file": "カラオケタイム (曲の歌詞)/slow dance－スネオヘアー.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "カラオケタイム (曲の歌詞)/シャボン－スネオヘアー.md",
+                "file": "カラオケタイム (曲の歌詞)/slow dance－スネオヘアー.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "カラオケタイム (曲の歌詞)/シャボン－スネオヘアー.md"
+                "file": "カラオケタイム (曲の歌詞)/slow dance－スネオヘアー.md"
               }
             }
           },
@@ -155,11 +155,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da99dc9ba7de8150",
+  "active": "e95e9b63db934907",
   "lastOpenFiles": [
-    "カラオケタイム (曲の歌詞)/さらり－スネオヘアー.md",
     "カラオケタイム (曲の歌詞)/シャボン－スネオヘアー.md",
+    "カラオケタイム (曲の歌詞)/slow dance－スネオヘアー.md",
     "conflict-files-obsidian-git.md",
+    "カラオケタイム (曲の歌詞)/さらり－スネオヘアー.md",
     "日本語  @ 文法（ぶんぽう）.md",
     "さらり－スネオヘアー.pdf",
     "カラオケタイム (曲の歌詞)/木漏れ日 - セブンウップス (seven oops).md",
@@ -184,7 +185,6 @@
     "日本語 - 文法/Writing Sentences/Compound Sentence and Conjunctions.md",
     "日本語 - 文法/Writing Sentences/Basic Sentences.md",
     "日本語 - 文法/Reading Kanji and sentences/Untitled.md",
-    "日本語 - 文法/Reading Kanji and sentences/Kunyomi and Onyomi - How to read Kanji.md",
     "日本語 - 文法/Writing Sentences",
     "日本語 - 文法/Reading Kanji and sentences",
     "日本語 - 文法/Common Words and Phrases",
