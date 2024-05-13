@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "09165eef7e5a5a6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "カラオケタイム (曲の歌詞)/シャボン－スネオヘアー.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "カラオケタイム (曲の歌詞)/シャボン－スネオヘアー.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "カラオケタイム (曲の歌詞)/シャボン－スネオヘアー.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -155,15 +168,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "bbb4a4f971c5ee49",
+  "active": "09165eef7e5a5a6c",
   "lastOpenFiles": [
+    "カラオケタイム (曲の歌詞)/シャボン－スネオヘアー.md",
+    "conflict-files-obsidian-git.md",
     "カラオケタイム (曲の歌詞)/さらり－スネオヘアー.md",
     "カラオケタイム (曲の歌詞)/slow dance－スネオヘアー.md",
     "日本語  @ 文法（ぶんぽう）.md",
     "カラオケタイム (曲の歌詞)/ヒロイン - バックナンバー.md",
     "slow dance－スネオヘアー.pdf",
     "カラオケタイム (曲の歌詞)/センチメートル - セブンウップ (seven oops).md",
-    "カラオケタイム (曲の歌詞)/シャボン－スネオヘアー.md",
     "さらり－スネオヘアー.pdf",
     "カラオケタイム (曲の歌詞)/恋色.md",
     "カラオケタイム (曲の歌詞)/桜（さくら）- コブクロ.md",
@@ -185,7 +199,6 @@
     "日本語 - Vocabulary/日常（にちじょう）/おいしいそぉ！- Food and meals.md",
     "Books and Ebook/Genki Textbook I.pdf",
     "日本語 - Vocabulary/People/Occupations.md",
-    "日本語 - Vocabulary/Numbers and stuffs/一二三 GO! - Numbers.md",
     "JLPT-ish Practices/N5",
     "JLPT-ish Practices",
     "Books and Ebook/Genki Textbook II.pdf",
