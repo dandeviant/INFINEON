@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語 - 文法/Writing Sentences/Verbs - Conditional Form.md",
-                "mode": "source",
+                "file": "日本語 - 文法/Writing Sentences/Verbs - Tenses and Word Forms.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語 - 文法/Writing Sentences/Verbs - Conditional Form.md",
+                "file": "日本語 - 文法/Writing Sentences/Verbs - Tenses and Word Forms.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語 - 文法/Writing Sentences/Verbs - Conditional Form.md",
+                "file": "日本語 - 文法/Writing Sentences/Verbs - Tenses and Word Forms.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本語 - 文法/Writing Sentences/Verbs - Conditional Form.md"
+                "file": "日本語 - 文法/Writing Sentences/Verbs - Tenses and Word Forms.md"
               }
             }
           },
@@ -157,8 +157,10 @@
   },
   "active": "f2eb0e8a16816738",
   "lastOpenFiles": [
-    "Furigana Sample.md",
+    "日本語 - 文法/Writing Sentences/Verbs - Conditionals.md",
+    "日本語 - 文法/Writing Sentences/Verbs - Conjugate Verbs.md",
     "日本語 - 文法/Writing Sentences/Verbs - Conditional Form.md",
+    "Furigana Sample.md",
     "日本語  @ 文法（ぶんぽう）.md",
     "カラオケタイム (曲の歌詞)/シャボン－スネオヘアー.md",
     "conflict-files-obsidian-git.md",
@@ -171,7 +173,6 @@
     "カラオケタイム (曲の歌詞)/恋色.md",
     "カラオケタイム (曲の歌詞)/桜（さくら）- コブクロ.md",
     "日本語 - 文法/Common Words and Phrases/Common Words.md",
-    "日本語 - 文法/Writing Sentences/Conditionals.md",
     "日本語 - 文法/Reading Kanji and sentences/Untitled.md",
     "日本語 - 文法/Reading Kanji and sentences/Kunyomi and Onyomi - How to read Kanji.md",
     "日本語 @ Vocabulary.md",
@@ -184,7 +185,6 @@
     "README.md",
     "日本語  @ Grammar.md",
     "JLPT-ish Practices/JLPT - Index.md",
-    "日本語 - Vocabulary/日常（にちじょう）/おいしいそぉ！- Food and meals.md",
     "Books and Ebook/Genki Textbook I.pdf",
     "JLPT-ish Practices/N5",
     "JLPT-ish Practices",
