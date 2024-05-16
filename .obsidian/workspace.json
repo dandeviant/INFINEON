@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d61e5d380f4beeb8",
+        "id": "11df8b5c52e1826f",
         "type": "tabs",
         "children": [
           {
-            "id": "87b0afa64de754e9",
+            "id": "f2eb0e8a16816738",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語  @ 文法（ぶんぽう）.md",
+                "file": "日本語 - 文法/Writing Sentences/Verbs - Conditional Form.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語  @ 文法（ぶんぽう）.md",
+                "file": "日本語 - 文法/Writing Sentences/Verbs - Conditional Form.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語  @ 文法（ぶんぽう）.md",
+                "file": "日本語 - 文法/Writing Sentences/Verbs - Conditional Form.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本語  @ 文法（ぶんぽう）.md"
+                "file": "日本語 - 文法/Writing Sentences/Verbs - Conditional Form.md"
               }
             }
           },
@@ -155,13 +155,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "87b0afa64de754e9",
+  "active": "f2eb0e8a16816738",
   "lastOpenFiles": [
+    "Furigana Sample.md",
+    "日本語 - 文法/Writing Sentences/Verbs - Conditional Form.md",
+    "日本語  @ 文法（ぶんぽう）.md",
     "カラオケタイム (曲の歌詞)/シャボン－スネオヘアー.md",
     "conflict-files-obsidian-git.md",
     "カラオケタイム (曲の歌詞)/さらり－スネオヘアー.md",
     "カラオケタイム (曲の歌詞)/slow dance－スネオヘアー.md",
-    "日本語  @ 文法（ぶんぽう）.md",
     "カラオケタイム (曲の歌詞)/ヒロイン - バックナンバー.md",
     "slow dance－スネオヘアー.pdf",
     "カラオケタイム (曲の歌詞)/センチメートル - セブンウップ (seven oops).md",
@@ -178,14 +180,12 @@
     "日本語 - 文法/Common Words and Phrases/くれる、あげる、むらう.md",
     "日本語 - 文法/Common Words and Phrases/お前と俺は- Pronouns.md",
     "日本語 - Vocabulary/Numbers and stuffs/日付、曜日と時 - Date, days and time.md",
-    "Furigana Sample.md",
     "Untitled.md",
     "README.md",
     "日本語  @ Grammar.md",
     "JLPT-ish Practices/JLPT - Index.md",
     "日本語 - Vocabulary/日常（にちじょう）/おいしいそぉ！- Food and meals.md",
     "Books and Ebook/Genki Textbook I.pdf",
-    "日本語 - Vocabulary/People/Occupations.md",
     "JLPT-ish Practices/N5",
     "JLPT-ish Practices",
     "Books and Ebook/Genki Textbook II.pdf",
