@@ -11,6 +11,8 @@
 	3. Markdown Furigana 
 - #### CSS Snippets (Settings --> Appearance --> CSS Snippets)
 	1. Dashboard++ CSS
+- #### Extras
+	1. Git LFS (Large File Storage)
 
 
 
