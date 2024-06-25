@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "643947cca19b7ceb",
+        "id": "8cf74af7d1f973f3",
         "type": "tabs",
         "children": [
           {
-            "id": "b141cdae79851e4a",
+            "id": "8a1a128598d19a42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語 - 文法/Common Words and Phrases/Common Words.md",
+                "file": "日本語  @ 文法（ぶんぽう）.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語 - 文法/Common Words and Phrases/Common Words.md",
+                "file": "日本語  @ 文法（ぶんぽう）.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語 - 文法/Common Words and Phrases/Common Words.md",
+                "file": "日本語  @ 文法（ぶんぽう）.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本語 - 文法/Common Words and Phrases/Common Words.md"
+                "file": "日本語  @ 文法（ぶんぽう）.md"
               }
             }
           },
@@ -155,26 +155,26 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b141cdae79851e4a",
+  "active": "12cf276997f9ba21",
   "lastOpenFiles": [
-    "日本語  @ 文法（ぶんぽう）.md",
-    "README.md",
-    "日本語 - 文法/Common Words and Phrases/ことがある.md",
-    "日本語 - 文法/Common Words and Phrases/Common Words.md",
-    "日本語 - 文法/Writing Sentences/Verbs - Conditionals.md",
+    "日本語 - 文法/Writing Sentences/Verbs - Tenses and Word Forms.md",
     "日本語 - 文法/Writing Sentences/Verbs - Conjugate Verbs.md",
+    "日本語 - 文法/Writing Sentences/Verbs - Conditionals.md",
     "日本語 - 文法/Writing Sentences/Verbs - Conditional Form.md",
-    "Furigana Sample.md",
-    "カラオケタイム (曲の歌詞)/シャボン－スネオヘアー.md",
-    "conflict-files-obsidian-git.md",
-    "カラオケタイム (曲の歌詞)/さらり－スネオヘアー.md",
-    "カラオケタイム (曲の歌詞)/slow dance－スネオヘアー.md",
-    "カラオケタイム (曲の歌詞)/ヒロイン - バックナンバー.md",
-    "slow dance－スネオヘアー.pdf",
+    "日本語 - 文法/Common Words and Phrases/ことがある.md",
+    "Books and Ebook/Genki Textbook II.pdf",
     "カラオケタイム (曲の歌詞)/センチメートル - セブンウップ (seven oops).md",
+    "日本語 - 文法/Writing Sentences/Tenses and Word Forms.md",
+    "日本語  @ 文法（ぶんぽう）.md",
+    "カラオケタイム (曲の歌詞)/シャボン－スネオヘアー.md",
+    "カラオケタイム (曲の歌詞)/さらり－スネオヘアー.md",
+    "slow dance－スネオヘアー.pdf",
+    "カラオケタイム (曲の歌詞)/slow dance－スネオヘアー.md",
     "さらり－スネオヘアー.pdf",
     "カラオケタイム (曲の歌詞)/恋色.md",
     "カラオケタイム (曲の歌詞)/桜（さくら）- コブクロ.md",
+    "日本語 - 文法/Common Words and Phrases/Common Words.md",
+    "日本語 - 文法/Writing Sentences/Conditionals.md",
     "日本語 - 文法/Reading Kanji and sentences/Untitled.md",
     "日本語 - 文法/Reading Kanji and sentences/Kunyomi and Onyomi - How to read Kanji.md",
     "日本語 @ Vocabulary.md",
@@ -183,12 +183,12 @@
     "日本語 - 文法/Common Words and Phrases/くれる、あげる、むらう.md",
     "日本語 - 文法/Common Words and Phrases/お前と俺は- Pronouns.md",
     "日本語 - Vocabulary/Numbers and stuffs/日付、曜日と時 - Date, days and time.md",
+    "Furigana Sample.md",
     "Untitled.md",
-    "日本語  @ Grammar.md",
+    "README.md",
     "Books and Ebook/Genki Textbook I.pdf",
     "JLPT-ish Practices/N5",
     "JLPT-ish Practices",
-    "Books and Ebook/Genki Textbook II.pdf",
     "Books and Ebook",
     "New folder",
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220125182350.png",
