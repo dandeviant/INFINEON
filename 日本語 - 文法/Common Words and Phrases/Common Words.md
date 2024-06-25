@@ -83,5 +83,9 @@
 > https://jlptsensei.com/learn-japanese-grammar/%E3%81%9F%E3%82%81%E3%81%AB-tame-ni-meaning/
 >
 > ---
-> dss
+> 日本へ旅行をするために、貯金しています。
+> 
+> > I'm saving money to travel to Japan.
+> 
+> 
 
