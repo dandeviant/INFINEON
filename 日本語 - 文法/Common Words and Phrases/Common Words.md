@@ -1,12 +1,13 @@
 
 ---
 
-> [!NOTE]- まま
+> [!NOTE]- **まま**
 
-
-> [!NOTE]- んですか、んだ、のです、のだ
+> [!NOTE]- **んですか、んだ、のです、のだ**
 > https://jlptsensei.com/learn-japanese-grammar/%E3%82%93%E3%81%A7%E3%81%99-ndesu-%E3%82%93%E3%81%A0-nda-meaning/#examples
+> 
 > ---
+> 
 > Used to explain something or show emphasis
 > 
 > 1. あついです (atsui desu)
@@ -38,8 +39,9 @@
 > - どこへ行きたいのですか。
 > - あなたが悪いのだ。
 
->[!NOTE]- ような / ように
+>[!NOTE]- **ような / ように**
 > https://jlptsensei.com/learn-japanese-grammar/%E3%82%88%E3%81%86%E3%81%AB-%E3%82%88%E3%81%86%E3%81%AA-you-ni-na-meaning/
+>
 > ---
 > ように / ような (you ni / you na) is used to say things like:
 > 
@@ -53,17 +55,21 @@
 > 2. その二人は燃えるような愛がありますね。
 > 3. 彼は家族のためだけに生きていたように思える。
 
-> [! ]- ところ
+> [! ]- **ところ**
 > https://jlptsensei.com/learn-japanese-grammar/%E3%81%A8%E3%81%93%E3%82%8D-tokoro-meaning/
+> 
 > ---
+> 
 > dsds
 
-> [!NOTE]- なければ
+> [!NOTE]- **なければ**
 > https://japanese.stackexchange.com/questions/73839/what-is-the-grammar-behind-%E3%82%82%E3%81%AA%E3%81%91%E3%82%8C%E3%81%B0-%E3%81%AA%E3%81%91%E3%82%8C%E3%81%B0
 > 
 
-> [! ]- くれて
+> [! ]- **くれて**
+> 
 > https://japanese.stackexchange.com/questions/14715/%E3%81%8F%E3%82%8C%E3%81%A6-what-is-the-meaning-and-how-do-people-use-it
+> 
 > ---
 > 「{来|き}てくれてありがとう。」 
 > 
@@ -72,4 +78,8 @@
 > 「君きみがここにいてくれて{嬉|うれ}しい。」
 >  
 > > "I am happy that you are here (for me)."
+
+>[!summary] **ために**
+
+
 
