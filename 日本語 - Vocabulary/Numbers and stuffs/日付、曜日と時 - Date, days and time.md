@@ -32,8 +32,9 @@ https://www.tofugu.com/japanese/japanese-counter-ji-jikan/
 | 朝   | あさ    | morning                      |
 | 早朝  | そうちょう | early morning                |
 | 日の出 | ひので   | sunrise                      |
-| 正午  | しょうご  | noon                         |
-| 日中  | にっちゅう | midday                       |
+| 日中  | にっちゅう | daytime; during the day      |
+| 正午  | しょうご  | noon (more specific)         |
+| 昼   | ひる    | noon; midday; afternoon      |
 | 夕方  | ゆうがた  | early evening                |
 | 日没  | にちぼつ  | sunset                       |
 | 夜   | よる    | evening / night              |
