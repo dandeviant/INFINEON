@@ -1,4 +1,5 @@
 https://www.tofugu.com/japanese-grammar/verb-conjugation-groups/
+https://www.tofugu.com/japanese-grammar/
 
 ---
 
@@ -10,3 +11,40 @@ Types of Verbs:
 - Irregular Verbs
 	- 来る(to come)
 	- する(to do)
+
+
+### Verb Suffixes
+
+> [!summary]- **～たい (wants, desire)**
+> https://www.tofugu.com/japanese-grammar/tai-form/
+>
+> ---
+> 優しい
+
+> [!SUMMARY]- **～される (Causative)**
+> https://www.tofugu.com/japanese-grammar/verb-causative-form-saseru/
+> 
+> ---
+> sasa
+
+> [!SUMMARY]- **～ば (Conditional)**
+> sa
+
+> [!SUMMARY]- **～れる (Potential)**
+> https://www.tofugu.com/japanese-grammar/verb-potential-form-reru/
+> 
+> ---
+> sa
+
+> [!SUMMARY]- **～られる (Passive)**
+> https://www.tofugu.com/japanese-grammar/verb-passive-form-rareru/
+>
+> ---
+> sa
+
+> [!SUMMARY]-  **～よう (Volitional)**
+> https://www.tofugu.com/japanese-grammar/verb-volitional-form-you/
+> 
+> ---
+> sa
+

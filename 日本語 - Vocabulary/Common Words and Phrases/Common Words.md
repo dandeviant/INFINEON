@@ -79,17 +79,18 @@
 >  
 > > "I am happy that you are here (for me)."
 
-> [!summary]- **ために**
+> [!summary]- **ために (for, in order to)**
 > https://jlptsensei.com/learn-japanese-grammar/%E3%81%9F%E3%82%81%E3%81%AB-tame-ni-meaning/
 >
 > ---
 > 日本へ旅行をするために、貯金しています。
 > 
 > > I'm saving money to travel to Japan.
-> 
-> 
 
-> [!summary]- **そう**
+> [!summary]- **そう(looks like (something or someone))**
+> https://www.tofugu.com/japanese-grammar/verb-sou/
+>
+>---
 > なり**ます**　+　そう　=　なり**そう**  
 > 言い**ます**　+　そう　=　言い**そう**  
 > 食べ**ます**　+　そう　=　食べ**そう**  
