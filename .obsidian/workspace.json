@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語 - 文法/Verbs.md",
-                "mode": "preview",
+                "file": "日本語 - Vocabulary/Common Words and Phrases/Common Words.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語 - 文法/Verbs.md",
+                "file": "日本語 - Vocabulary/Common Words and Phrases/Common Words.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語 - 文法/Verbs.md",
+                "file": "日本語 - Vocabulary/Common Words and Phrases/Common Words.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本語 - 文法/Verbs.md"
+                "file": "日本語 - Vocabulary/Common Words and Phrases/Common Words.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "5a7a9267e40f75d3",
   "lastOpenFiles": [
-    "日本語 - 文法/Conjugations.md",
     "日本語 - 文法/Verbs.md",
+    "日本語 - 文法/ひらがなとカタカナ.md",
+    "日本語 - 文法/Conjugations.md",
     "Attachments/Pasted image 20240704094903.png",
     "Attachments/Pasted image 20240704094854.png",
     "日本語 - 文法/Writing Sentences/Conjunctions.md",
@@ -187,7 +188,6 @@
     "カラオケタイム (曲の歌詞)/センチメートル - セブンウップ (seven oops).md",
     "カラオケタイム (曲の歌詞)/恋色.md",
     "カラオケタイム (曲の歌詞)/桜（さくら）- コブクロ.md",
-    "日本語 - 文法/Reading Kanji and sentences/Untitled.md",
     "Books and Ebook/Genki Textbook I.pdf",
     "JLPT-ish Practices/N5",
     "JLPT-ish Practices",
