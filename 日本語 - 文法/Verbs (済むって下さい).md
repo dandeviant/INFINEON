@@ -1,5 +1,5 @@
-https://www.tofugu.com/japanese-grammar/verb-conjugation-groups/
-https://www.tofugu.com/japanese-grammar/
+- https://www.tofugu.com/japanese-grammar/verb-conjugation-groups/ 
+- https://www.tofugu.com/japanese-grammar/
 
 ---
 
@@ -9,7 +9,7 @@ Types of Verbs:
 - Ichidan (～る verbs)
 - Godan disguised as Ichidan
 - Irregular Verbs
-	- 来る(to come)
+	- 来る（くる）(to come)
 	- する(to do)
 
 
