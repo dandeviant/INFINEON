@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語 - 文法/Conjugations.md",
+                "file": "日本語 - 文法/Verbs.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語 - 文法/Conjugations.md",
+                "file": "日本語 - 文法/Verbs.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語 - 文法/Conjugations.md",
+                "file": "日本語 - 文法/Verbs.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本語 - 文法/Conjugations.md"
+                "file": "日本語 - 文法/Verbs.md"
               }
             }
           },
@@ -157,10 +157,11 @@
   },
   "active": "5a7a9267e40f75d3",
   "lastOpenFiles": [
+    "日本語 - 文法/Conjugations.md",
+    "日本語 - 文法/Verbs.md",
     "Attachments/Pasted image 20240704094903.png",
     "Attachments/Pasted image 20240704094854.png",
     "日本語 - 文法/Writing Sentences/Conjunctions.md",
-    "日本語 - 文法/Conjugations.md",
     "日本語  @ 文法（ぶんぽう、Grammar）.md",
     "日本語 - Vocabulary/Common Words and Phrases/Common Words.md",
     "日本語  @ 文法（ぶんぽう）.md",
@@ -200,7 +201,6 @@
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220125215749.png",
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/full-duplex.png",
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220125182253.png",
-    "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220125180704.png",
     "IT/IT - Cisco/Cisco CCNA R&S/8. SLAAC and DHCPv6/4. Configure DHCPv6 Server",
     "IT/IT - Cisco/Cisco CCNA R&S/15. IP Static Routing/4. Configure Floating Static Routes",
     "Untitled.canvas"
