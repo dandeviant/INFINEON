@@ -1,5 +1,7 @@
 
 ---
+![[Pasted image 20240704094903.png]]
+
 > [!summary]- ～ている (continuous)
 > https://www.tofugu.com/japanese-grammar/verb-continuous-form-teiru/
 >
