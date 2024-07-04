@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c9a2bd43c17536d8",
+        "id": "c29fe1d3d009040f",
         "type": "tabs",
         "children": [
           {
-            "id": "5a7a9267e40f75d3",
+            "id": "225c6480a1d029ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語 - 文法/Verbs (済むって下さい).md",
+                "file": "日本語 - 文法/Verbs (済まない).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語 - 文法/Verbs (済むって下さい).md",
+                "file": "日本語 - 文法/Verbs (済まない).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語 - 文法/Verbs (済むって下さい).md",
+                "file": "日本語 - 文法/Verbs (済まない).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本語 - 文法/Verbs (済むって下さい).md"
+                "file": "日本語 - 文法/Verbs (済まない).md"
               }
             }
           },
@@ -155,16 +155,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5a7a9267e40f75d3",
+  "active": "0c3e306f7d54c63f",
   "lastOpenFiles": [
+    "日本語  @ 文法（ぶんぽう、Grammar）.md",
+    "日本語 - 文法/Verbs (済まない).md",
     "日本語 - 文法/Conjugations.md",
-    "日本語 - 文法/Verbs (済むって下さい).md",
     "日本語 - Vocabulary/Common Words and Phrases/Common Words.md",
     "日本語 - 文法/ひらがなとカタカナ.md",
     "Attachments/Pasted image 20240704094903.png",
     "Attachments/Pasted image 20240704094854.png",
     "日本語 - 文法/Writing Sentences/Conjunctions.md",
-    "日本語  @ 文法（ぶんぽう、Grammar）.md",
     "日本語  @ 文法（ぶんぽう）.md",
     "日本語 - Vocabulary/Common Words and Phrases/てしまう.md",
     "Furigana Sample.md",
