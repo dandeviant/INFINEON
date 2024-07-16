@@ -10,7 +10,6 @@ tags: []
 - ### People
 	- Schools
 	- Occupations
-	
 - [[Media and Internet things]]
 - Adjectives
 - [[一二三 GO! - Numbers]]
