@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4debdb33a557cf43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第1課.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語 @ ダッシュボード.md",
+                "file": "第1課.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語 @ ダッシュボード.md",
+                "file": "第1課.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本語 @ ダッシュボード.md"
+                "file": "第1課.md"
               }
             }
           },
@@ -155,12 +168,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a6b0de3605b1368f",
+  "active": "0c3e306f7d54c63f",
   "lastOpenFiles": [
+    "げんき",
+    "日本語 @ ダッシュボード.md",
+    "第1課.md",
     "Books/Genki - Elementary Japanese II.pdf",
     "Books/Genki I - Integrated Elementary Japanese Course (with bookmarks).pdf",
     "Books/Genki - Elementary Japanese I.pdf",
-    "日本語 @ ダッシュボード.md",
     "Books/Genki II - Integrated Elementary Japanese Course (with bookmarks).pdf",
     "Books/Remembering The Kana - Part 1+ 2 - Hiragana + Katakana.pdf",
     "Books",
@@ -170,7 +185,7 @@
     "Books and Ebook/Genki - Elementary Japanese I.pdf",
     "日本語 @ Vocabulary.md",
     "日本語  @ 文法（ぶんぽう、Grammar）.md",
-    "名前を呼ぶよ ‐ ラックライフ.md",
+    "カラオケタイム (曲の歌詞)/名前を呼ぶよ ‐ ラックライフ.md",
     "ひらがなとカタカナ.md",
     "Attachments/happy-lilac-stroke-order.jpg",
     "カラオケタイム (曲の歌詞)/さらり－スネオヘアー.md",
@@ -188,14 +203,13 @@
     "Attachments/te-shimau-chau-____-___-jlpt-n4-grammar-meaning-__-__-japanese-flashcards-600x338.webp",
     "README.md",
     "conflict-files-obsidian-git.md",
-    "日本語 - Vocabulary/Numbers and stuffs/日付、曜日と時 - Date, days and time.md",
+    "日本語 - Vocabulary/すうじ (Numbers)/日付、曜日と時 - Date, days and time.md",
     "日本語 - Vocabulary/Common Words and Phrases/ことがある.md",
     "日本語 - 文法/Writing Sentences/Verbs - Conditionals.md",
     "日本語 - 文法/Writing Sentences/Verbs - Conjugate Verbs.md",
     "日本語 - 文法/Writing Sentences/Verbs - Conditional Form.md",
     "カラオケタイム (曲の歌詞)/シャボン－スネオヘアー.md",
     "カラオケタイム (曲の歌詞)/ヒロイン - バックナンバー.md",
-    "カラオケタイム (曲の歌詞)/センチメートル - セブンウップ (seven oops).md",
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220125182350.png",
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220128100745.png",
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220128100242.png",
