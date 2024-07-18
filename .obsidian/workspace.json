@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4b99fb1830b73f1e",
+        "id": "b7acb64101ed439e",
         "type": "tabs",
         "children": [
           {
-            "id": "123d9b6c5874b9a0",
+            "id": "1b3b71550bebe5ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語 @ ダッシュボード.md",
+                "file": "げんき １ － 第1課.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語 @ ダッシュボード.md",
+                "file": "げんき １ － 第1課.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語 @ ダッシュボード.md",
+                "file": "げんき １ － 第1課.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本語 @ ダッシュボード.md"
+                "file": "げんき １ － 第1課.md"
               }
             }
           },
@@ -155,13 +155,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "123d9b6c5874b9a0",
+  "active": "1b3b71550bebe5ac",
   "lastOpenFiles": [
+    "日本語 @ ダッシュボード.md",
+    "日本語 @ Vocabulary.md",
+    "日本語  @ 文法（ぶんぽう、Grammar）.md",
+    "ひらがなとカタカナ.md",
     "日本語 - Vocabulary/すうじ (Numbers)/一二三 GO! - Numbers.md",
     "日本語 - Vocabulary/すうじ (Numbers)/Money and bills.md",
-    "第1課.md",
+    "げんき １ － 第1課.md",
     "げんき",
-    "日本語 @ ダッシュボード.md",
     "Books/Genki - Elementary Japanese II.pdf",
     "Books/Genki I - Integrated Elementary Japanese Course (with bookmarks).pdf",
     "Books/Genki - Elementary Japanese I.pdf",
@@ -171,10 +174,7 @@
     "Books and Ebook/Genki I - Integrated Elementary Japanese Course (with bookmarks).pdf",
     "Books and Ebook/Genki II - Integrated Elementary Japanese Course (with bookmarks).pdf",
     "Books and Ebook/Genki - Elementary Japanese II.pdf",
-    "日本語 @ Vocabulary.md",
-    "日本語  @ 文法（ぶんぽう、Grammar）.md",
     "カラオケタイム (曲の歌詞)/名前を呼ぶよ ‐ ラックライフ.md",
-    "ひらがなとカタカナ.md",
     "Attachments/happy-lilac-stroke-order.jpg",
     "カラオケタイム (曲の歌詞)/さらり－スネオヘアー.md",
     "カラオケタイム (曲の歌詞)/slow dance－スネオヘアー.md",
