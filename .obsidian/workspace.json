@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "47eae31b9c6eac3f",
+        "id": "6d2ecd3b83d7b559",
         "type": "tabs",
         "children": [
           {
-            "id": "0851241579265899",
+            "id": "df1212d8460dbf77",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "げんき/げんき １ － 第１課.md",
-                "mode": "source",
-                "source": false
+                "file": "Books/Genki - Elementary Japanese I.pdf"
               }
             }
           }
@@ -48,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "happy-li",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5
+    "width": 284.5
   },
   "right": {
     "id": "ae7d11b7469d2cbc",
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "げんき/げんき １ － 第１課.md",
+                "file": "Books/Genki - Elementary Japanese I.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "げんき/げんき １ － 第１課.md",
+                "file": "Books/Genki - Elementary Japanese I.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "げんき/げんき １ － 第１課.md"
+                "file": "Books/Genki - Elementary Japanese I.pdf"
               }
             }
           },
@@ -155,48 +153,48 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0c3e306f7d54c63f",
+  "active": "df1212d8460dbf77",
   "lastOpenFiles": [
-    "日本語 - Vocabulary/すうじ (Numbers)/一二三 GO! - Numbers.md",
-    "日本語 @ ダッシュボード.md",
-    "日本語 @ Vocabulary.md",
     "げんき/げんき １ － 第１課.md",
-    "日本語  @ 文法（ぶんぽう、Grammar）.md",
-    "ひらがなとカタカナ.md",
-    "日本語 - Vocabulary/すうじ (Numbers)/Money and bills.md",
+    "日本語 @ ダッシュボード.md",
     "げんき",
-    "Books/Genki - Elementary Japanese II.pdf",
     "Books/Genki I - Integrated Elementary Japanese Course (with bookmarks).pdf",
-    "Books/Genki - Elementary Japanese I.pdf",
     "Books/Genki II - Integrated Elementary Japanese Course (with bookmarks).pdf",
     "Books/Remembering The Kana - Part 1+ 2 - Hiragana + Katakana.pdf",
-    "Books",
-    "Books and Ebook/Genki I - Integrated Elementary Japanese Course (with bookmarks).pdf",
-    "Books and Ebook/Genki II - Integrated Elementary Japanese Course (with bookmarks).pdf",
-    "Books and Ebook/Genki - Elementary Japanese II.pdf",
-    "カラオケタイム (曲の歌詞)/名前を呼ぶよ ‐ ラックライフ.md",
-    "Attachments/happy-lilac-stroke-order.jpg",
-    "カラオケタイム (曲の歌詞)/さらり－スネオヘアー.md",
-    "カラオケタイム (曲の歌詞)/slow dance－スネオヘアー.md",
+    "日本語  @ 文法（ぶんぽう）.md",
     "日本語 - 文法/Verbs (済まない).md",
-    "日本語 - 文法/Conjugations.md",
     "日本語 - 文法/Particles.md",
+    "日本語 - 文法/Conjugations.md",
+    "日本語 - Vocabulary/すうじ (Numbers)/日付、曜日と時 - Date, days and time.md",
+    "日本語 - Vocabulary/すうじ (Numbers)/一二三 GO! - Numbers.md",
+    "日本語 - Vocabulary/すうじ (Numbers)/Money and bills.md",
+    "日本語 - Vocabulary/すうじ (Numbers)",
+    "日本語 - Vocabulary/Common Words and Phrases/何言ってんですか？ - Questions and Answers.md",
+    "日本語 - Vocabulary/Common Words and Phrases/まま (as it is) - Usage and Examples.md",
+    "日本語 - Vocabulary/Common Words and Phrases/てしまう.md",
+    "日本語 - Vocabulary/Common Words and Phrases/ことがある.md",
+    "日本語 - Vocabulary/Common Words and Phrases/くれる、あげる、むらう.md",
+    "日本語 - Vocabulary/Common Words and Phrases/お前と俺は- Pronouns.md",
     "日本語 - Vocabulary/Common Words and Phrases/Common Words.md",
+    "日本語 - Vocabulary/Common Words and Phrases",
+    "日本語  @ 文法（ぶんぽう、Grammar）.md",
+    "カラオケタイム (曲の歌詞)/名前を呼ぶよ ‐ ラックライフ.md",
+    "ひらがなとカタカナ.md",
+    "げんき １ － 第1課.md",
+    "Books/Genki - Elementary Japanese II.pdf",
+    "Books/Genki - Elementary Japanese I.pdf",
+    "Books",
+    "Attachments/te-shimau-chau-____-___-jlpt-n4-grammar-meaning-__-__-japanese-flashcards-600x338.webp",
+    "Attachments/happy-lilac-stroke-order.jpg",
     "Attachments/Pasted image 20240704094903.png",
     "Attachments/Pasted image 20240704094854.png",
-    "日本語 - 文法/Writing Sentences/Conjunctions.md",
-    "日本語  @ 文法（ぶんぽう）.md",
-    "日本語 - Vocabulary/Common Words and Phrases/てしまう.md",
-    "Furigana Sample.md",
-    "Attachments/te-shimau-chau-____-___-jlpt-n4-grammar-meaning-__-__-japanese-flashcards-600x338.webp",
-    "README.md",
-    "conflict-files-obsidian-git.md",
-    "日本語 - Vocabulary/すうじ (Numbers)/日付、曜日と時 - Date, days and time.md",
-    "日本語 - Vocabulary/Common Words and Phrases/ことがある.md",
-    "日本語 - 文法/Writing Sentences/Verbs - Conditionals.md",
+    "日本語 - 文法/Common Words and Phrases/Common Words.md",
+    "日本語 - 文法/Writing Sentences/Verbs - Tenses and Word Forms.md",
     "日本語 - 文法/Writing Sentences/Verbs - Conjugate Verbs.md",
+    "日本語 - 文法/Writing Sentences/Verbs - Conditionals.md",
     "日本語 - 文法/Writing Sentences/Verbs - Conditional Form.md",
-    "カラオケタイム (曲の歌詞)/シャボン－スネオヘアー.md",
+    "日本語 - 文法/Common Words and Phrases/ことがある.md",
+    "Books and Ebook/Genki Textbook II.pdf",
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220125182350.png",
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220128100745.png",
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220128100242.png",
