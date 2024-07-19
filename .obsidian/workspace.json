@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9989ff4384cce279",
+        "id": "47eae31b9c6eac3f",
         "type": "tabs",
         "children": [
           {
-            "id": "e6a20932bbb1a2b4",
+            "id": "0851241579265899",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語 @ Vocabulary.md",
-                "mode": "preview",
+                "file": "げんき/げんき １ － 第１課.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語 @ Vocabulary.md",
+                "file": "げんき/げんき １ － 第１課.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語 @ Vocabulary.md",
+                "file": "げんき/げんき １ － 第１課.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本語 @ Vocabulary.md"
+                "file": "げんき/げんき １ － 第１課.md"
               }
             }
           },
@@ -155,14 +155,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e6a20932bbb1a2b4",
+  "active": "0c3e306f7d54c63f",
   "lastOpenFiles": [
+    "日本語 - Vocabulary/すうじ (Numbers)/一二三 GO! - Numbers.md",
     "日本語 @ ダッシュボード.md",
-    "げんき １ － 第1課.md",
     "日本語 @ Vocabulary.md",
+    "げんき/げんき １ － 第１課.md",
     "日本語  @ 文法（ぶんぽう、Grammar）.md",
     "ひらがなとカタカナ.md",
-    "日本語 - Vocabulary/すうじ (Numbers)/一二三 GO! - Numbers.md",
     "日本語 - Vocabulary/すうじ (Numbers)/Money and bills.md",
     "げんき",
     "Books/Genki - Elementary Japanese II.pdf",
