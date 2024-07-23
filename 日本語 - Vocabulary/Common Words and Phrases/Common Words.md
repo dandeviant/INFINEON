@@ -97,7 +97,7 @@
 > し**ます**　+　そう　=　し**そう**  
 > 来き**ます**　+　そう　=　 来き**そう**
 
->[!summary]+ **～とき**
+>[!summary]+ **～とき (when...)**
 >
 >https://www.tofugu.com/japanese-grammar/toki/
 
