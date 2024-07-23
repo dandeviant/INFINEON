@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3976848fb0a92f40",
+        "id": "d4753ab3c4692924",
         "type": "tabs",
         "children": [
           {
-            "id": "63e44c478319a9b1",
+            "id": "24274bf5f49126fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語 @ ダッシュボード.md",
+                "file": "げんき/げんき １ － 第１課.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語 @ ダッシュボード.md",
+                "file": "げんき/げんき １ － 第１課.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語 @ ダッシュボード.md",
+                "file": "げんき/げんき １ － 第１課.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本語 @ ダッシュボード.md"
+                "file": "げんき/げんき １ － 第１課.md"
               }
             }
           },
@@ -155,14 +155,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "63e44c478319a9b1",
+  "active": "0c3e306f7d54c63f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "日本語 @ ダッシュボード.md",
+    "日本語  @ 文法（ぶんぽう、Grammar）.md",
+    "conflict-files-obsidian-git.md",
     "げんき/げんき １ － 第１課.md",
     "日本語 - Vocabulary/すうじ (Numbers)/一二三 GO! - Numbers.md",
     "日本語 @ Vocabulary.md",
-    "日本語  @ 文法（ぶんぽう、Grammar）.md",
     "ひらがなとカタカナ.md",
     "日本語 - Vocabulary/すうじ (Numbers)/Money and bills.md",
     "げんき",
