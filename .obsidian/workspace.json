@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "カラオケタイム (曲の歌詞)/さらり－スネオヘアー.md",
+                "file": "カラオケタイム (曲の歌詞)/センチメートル - セブンウップ (seven oops).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5
+    "width": 266.5
   },
   "right": {
     "id": "ae7d11b7469d2cbc",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "カラオケタイム (曲の歌詞)/さらり－スネオヘアー.md",
+                "file": "カラオケタイム (曲の歌詞)/センチメートル - セブンウップ (seven oops).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "カラオケタイム (曲の歌詞)/さらり－スネオヘアー.md",
+                "file": "カラオケタイム (曲の歌詞)/センチメートル - セブンウップ (seven oops).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "カラオケタイム (曲の歌詞)/さらり－スネオヘアー.md"
+                "file": "カラオケタイム (曲の歌詞)/センチメートル - セブンウップ (seven oops).md"
               }
             }
           },
@@ -157,10 +157,12 @@
   },
   "active": "b92a8317787060ef",
   "lastOpenFiles": [
+    "カラオケタイム (曲の歌詞)/スネオヘアー「シャボン」.md",
+    "カラオケタイム (曲の歌詞)/スネオヘアー「slow dance」.md",
+    "カラオケタイム (曲の歌詞)/スネオヘアー「さらり」.md",
     "カラオケタイム (曲の歌詞)/あたらよ 「また夏を追う」.md",
     "日本語 - Vocabulary/Common Words and Phrases/Common Words.md",
     "日本語 @ ダッシュボード.md",
-    "カラオケタイム (曲の歌詞)/スネオヘアー「slow dance」.md",
     "日本語 - 文法/Writing Sentences/Word Forms.md",
     "日本語 - 文法/Writing Sentences/Verbs - Tenses and Word Forms.md",
     "日本語 - 文法/Writing Sentences/文はどうやって書くんですか？- Questions.md",
@@ -185,7 +187,6 @@
     "Books and Ebook/Genki - Elementary Japanese II.pdf",
     "カラオケタイム (曲の歌詞)/名前を呼ぶよ ‐ ラックライフ.md",
     "Attachments/happy-lilac-stroke-order.jpg",
-    "カラオケタイム (曲の歌詞)/さらり－スネオヘアー.md",
     "カラオケタイム (曲の歌詞)/slow dance－スネオヘアー.md",
     "日本語 - 文法/Verbs (済まない).md",
     "日本語 - 文法/Conjugations.md",
@@ -195,7 +196,6 @@
     "日本語 - 文法/Writing Sentences/Conjunctions.md",
     "日本語  @ 文法（ぶんぽう）.md",
     "日本語 - Vocabulary/Common Words and Phrases/てしまう.md",
-    "Furigana Sample.md",
     "Attachments/te-shimau-chau-____-___-jlpt-n4-grammar-meaning-__-__-japanese-flashcards-600x338.webp",
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220125182350.png",
     "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220128100745.png",
