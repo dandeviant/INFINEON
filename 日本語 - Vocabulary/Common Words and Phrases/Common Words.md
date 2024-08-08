@@ -105,7 +105,19 @@
 > https://jlptsensei.com/learn-japanese-grammar/%E3%81%AE%E3%81%AB-noni-meaning-even-though/
 > 
 > ---
-> ![[ている.png]]
+> 
+> ![[Common Words - noni.png]]
+
+
+>[!summary]+ **ている**
+>![[Common Words - te iru.png]]
+> 
+> Example:
+> > 見る \
+> > *to look; to watch*
+> 
+> > 見ている \
+> > *looking; watching; seeing*
 
 
 

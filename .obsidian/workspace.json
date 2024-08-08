@@ -4,27 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a301a9fd101ea337",
+        "id": "08806421f6d2c305",
         "type": "tabs",
         "children": [
           {
-            "id": "85bdaf6ff31b06cf",
+            "id": "9808a1c575c9c21a",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Attachments/te-iru-___-jlpt-n5-grammar-meaning-__-__-japanese-flashcards-600x338.webp"
-              }
-            }
-          },
-          {
-            "id": "0f7d97134fbff121",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Attachments/Pasted image 20240704094903.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachments/te-iru-___-jlpt-n5-grammar-meaning-__-__-japanese-flashcards-600x338.webp",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attachments/te-iru-___-jlpt-n5-grammar-meaning-__-__-japanese-flashcards-600x338.webp",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Attachments/te-iru-___-jlpt-n5-grammar-meaning-__-__-japanese-flashcards-600x338.webp"
-              }
+              "state": {}
             }
           },
           {
@@ -163,17 +147,22 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "85bdaf6ff31b06cf",
+  "active": "12cf276997f9ba21",
   "lastOpenFiles": [
+    "2024-08-08.md",
+    "Attachments/Common Words - te iru.png",
+    "Attachments/Common Words - te iru.webp",
+    "Attachments/Common Words - teshimau,chau.webp",
+    "Attachments/Common Words - noni.png",
     "Attachments/Pasted image 20240704094903.png",
-    "Attachments/comic.png",
-    "Attachments/day reference.png",
-    "Attachments/month days.png",
-    "Attachments/Ichidan.png",
-    "Attachments/te-iru-___-jlpt-n5-grammar-meaning-__-__-japanese-flashcards-600x338.webp",
-    "Attachments/te-shimau-chau-____-___-jlpt-n4-grammar-meaning-__-__-japanese-flashcards-600x338.webp",
-    "Attachments/ている.png",
     "日本語 - Vocabulary/Common Words and Phrases/Common Words.md",
+    "日本語 - Vocabulary/すうじ (Numbers)/日付、曜日と時 - Date, days and time.md",
+    "Attachments/day reference.png",
+    "Attachments/Ichidan.png",
+    "Attachments/month days.png",
+    "Attachments/happy-lilac-stroke-order.jpg",
+    "Books/Genki II - Integrated Elementary Japanese Course (with bookmarks).pdf",
+    "Attachments/comic.png",
     "日本語 @ ダッシュボード.md",
     "カラオケタイム (曲の歌詞)/あたらよ 「また夏を追う」.md",
     "カラオケタイム (曲の歌詞)/スネオヘアー「slow dance」.md",
@@ -196,21 +185,15 @@
     "Books/Genki - Elementary Japanese II.pdf",
     "Books/Genki I - Integrated Elementary Japanese Course (with bookmarks).pdf",
     "Books/Genki - Elementary Japanese I.pdf",
-    "Books/Genki II - Integrated Elementary Japanese Course (with bookmarks).pdf",
     "Books/Remembering The Kana - Part 1+ 2 - Hiragana + Katakana.pdf",
     "Books",
     "Books and Ebook/Genki I - Integrated Elementary Japanese Course (with bookmarks).pdf",
     "Books and Ebook/Genki II - Integrated Elementary Japanese Course (with bookmarks).pdf",
     "Books and Ebook/Genki - Elementary Japanese II.pdf",
     "カラオケタイム (曲の歌詞)/名前を呼ぶよ ‐ ラックライフ.md",
-    "Attachments/happy-lilac-stroke-order.jpg",
     "カラオケタイム (曲の歌詞)/slow dance－スネオヘアー.md",
     "日本語 - 文法/Verbs (済まない).md",
     "日本語 - 文法/Conjugations.md",
-    "日本語 - 文法/Particles.md",
-    "日本語 - 文法/Writing Sentences/Conjunctions.md",
-    "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220125182350.png",
-    "IT/IT - Cisco/Cisco CCNA R&S/Attachments (the Jedi forbid this)/Pasted image 20220128100745.png",
     "Untitled.canvas"
   ]
 }
