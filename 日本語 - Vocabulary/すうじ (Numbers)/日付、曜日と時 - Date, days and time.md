@@ -236,11 +236,11 @@ Example:
 
 
 
-![[Pasted image 20231121132910.png]]
+![[day reference.png]]
 
 
 
 
 
 
-![[Pasted image 20231121132922.png]]
+![[month days.png]]

@@ -61,4 +61,4 @@ Do NOT confuse this negative command with the shortened form of 「～なさい�
 
 
 
-![[Pasted image 20240124165832.png]]
+![[comic.png]]
