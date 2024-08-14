@@ -7,7 +7,7 @@
     "downscalePercent": 74
   },
   "readableLineLength": false,
-  "strictLineBreaks": true,
+  "strictLineBreaks": false,
   "spellcheck": false,
   "livePreview": true,
   "alwaysUpdateLinks": true,
