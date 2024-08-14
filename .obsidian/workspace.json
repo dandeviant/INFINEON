@@ -11,8 +11,12 @@
             "id": "9808a1c575c9c21a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "カラオケタイム (曲の歌詞)/宮脇詩音「また君に会えるの日」.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "カラオケタイム (曲の歌詞)/宮脇詩音「また君に会えるの日」.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "カラオケタイム (曲の歌詞)/宮脇詩音「また君に会えるの日」.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "カラオケタイム (曲の歌詞)/宮脇詩音「また君に会えるの日」.md"
+              }
             }
           },
           {
@@ -147,8 +155,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "12cf276997f9ba21",
+  "active": "9808a1c575c9c21a",
   "lastOpenFiles": [
+    "日本語 @ ダッシュボード.md",
+    "カラオケタイム (曲の歌詞)/宮脇詩音「また君に会えるの日」.md",
     "2024-08-08.md",
     "Attachments/Common Words - te iru.png",
     "Attachments/Common Words - te iru.webp",
@@ -163,7 +173,6 @@
     "Attachments/happy-lilac-stroke-order.jpg",
     "Books/Genki II - Integrated Elementary Japanese Course (with bookmarks).pdf",
     "Attachments/comic.png",
-    "日本語 @ ダッシュボード.md",
     "カラオケタイム (曲の歌詞)/あたらよ 「また夏を追う」.md",
     "カラオケタイム (曲の歌詞)/スネオヘアー「slow dance」.md",
     "カラオケタイム (曲の歌詞)/スネオヘアー「さらり」.md",
