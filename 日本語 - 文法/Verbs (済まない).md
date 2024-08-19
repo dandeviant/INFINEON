@@ -84,6 +84,9 @@ Types of Verbs:
 >[!summary]- **てしまう**
 >![[Common Words - teshimau,chau.webp]]
 
+> [!summary]- **のに**
+> sa
+
 
 
 
