@@ -1,6 +1,6 @@
 
 ---
-![[Pasted image 20240704094903.png]]
+![[taberu verb.png]]
 
 > [!summary]- ～ている (continuous)
 > https://www.tofugu.com/japanese-grammar/verb-continuous-form-teiru/
