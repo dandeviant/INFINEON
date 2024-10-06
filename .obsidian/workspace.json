@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "7135978390959618",
+        "id": "7005ccf6dcb7807f",
         "type": "tabs",
         "children": [
           {
-            "id": "54519c6592a58b98",
+            "id": "b9ce227fcf2b8ed2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "カラオケタイム (曲の歌詞)/修羅「DOES」.md",
-                "mode": "preview",
+                "file": "日本語 @ ダッシュボード.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "842565f15d050322",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retta.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "カラオケタイム (曲の歌詞)/修羅「DOES」.md",
+                "file": "retta.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "カラオケタイム (曲の歌詞)/修羅「DOES」.md",
+                "file": "retta.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "カラオケタイム (曲の歌詞)/修羅「DOES」.md"
+                "file": "retta.md"
               }
             }
           },
@@ -155,9 +168,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "54519c6592a58b98",
+  "active": "12cf276997f9ba21",
   "lastOpenFiles": [
     "日本語 @ ダッシュボード.md",
+    "retta.md",
     "カラオケタイム (曲の歌詞)/修羅「DOES」.md",
     "カラオケタイム (曲の歌詞)/宮脇詩音「また君に会えるの日」.md",
     "カラオケタイム (曲の歌詞)/ラックライフ「名前を呼ぶよ」.md",
@@ -192,7 +206,6 @@
     "日本語 - 文法/Writing Sentences/Verbs - Conjugate Verbs.md",
     "日本語 - 文法/Writing Sentences/Verbs - Conditional Form.md",
     "げんき/げんき １ － 第１課.md",
-    "日本語  @ 文法（ぶんぽう、Grammar）.md",
     "げんき",
     "Books/Genki - Elementary Japanese II.pdf",
     "Books/Genki I - Integrated Elementary Japanese Course (with bookmarks).pdf",
