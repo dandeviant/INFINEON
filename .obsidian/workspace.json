@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7135978390959618",
+        "id": "40a457107c9cfcac",
         "type": "tabs",
         "children": [
           {
-            "id": "54519c6592a58b98",
+            "id": "064281e30fa9af97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "カラオケタイム (曲の歌詞)/修羅「DOES」.md",
+                "file": "日本語 - Vocabulary/Common Words and Phrases/Common Words.md",
                 "mode": "preview",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5
+    "width": 317.5
   },
   "right": {
     "id": "ae7d11b7469d2cbc",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "カラオケタイム (曲の歌詞)/修羅「DOES」.md",
+                "file": "日本語 - Vocabulary/Common Words and Phrases/Common Words.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "カラオケタイム (曲の歌詞)/修羅「DOES」.md",
+                "file": "日本語 - Vocabulary/Common Words and Phrases/Common Words.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "カラオケタイム (曲の歌詞)/修羅「DOES」.md"
+                "file": "日本語 - Vocabulary/Common Words and Phrases/Common Words.md"
               }
             }
           },
@@ -155,49 +155,49 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "54519c6592a58b98",
+  "active": "064281e30fa9af97",
   "lastOpenFiles": [
     "日本語 @ ダッシュボード.md",
     "カラオケタイム (曲の歌詞)/修羅「DOES」.md",
-    "カラオケタイム (曲の歌詞)/宮脇詩音「また君に会えるの日」.md",
-    "カラオケタイム (曲の歌詞)/ラックライフ「名前を呼ぶよ」.md",
+    "日本語 - Vocabulary/Media and Internet things.md",
+    "日本語 @ Vocabulary.md",
     "カラオケタイム (曲の歌詞)/- バックナンバー「ヒロイン 」.md",
+    "カラオケタイム (曲の歌詞)/宮脇詩音「また君に会えるの日」.md",
+    "日本語 - 文法/Verbs (済まない).md",
+    "Attachments/Common Words - noni.png",
+    "日本語 - Vocabulary/Common Words and Phrases/くれる、あげる、むらう.md",
+    "日本語 - Vocabulary/Common Words and Phrases/お前と俺は- Pronouns.md",
+    "日本語 - Vocabulary/Common Words and Phrases/ことがある.md",
+    "日本語 - Vocabulary/Common Words and Phrases/てしまう.md",
+    "Attachments/Common Words - teshimau,chau.webp",
+    "Attachments/Common Words - te iru.png",
+    "日本語 - 文法/Writing Sentences/文はどうやって書くんですか？- Questions.md",
+    "日本語 - 文法/Writing Sentences/Verbs - Tenses and Word Forms.md",
+    "Attachments/Ichidan.png",
+    "Attachments/taberu verb.png",
+    "Attachments/month days.png",
     "Attachments/te-iku-___-jlpt-n4-grammar-meaning-__-__-japanese-flashcards-600x338.webp",
     "Attachments/ga-hoshii-____-jlpt-n5-grammar-meaning-____-japanese-flashcards-1-600x338.webp",
-    "カラオケタイム (曲の歌詞)/セブンウップス「センチメートル 」.md",
-    "カラオケタイム (曲の歌詞)/スネオヘアー「シャボン」.md",
-    "カラオケタイム (曲の歌詞)/スネオヘアー「さらり」.md",
-    "Attachments/month days.png",
-    "Attachments/day reference.png",
-    "Attachments/comic.png",
-    "Attachments/Ichidan.png",
-    "Attachments/Common Words - teshimau,chau.webp",
-    "Attachments/Common Words - te iru.webp",
-    "Attachments/Common Words - te iru.png",
-    "Attachments/Common Words - noni.png",
-    "2024-08-08.md",
-    "日本語 - Vocabulary/Common Words and Phrases/Common Words.md",
+    "日本語 - 文法/Particles.md",
+    "日本語 - 文法/Writing Sentences/Verbs - Conjugate Verbs.md",
+    "日本語 - 文法/Writing Sentences/Verbs - Conditionals.md",
+    "日本語 - 文法/Writing Sentences/Word Forms.md",
+    "日本語 - 文法/Writing Sentences/Verbs - Conditional Form.md",
+    "日本語 - 文法/Writing Sentences/Instructions - How to write.md",
+    "日本語 - 文法/Writing Sentences/Conjunctions.md",
+    "日本語 - 文法/Writing Sentences/Compound Sentence and Conjunctions.md",
+    "日本語 - 文法/Writing Sentences/Basic Sentences.md",
+    "日本語 - 文法/Conjugations.md",
     "カラオケタイム (曲の歌詞)/あたらよ 「また夏を追う」.md",
     "カラオケタイム (曲の歌詞)/スネオヘアー「slow dance」.md",
-    "カラオケタイム (曲の歌詞)/さらり－スネオヘアー.md",
-    "カラオケタイム (曲の歌詞)/シャボン－スネオヘアー.md",
-    "カラオケタイム (曲の歌詞)/センチメートル - セブンウップ (seven oops).md",
-    "カラオケタイム (曲の歌詞)/ヒロイン - バックナンバー.md",
-    "カラオケタイム (曲の歌詞)/名前を呼ぶよ ‐ ラックライフ.md",
-    "カラオケタイム (曲の歌詞)/恋 - バックナンバー (back number).md",
-    "カラオケタイム (曲の歌詞)/恋色.md",
-    "日本語 - 文法/Writing Sentences/Word Forms.md",
-    "日本語 - 文法/Writing Sentences/Verbs - Tenses and Word Forms.md",
-    "日本語 - 文法/Writing Sentences/文はどうやって書くんですか？- Questions.md",
-    "日本語 - 文法/Writing Sentences/Verbs - Conjugate Verbs.md",
-    "日本語 - 文法/Writing Sentences/Verbs - Conditional Form.md",
-    "げんき/げんき １ － 第１課.md",
-    "日本語  @ 文法（ぶんぽう、Grammar）.md",
+    "カラオケタイム (曲の歌詞)/スネオヘアー「さらり」.md",
+    "Attachments/Common Words - te iru.webp",
+    "Attachments/day reference.png",
+    "Books/Genki II - Integrated Elementary Japanese Course (with bookmarks).pdf",
     "げんき",
     "Books/Genki - Elementary Japanese II.pdf",
     "Books/Genki I - Integrated Elementary Japanese Course (with bookmarks).pdf",
     "Books/Genki - Elementary Japanese I.pdf",
-    "Books/Genki II - Integrated Elementary Japanese Course (with bookmarks).pdf",
     "Books/Remembering The Kana - Part 1+ 2 - Hiragana + Katakana.pdf",
     "Books",
     "Books and Ebook/Genki I - Integrated Elementary Japanese Course (with bookmarks).pdf",

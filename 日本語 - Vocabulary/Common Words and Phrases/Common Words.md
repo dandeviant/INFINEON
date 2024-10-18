@@ -62,9 +62,14 @@
 > 
 > dsds
 
-> [!summary]- **なければ**
-> https://japanese.stackexchange.com/questions/73839/what-is-the-grammar-behind-%E3%82%82%E3%81%AA%E3%81%91%E3%82%8C%E3%81%B0-%E3%81%AA%E3%81%91%E3%82%8C%E3%81%B0
+> [!summary]- **い (adjective)＋ければ**
+> [Tofugu - # い-Adjective ければ](https://www.tofugu.com/japanese-grammar/i-adjective-conditional-form-kereba/)
 > 
+> ---
+> - おいし**ければ**、売れるでしょう。
+> 	- If it's delicious, it will sell well.
+> - 売れると思うよ…おいし**ければ**。
+> 	- I think it will sell well… if it’s delicious, that is.
 
 > [!summary]- **くれて**
 > 
